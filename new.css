@@ -117,7 +117,7 @@ display:inline;
 }
 .portfolioblock p {
 	margin:auto;
-color:#4a96ad;
+
 	}
 	
 .portfolioblock img{
@@ -212,12 +212,9 @@ float:left;
 }
 
 /*Text Color*/
-p, ul, a {
+p, ul, h1, a {
 color:#63605C;	
 text-decoration:none;
-}
-h1 {
-color:#4a96ad;
 }
 li, ul {
 list-style-type:none;
@@ -238,7 +235,7 @@ nav .homebutton {
       -moz-box-shadow: 0;
       box-shadow: 0;
       font-size: 0.75em;
-      color:#4a96ad;
+      color:rgba(54,133,199,1.00);
       text-transform: uppercase;
       padding: 5px;
       padding-bottom: 5px;
@@ -249,7 +246,7 @@ nav .homebutton {
 	  list-style-type:none;
     }
     nav .homebutton:hover {
-      background:#4a96ad;
+      background:rgba(53,120,228,1.00);
       color: white;
     }
     nav .homebutton:active {
@@ -261,6 +258,6 @@ nav .homebutton {
 	
 	/*Link*/
 .link:hover {
-      background:#4a96ad;
+      background:rgba(53,120,228,1.00);
       color: white;
 }
