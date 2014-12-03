@@ -1,0 +1,143 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/*Navigation Bar*/
+.navigationbar {
+width:1100px;
+height:auto;
+margin-bottom:10px;
+}
+
+.menucontainer {
+position:relative;
+width:700px;
+right:10px;	
+}
+ul {
+	list-style-type:none;
+}
+nav .button {
+	float:left;
+      border: 0;
+	  
+      background:rgba(200,234,255,1.00);
+      -webkit-box-shadow: 0;
+      -moz-box-shadow: 0;
+      box-shadow: 0;
+      font-size: 0.75em;
+      color:rgba(54,133,199,1.00);
+      text-transform: uppercase;
+      padding: 25px;
+      padding-bottom: 25px;
+      -webkit-box-shadow: 0px 4px 0px #a74d46;
+      -moz-box-shadow: 0px 4px 0px #a74d46;
+      box-shadow: 0px 4px 0px #a74d46;
+	  text-decoration:none;
+	  list-style-type:none;
+	  display:inline-block;
+    }
+    nav .button:hover {
+      background:rgba(53,120,228,1.00);
+      color: white;
+    }
+    nav .button:active {
+      -webkit-box-shadow: 0px 4px 0px #a74d46;
+      -moz-box-shadow: 0px 4px 0px #a74d46;
+      box-shadow: 0px 4px 0px #a74d46;
+      background: rgba(53,120,228,1.00);
+    }              
+            
+			
+
+.page {
+width:900px;
+height:auto;
+margin-bottom:20px;
+}
+
+.selfintro {
+float:left;
+width:650px;
+margin-left:30px;
+height:auto;
+}
+.selfintro p {
+text-align:justify;	
+}
+.selfcontainer {
+width:1100px;
+height:400px;
+}
+
+.contact {
+float:right;
+margin:10px;
+width:300px;
+height:auto;
+}
+
+h1 {
+font-weight: bold;
+position: center;
+margin:10px;
+padding:10px;
+text-align: justify;
+background: #ffffff;
+font-family: 'Open Sans', Arial, sans-serif;
+font-size: 18pt;
+}	
+
+p {
+font-family: 'Open Sans', Arial, sans-serif;
+font-size: 14pt;
+}
+	
+.projectname p {
+margin:0px;
+padding:0px;
+font-family: 'Open Sans', Arial, sans-serif;
+font-size: 14pt;
+}
+	
+	
+#projectname {
+margin:2px;
+font-family: 'Open Sans', Arial, sans-serif;
+font-size: 14pt;
+}
+
+.portfolioblock {
+float:left;
+width:300px;
+height:200px;
+margin:10px;
+}
+.portfolioblock p {
+	margin:auto;
+
+	}
+	
+.portfolioblock img{
+width:300px;
+height:150px;
+filter: url(filters.svg#colorMatrix); /* Firefox 3.5+ */
+filter: gray; /* IE6-9 */
+-webkit-filter: grayscale(1); /* Google Chrome, Safari 6+ & Opera 15+ */
+}
+
+.portfolioblock img:hover {
+    filter: none;
+    -webkit-filter: grayscale(0);
+}
+
+h2 {
+font-weight: bold;
+text-align: center;
+background: #ffffff;
+font-family: 'Open Sans', Arial, sans-serif;
+font-size: 18pt;
+}
+
+.portfoliocontainer {
+margin:30px;	
+}
