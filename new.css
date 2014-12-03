@@ -112,8 +112,8 @@ font-size: 14pt;
 
 .portfolioblock {
 float:left;
-width:300px;
-height:200px;
+width:auto;
+height:auto;
 margin:10px;
 display:inline;
 }
@@ -123,8 +123,6 @@ display:inline;
 	}
 	
 .portfolioblock img{
-width:300px;
-height:150px;
 filter: url(filters.svg#colorMatrix); /* Firefox 3.5+ */
 filter: gray; /* IE6-9 */
 -webkit-filter: grayscale(1); /* Google Chrome, Safari 6+ & Opera 15+ */
@@ -189,7 +187,7 @@ width:100px;
 
 .sideportfolio {
 float:left;
-width:00px;
+width:300px;
 margin-left:20px;	
 }
 
