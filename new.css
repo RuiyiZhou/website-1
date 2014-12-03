@@ -167,6 +167,7 @@ height:70px;
     float:left;
 	margin-left:10px;
 	margin-bottom:10px;
+	padding-right:50px;
 	width: 700px;
     height:auto;
 	background-color: #FFFFFF;
@@ -179,4 +180,12 @@ height:70px;
 
 .home p {
 text-decoration:none;	
+}
+
+.sidemenu {
+width:100px;
+}
+
+.sideportfolio {
+margin-left:20px;	
 }
