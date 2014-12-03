@@ -151,3 +151,32 @@ height:700px;
 .footer {
 height:70px;
 }
+
+
+.container
+{
+	margin: 0px auto;
+	width: 1150px;
+    padding:10px;
+	height:auto;
+}
+
+#content-detail
+{
+	position: center;  
+    float:left;
+	margin-left:10px;
+	margin-bottom:10px;
+	width: 700px;
+    height:auto;
+	background-color: #FFFFFF;
+	}
+
+#content-detail p
+{
+    text-align:justify;
+}
+
+.home p {
+text-decoration:none;	
+}
