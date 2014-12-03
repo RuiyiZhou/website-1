@@ -5,7 +5,7 @@ body {
 background:#F5F3EE;
 margin:0px;
 padding:0px;
-font-family: 'Open Sans', Arial, sans-serif;
+font-family: 'Oswald', sans-serif;
 }
 /*Navigation Bar*/
 .navigationbar {
@@ -89,26 +89,22 @@ position: center;
 margin:10px;
 padding:10px;
 text-align: justify;
-font-family: 'Open Sans', Arial, sans-serif;
 font-size: 18pt;
 }	
 
 p {
-font-family: 'Open Sans', Arial, sans-serif;
 font-size: 14pt;
 }
 	
 .projectname p {
 margin:0px;
 padding:0px;
-font-family: 'Open Sans', Arial, sans-serif;
 font-size: 14pt;
 }
 	
 	
 #projectname {
 margin:2px;
-font-family: 'Open Sans', Arial, sans-serif;
 font-size: 14pt;
 }
 
@@ -138,7 +134,6 @@ filter: gray; /* IE6-9 */
 h2 {
 font-weight: bold;
 text-align: center;
-font-family: 'Open Sans', Arial, sans-serif;
 font-size: 18pt;
 }
 
@@ -153,6 +148,7 @@ height:600px;
 .footer {
 background:#4a96ad;
 height:20px;
+margin-top:10px;
 margin-bottom:0px;
 }
 
@@ -216,7 +212,7 @@ float:left;
 }
 
 /*Text Color*/
-p, ul {
+p, ul, h1, a {
 color:#63605C;	
 text-decoration:none;
 }
@@ -259,3 +255,9 @@ nav .homebutton {
       box-shadow: 0px 4px 0px #a74d46;
       background: rgba(53,120,228,1.00);
     }       
+	
+	/*Link*/
+.link:hover {
+      background:rgba(53,120,228,1.00);
+      color: white;
+}
