@@ -53,9 +53,10 @@ nav .button {
 			
 
 .page {
-width:900px;
-height:auto;
+width:1300px;
+height:1000px;
 margin-bottom:20px;
+display:inline;
 }
 
 .selfintro {
@@ -114,6 +115,7 @@ float:left;
 width:300px;
 height:200px;
 margin:10px;
+display:inline;
 }
 .portfolioblock p {
 	margin:auto;
@@ -157,7 +159,8 @@ height:70px;
 	margin: 0px auto;
 	width: 1150px;
     padding:10px;
-	height:auto;
+	height:1000px;
+	float:left;
 }
 
 #content-detail
@@ -185,6 +188,8 @@ width:100px;
 }
 
 .sideportfolio {
+float:left;
+width:00px;
 margin-left:20px;	
 }
 
@@ -198,4 +203,9 @@ width:140px;
 margin-left:10px;
 margin-right:10px;
 float:left;	
+}
+
+/*Text Color*/
+p {
+color:#63605C;	
 }
