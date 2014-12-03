@@ -140,4 +140,11 @@ font-size: 18pt;
 
 .portfoliocontainer {
 margin:30px;	
+height:700px;
+}
+
+/*footer*/
+
+.footer {
+height:70px;
 }
