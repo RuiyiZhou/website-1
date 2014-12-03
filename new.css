@@ -87,7 +87,6 @@ position: center;
 margin:10px;
 padding:10px;
 text-align: justify;
-background: #ffffff;
 font-family: 'Open Sans', Arial, sans-serif;
 font-size: 18pt;
 }	
@@ -143,15 +142,26 @@ font-size: 18pt;
 
 .portfoliocontainer {
 margin:30px;	
-height:700px;
+width:700px;
+height:600px;
 }
 
 /*footer*/
 
 .footer {
+background:#4a96ad;
 height:70px;
 }
 
+.footer p{
+margin:10px;
+display:block;
+color:#FFFFFF;
+ position: relative;
+  top: 30%;
+  left:30%;
+
+}
 
 .container
 {
@@ -229,8 +239,8 @@ nav .homebutton {
       font-size: 0.75em;
       color:rgba(54,133,199,1.00);
       text-transform: uppercase;
-      padding: 25px;
-      padding-bottom: 25px;
+      padding: 5px;
+      padding-bottom: 5px;
       -webkit-box-shadow: 0px 4px 0px #a74d46;
       -moz-box-shadow: 0px 4px 0px #a74d46;
       box-shadow: 0px 4px 0px #a74d46;
