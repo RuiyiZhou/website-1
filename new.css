@@ -218,6 +218,7 @@ float:left;
 /*Text Color*/
 p, ul {
 color:#63605C;	
+text-decoration:none;
 }
 li, ul {
 list-style-type:none;
