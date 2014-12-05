@@ -43,7 +43,7 @@ nav .button {
 	  display:inline-block;
     }
     nav .button:hover {
-      background:rgba(53,120,228,1.00);
+      background:rgba(54,133,199,1.00);
       color: white;
     }
     nav .button:active {
@@ -63,9 +63,8 @@ display:inline;
 }
 
 .selfintro {
-float:left;
 width:650px;
-margin-left:30px;
+margin:0 auto;
 height:auto;
 }
 .selfintro p {
@@ -90,6 +89,7 @@ margin:10px;
 padding:10px;
 text-align: justify;
 font-size: 18pt;
+
 }	
 
 p {
@@ -138,7 +138,7 @@ font-size: 18pt;
 }
 
 .portfoliocontainer {
-margin:30px;	
+margin:0 auto;	
 width:700px;
 height:600px;
 }
@@ -171,11 +171,11 @@ vertical-align:middle;
 
 #content-detail
 {
-	position: center;  
-    float:left;
-	margin-left:10px;
+    display:inline-block;
+	float:left;
+	margin-left:100px;
 	margin-bottom:10px;
-	padding-right:50px;
+	padding-right:30px;
 	width: 700px;
     height:auto;
 	}
@@ -246,7 +246,7 @@ nav .homebutton {
 	  list-style-type:none;
     }
     nav .homebutton:hover {
-      background:rgba(53,120,228,1.00);
+      background:rgba(54,133,199,1.00);
       color: white;
     }
     nav .homebutton:active {
