@@ -58,24 +58,22 @@ nav .button {
 .page {
 width:1300px;
 height:1000px;
-padding-bottom:20px;
-margin: 0 auto;
+margin-bottom:20px;
+display:inline;
 }
 
 .selfintro {
 float:left;
 width:650px;
-margin:0 auto;
+margin-left:30px;
 height:auto;
 }
-
 .selfintro p {
 text-align:justify;	
 }
 .selfcontainer {
-width:700px;
-height:auto;
-margin:0 auto;
+width:1100px;
+height:400px;
 }
 
 .contact {
@@ -111,10 +109,11 @@ font-size: 14pt;
 }
 
 .portfolioblock {
+float:left;
 width:auto;
 height:auto;
 margin:10px;
-display:inline-block;
+display:inline;
 }
 .portfolioblock p {
 	margin:auto;
@@ -142,7 +141,6 @@ font-size: 18pt;
 margin:0 auto;	
 width:700px;
 height:600px;
-display:block;
 }
 
 /*footer*/
