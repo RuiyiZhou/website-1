@@ -121,9 +121,9 @@ display:inline;
 	}
 	
 .portfolioblock img{
-filter: url(filters.svg#colorMatrix); /* Firefox 3.5+ */
+/*filter: url(filters.svg#colorMatrix);  Firefox 3.5+ */
 filter: gray; /* IE6-9 */
--webkit-filter: grayscale(1); /* Google Chrome, Safari 6+ & Opera 15+ */
+-webkit-filter: grayscale(0.5); /* Google Chrome, Safari 6+ & Opera 15+ */
 }
 
 .portfolioblock img:hover {
@@ -212,7 +212,7 @@ float:left;
 }
 
 /*Text Color*/
-p, ul, h1, a {
+p, ul, h1, h2, h3, a {
 color:#63605C;	
 text-decoration:none;
 }
