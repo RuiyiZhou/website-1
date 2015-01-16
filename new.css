@@ -5,18 +5,19 @@ body {
 background:#F5F3EE;
 margin:0px;
 padding:0px;
-font-family: 'Oswald', sans-serif;
+font-family: '
+', sans-serif;
 }
 /*Navigation Bar*/
 .navigationbar {
-width:1100px;
+max-width:1100px;
 height:auto;
 margin-bottom:10px;
 }
 
 .menucontainer {
 position:relative;
-width:700px;
+max-width:700px;
 right:10px;	
 }
 ul {
@@ -56,14 +57,14 @@ nav .button {
 			
 
 .page {
-width:1300px;
+max-width:1300px;
 height:1000px;
 margin-bottom:20px;
 display:inline;
 }
 
 .selfintro {
-width:650px;
+max-width:650px;
 margin:0 auto;
 height:auto;
 }
@@ -71,14 +72,14 @@ height:auto;
 text-align:justify;	
 }
 .selfcontainer {
-width:1100px;
+max-width:1100px;
 height:400px;
 }
 
 .contact {
 float:right;
 margin:10px;
-width:300px;
+max-width:300px;
 height:auto;
 }
 
@@ -139,7 +140,7 @@ font-size: 18pt;
 
 .portfoliocontainer {
 margin:0 auto;	
-width:700px;
+max-width:700px;
 height:600px;
 }
 
@@ -163,7 +164,7 @@ vertical-align:middle;
 .container
 {
 	margin: 0px auto;
-	width: 1150px;
+	max-width: 1150px;
     padding:10px;
 	height:auto;
 	float:left;
@@ -176,7 +177,7 @@ vertical-align:middle;
 	margin-left:100px;
 	margin-bottom:10px;
 	padding-right:30px;
-	width: 700px;
+	max-width: 700px;
     height:auto;
 	}
 
