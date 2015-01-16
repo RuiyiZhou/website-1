@@ -5,8 +5,7 @@ body {
 background:#F5F3EE;
 margin:0px;
 padding:0px;
-font-family: '
-', sans-serif;
+font-family: 'Open Sans', sans-serif;
 }
 /*Navigation Bar*/
 .navigationbar {
@@ -112,7 +111,7 @@ font-size: 14pt;
 
 .portfolioblock {
 float:left;
-width:auto;
+max-width:300px;
 height:auto;
 margin:10px;
 display:inline;
@@ -162,7 +161,7 @@ vertical-align:middle;
 
 }
 
-.container
+/*.container
 {
 	margin: 0px auto;
 	max-width: 1150px;
@@ -170,13 +169,14 @@ vertical-align:middle;
 	height:auto;
 	float:left;
 }
+*/
 
 #content-detail
 {
 float:left;
 
 	margin:0 auto;
-	padding-right:30px;
+	padding:10px;
 	max-width: 700px;
     height:auto;
 	}
@@ -196,8 +196,9 @@ width:100px;
 
 .sideportfolio {
 float:left;
-width:300px;
-margin-left:20px;	
+max-width:300px;
+margin:0 auto;	
+padding: 10px;
 }
 
 /*projectsummary*/
