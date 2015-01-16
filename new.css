@@ -66,6 +66,7 @@ display:inline;
 .selfintro {
 max-width:650px;
 margin:0 auto;
+padding: 5px;
 height:auto;
 }
 .selfintro p {
