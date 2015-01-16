@@ -174,8 +174,8 @@ vertical-align:middle;
 #content-detail
 {
 
-	float:left;
-	margin-bottom:10px;
+
+	margin:0 auto;
 	padding-right:30px;
 	max-width: 700px;
     height:auto;
