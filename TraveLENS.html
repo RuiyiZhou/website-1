@@ -30,82 +30,62 @@
       <nav>
         <p><a  class="homebutton"  href="index.html">Home</a></p>
         </nav>
-      <h2>TraveLENS</h2>
-      <p><em>Note: Teamwork</em></p>
-
-<h3>Team Role:</h3>
+       			<h2><img src="images/travelens_title.png"  style='width: 100%;' border="0" alt="Null" /></h2>
+<h3><span class="emphasis">Support inquiry into factors underlying global tourist travel.</span></h3>
+<h3>Team Role</h3>
 <ul>Interaction Designer</ul>
-<h3>Duration:</h3>
-<ul>September 2014 - Present</ul>
-<h3>Design Goal:</h3>
-<ul>
-  <li>Support inquiry into factors underlying global tourist travel.</li>
-  </ul>
-<h3>My Contributions:</h3>
-<ul>
-  <li>Interaction Design</li>
-  <li>Usability Testing</li>
-  <li>Data Cleaning</li>
+<h3>Duration</h3>
+<ul>September 2014 - December 2014</ul>
+
+<h1><ul>
+<a href="Final_Presentation_TraveLENS.pdf" class="button">
+  <span>Final Presentation</span>
+</a>
+<a href="Resources/TraveLens_Group1_final3.pdf" class="button">
+  <span>Final Paper</span>
+</a>
 </ul>
-<h3>Final Presentation:</h3>
-<ul><a class="link" href="Final_Presentation_TraveLENS.pdf">Download</a></ul>
-<h3>Final Paper:</h3>
-<ul><a class="link" href="Resources/TraveLens_Group1_final3.pdf">Download</a></ul>
+</h1>
 
-<h3>Project Description:</h3>
+<hr color="#C6C6C6">
+<h3 class="sectiontitle">Project Description</h3>
 <p>TraveLENS is an interactive visualization tool that equips potential travellers with data and information across a wide range of risk factors that could influence in their decision-making process. The word ‘lens’ in the name is a metaphor for the main concept behind the tool. It is designed to let the users see and explore the world through different categories of lenses depending on their tasks and goals, and the visualization is designed to adapt and morph to fit the requirements of each category and to present that category’s information in the most effective and expressive way. For example, the Health lens visualizes vaccination requirements or food safety recommendations for travellers. Because the data is mostly relational in nature and less quantitative, we visualize the correlation with lines and arcs between entities. Another example would be the Safety lens where we visualize crime rates using choropleth, trend lines, or histograms. Similar to how you can combine multiple lenses and filters to create different views, the users of TraveLENS might combine multiple lenses to see correlations between various data sets. This concept of ‘lens’ is also a powerful reminder for us to focus on the visuals--the presentation and the perception of data--rather than the raw data itself.</p>
- 			<h2><img src="images/TraveLENS_Main.png"  style='width:100%;' border="0" alt="Null"/></h2>
-  </div>
-<div class="sideportfolio">
+ 			<h2><img src="images/travelens_main.png"  style='width:100%;' border="0" alt="Null"/></h2>
 
-<div class="portfolioblock">
-<img src="images/img_TraveLENS.png" width="200" height="100" alt="" />
-      <p align=center id="side">TraveLENS</p>
-     <a href="TraveLENS.html"></a>
-</div>
+<h3 class="sectiontitle">Design Process</h3>
+<h3>Stage 1</h3>
+<p>
+    We began investigating data sets in health, traveler safety, weather and climate, and visa/documentation categories. These included Centers for Disease Control health warnings, country visa requirements compiled by other researchers (see References), U.S. State Department per diem allowances and cost of living estimates, and Pew Research survey data concerning attitudes concerning gender equality, religion, and LGBT issues as they pertained to travelers.
+</p>
+<h2><img src="images/travelens_designprocess_1.png"  style='width:100%;' border="0" alt="Null"/></h2>
+<p>This was the first prototype we built according to the ideas from ideation. It used the choropleth as the main part, supplemented by the bar chart on the right which showed the ranking of the countries worldwide in the selected indicator, the circular bar chart (used the lens metaphor) that showed the scores of all the indicators of the selected country which would popped up when clicking on a specific country, and a comparison zone into which users could drag countries to compare them across all the indicators in bar charts. Aside from choropleth, the bar chart also played a crucial role in this version of prototype.</p>
+<h3>Stage 2</h3>
+<h2><img src="images/travelens_designprocess_2.png"  style='width:100%;' border="0" alt="Null"/></h2>
+<p>We revised our prototype by removing some mocked-up interactions for drag-and-drop country comparison and replacing the circular bar chart with parallel coordinates in a separate dashboard. We also experimented with radar charts to represent subcategory measures that made up the fourteen aggregates.</p>
+<h3>Stage 3</h3>
+<h2><img src="images/travelens_designprocess_3.png"  style='width:100%;' border="0" alt="Null"/></h2>
+<p>In the third version of design, we moved the parallel coordinates from the second tab to the main tab, in order to offer more insights using brushing and linking, and we added the scatterplot using the selected category as the x axis, the international tourism arrival as the y axis, and the area encoded the GDP/capita. On the bottom right, we added the comparison zone, the categories users chose would show up here and users could get a new tab comparing these categories.</p>
 
-<div class="portfolioblock">
-<img src="images/img_SmartPonics.png" width="200" height="100" alt="" />
-      <p align=center id="side">SmartPonics</p>
-     <a href="SmartPonics.html"></a>
-</div>
+<h3 class="sectiontitle">User Research and Key Findings</h3>
+<h3>Stage 1</h3>
+<p>User research at stage 1 was twofold: we used a survey to investigate which indicators describing destination countries were more important to users, and we used an HTML prototype created in Axure to gauge user reaction to the overall design goals of country comparison across aggregate rankings as well as the interaction design. </p>
 
-<div class="portfolioblock" id="forum">
-<img  src="images/img_forum.png" width="200" height="100" alt="" />
-<p align=center id="side">QQ Browser Forum Design</p>
-      <a href="forum_design.html"></a>
-</div>
+<p>Users indicated that they were less influenced than we had expected by concerns about cultural differences in choosing a destination country.  They indicated that climate and weather information, concerns about crime and physical safety, health problems/disease, and the perceived political stability of their travel destinations were stronger influences in their travel planning.  More significantly, users had difficulty comparing different dimensions in the circular bar chart.  They were confused by the visual proximity of aggregate dimensions that had no statistical relationship, and they (understandably) wanted to see what measures underlay the aggregates. Some users pointed out that the key indicators (for them) were missing, and wanted others.  One reviewer also recommended a simpler design goal: create a visualization that simply helped users discover travel information and make travel decisions quickly, rather than investigate their decision-making.</p>
 
-<div class="portfolioblock">
-<img src="images/img_us.jpg" width="200" height="100" alt="" />
-<p align=center id="side">Usability Study of QQ Browser</p>
-	  <a href="usability_study.html"></a>
-</div>
+<h3>Stage 2</h3>
+<p>At stage 2, We used the revised prototype for two semi-structured interviews.  Our users were engaged by the overall project idea, but pointed out that their travel decisions were highly individual and situational.  They valued city and regional information, and they wanted indicators that they perceived as predictive, whereas the data categories we visualized were abstract and descriptive.  Our users remained interested in exploring a wide range of indicators about their travel destinations, but they didn’t confirm that the data we visualized influenced their actual travel planning. They wanted to see more general country information such as language, currency, and time zone, and they needed more supporting context before understanding how to use the parallel coordinates.</p>
 
-<div class="portfolioblock">
-<img src="images/img_bookmark.png" width="200" height="100" alt="" />
-<p align=center id="side">Bookmark Redesign</p>
-	  <a href="bookmark_redesign.html"></a>
-</div>
+<h3>Stage 3</h3>
+<p>At stage 3, we conducted two rounds of task-based interviews with users and did some heuristic usability assessment. We confirmed that users understood the main idea of the tool, could explore the data categories, and could perform at least some discovery tasks. 
+<ul><li>We found that users needed help recognizing subordination in the data (distinguishing topic categories and their scores from the subcategory measures).  </li>
+<li>We needed to clarify units of measure on all parallel coordinate axes, and provide detailed descriptions of subcategory measures.  </li>
+<li>Users didn’t always recognize that the the heatmap reflected aggregate scores for the categories.</li>
+<li>Users had various reactions to our implementation of multiple selection; the most important issues were difficulty distinguishing between lines and making individual selections (in parallel coordinates) and value labeling for multiples.</li>
+<li>Users responded to the “profile recognition” aspect of using parallel coordinates, but had the typical difficulty examining relationships between axes that weren’t adjacent.</li>
+<li>Users looked for an interactive legend for data display and selection, and expected to be able to interact with the choropleth legend as well.</li>
+<li>Users were interested in a quick tutorial function.</li>
 
-<div class="portfolioblock">
-<img src="images/img_qrcode.png" width="200" height="100"alt="" />
-<p align=center id="side">QR Code Scanning</p>
-	  <a href="qrcode_scanning.html"></a></p>
-</div>
-
-<div class="portfolioblock">
-<img src="images/img_security.png" width="200" height="100" alt="" />
-<p align=center id="side">Website Security Check</p>
-	  <a href="website_security_check.html"></a></p>
-</div>
-
-<div class="portfolioblock">
-<img src="images/img_feedback.jpg" width="200" height="100" alt="" />
-<p align=center id="side">User Feedback and Loyalty Cultivation</p>
-     <a href="user_feedback_loyalty_cultivation.html"></a>
-</div>
-
+</p>
 </div>
 </div>  
 </div>

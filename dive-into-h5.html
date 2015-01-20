@@ -1,0 +1,45 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Untitled Document</title>
+</head>
+
+<body>
+<canvas id="c" width="500" height="375"></canvas>
+<script>
+var c_canvas=document.querySelector("#c");
+var context=c_canvas.getContext("2d");
+
+for (var x=0.5;x<500;x+=10){
+	context.moveTo(x,0);
+	context.lineTo(x,375);
+}
+
+for (var x=0.5;x<500;x+=10){
+	context.moveTo(0,y);
+	context.lineTo(500,y);
+}
+
+context.strokeStyle="green";
+context.stroke();
+
+context.beginPath();
+context.moveTo(0, 40);
+context.lineTo(240, 40);
+context.moveTo(260, 40);
+context.lineTo(500, 40);
+context.moveTo(495, 35);
+context.lineTo(500, 40);
+context.lineTo(495, 45);
+
+context.font = "bold 12px sans-serif";
+context.fillText("x", 248, 43);
+context.fillText("y", 58, 165);
+
+var my_gradient = context.createLinearGradient(0, 0, 300, 0);
+context.fillStyle = my_gradient;
+context.fillRect(0, 0, 300, 225);
+</script>
+</body>
+</html>
