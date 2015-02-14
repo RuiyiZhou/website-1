@@ -34,9 +34,9 @@ nav .button {
       text-transform: uppercase;
       padding: 25px;
       padding-bottom: 25px;
-      -webkit-box-shadow: 0px 4px 0px #a74d46;
-      -moz-box-shadow: 0px 4px 0px #a74d46;
-      box-shadow: 0px 4px 0px #a74d46;
+      -webkit-box-shadow: 0px 4px 0px #16A085;
+      -moz-box-shadow: 0px 4px 0px #16A085;
+      box-shadow: 0px 4px 0px #16A085;
 	  text-decoration:none;
 	  list-style-type:none;
 	  display:inline-block;
@@ -46,9 +46,9 @@ nav .button {
       color: white;
     }
     nav .button:active {
-      -webkit-box-shadow: 0px 4px 0px #a74d46;
-      -moz-box-shadow: 0px 4px 0px #a74d46;
-      box-shadow: 0px 4px 0px #a74d46;
+      -webkit-box-shadow: 0px 4px 0px #16A085;
+      -moz-box-shadow: 0px 4px 0px #16A085;
+      box-shadow: 0px 4px 0px #16A085;
       background: rgba(53,120,228,1.00);
     }              
             
@@ -235,9 +235,9 @@ nav .homebutton {
       padding: 5px;
       padding-bottom: 5px;
 	  margin:5px;
-      -webkit-box-shadow: 0px 4px 0px #a74d46;
-      -moz-box-shadow: 0px 4px 0px #a74d46;
-      box-shadow: 0px 4px 0px #a74d46;
+      -webkit-box-shadow: 0px 4px 0px #16A085;
+      -moz-box-shadow: 0px 4px 0px #16A085;
+      box-shadow: 0px 4px 0px #16A085;
 	  text-decoration:none;
 	  list-style-type:none;
 	  transition: all 0.5s;
@@ -247,9 +247,9 @@ nav .homebutton {
       color: white;
     }
     nav .homebutton:active {
-      -webkit-box-shadow: 0px 4px 0px #a74d46;
-      -moz-box-shadow: 0px 4px 0px #a74d46;
-      box-shadow: 0px 4px 0px #a74d46;
+      -webkit-box-shadow: 0px 4px 0px #16A085;
+      -moz-box-shadow: 0px 4px 0px #16A085;
+      box-shadow: 0px 4px 0px #16A085;
       background: rgba(53,120,228,1.00);
     }       
 	
@@ -262,7 +262,7 @@ nav .homebutton {
 /*HoverEffect*/
 .da-thumbs {
   list-style: none;
-  width: 680px;
+  max-width: 680px;
   height: auto;
   position: relative;
   margin: 20px auto;
@@ -276,6 +276,7 @@ nav .homebutton {
   position: relative;
   box-shadow: 0 1px 3px rgba(148,78,70,0.1);
 }
+
 .da-thumbs li a,
 .da-thumbs li a img {
   display: block;
@@ -307,17 +308,17 @@ nav .homebutton {
 {
   letter-spacing: 1px;
   text-align: center;
-  display:inline;
   font-size: 15px;
   font-weight: 100;
-  margin: 10px 20px 40px;
+  margin: 10px 20px 10px;
   position: relative; 
   padding: 10px 10px;
   background: #FFF;
-  border: 1px solid #a74d46;
-  color: #a74d46;
+  border: 1px solid #16A085;
+  color: #16A085;
   overflow: hidden;
   transition: all 0.5s;
+  display: inline-block;
 }
 
 .button:hover, .button:active 
@@ -325,7 +326,7 @@ nav .homebutton {
   text-decoration: none;
   color: #FFF;
   border-color: #FFF;
-  background: #a74d46;
+  background: #16A085;
 }
 
 .button span 
@@ -342,7 +343,7 @@ nav .homebutton {
 	font-style:italic;
 	font-family: 'Playball', cursive;
 	text-align:center;
-	color:#a74d46;
+	color:#16A085;
 	font-size:24px
 }
 
@@ -357,9 +358,14 @@ nav .homebutton {
       padding: 5px;
       padding-bottom: 5px;
 	  margin:5px;
-      -webkit-box-shadow: -4px 0px 0px #a74d46;
-      -moz-box-shadow: -4px 0px 0px #a74d46;
-      box-shadow: -4px 0px 0px #a74d46;
+      -webkit-box-shadow: -4px 0px 0px #16A085;
+      -moz-box-shadow: -4px 0px 0px #16A085;
+      box-shadow: -4px 0px 0px #16A085;
 	  text-decoration:none;
 	  list-style-type:none;
     }
+	
+/* Desktop Screen Set to 1024px or Below */
+@media screen and (max-width: 1024px) {
+
+}
