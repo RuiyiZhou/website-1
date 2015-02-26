@@ -1,0 +1,23 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.homeintro {
+    padding: 80px 0;
+    font-size: 36px;
+	text-align: center;
+    text-shadow: 0 1px 0 rgba(0,0,0,.1);
+    background-color: #1abc9c;
+	margin-bottom: 40px;
+	position: relative;
+    text-align: center;
+    text-shadow: 0 1px 0 rgba(0,0,0,.1);
+    background-color: #1abc9c;
+	background-repeat: repeat-x;
+	color: #fff;
+}
+
+.homeintro p {
+	font-size: 24px;
+	margin: 0 auto 30px;
+    color: #fff;
+}
