@@ -62,17 +62,18 @@ display:inline;
 
 .head {
 	display:block;
-	background:#0b5043;
-	height:100vh;
+	background:#1abc9c;
+	height:700px;
 }
 
 .headline p{
 font-family: 'Lato', sans-serif;
-font-size:60px;
+font-size:3em;
 color:#FFF;	
 line-height:100%;
 margin-left:10%;
-margin-top:30%;
+margin-top: 30%;
+margin-right:10%;
 }
 
 .intropage {
@@ -316,10 +317,10 @@ nav .homebutton {
 }
 .da-thumbs li a div {
   position: absolute;
-  background: #333;
-  background: rgba(75,75,75,0.7);
+  background: #1abc9c;
   width: 100%;
   height: 100%;
+  opacity: 0.9;
 }
 .da-thumbs li a div span {
   display: block;
@@ -400,6 +401,27 @@ nav .homebutton {
 	border-radius:50%;
 	display:inline-block;
 }
+	
+#footer {
+width: 980px;
+margin: 0 auto;
+padding: 20px 0;
+background: #16a085;
+}
+
+#footer p {
+color: #FFFFFF; /* white */
+}
+
+
+#footer a {
+color: #FFFFFF; /* white */
+}
+
+#footer a:hover {
+color: #C79900; /* gold */
+}
+	
 	
 /* Desktop Screen Set to 1024px or Below */
 @media screen and (max-width: 1024px) {
