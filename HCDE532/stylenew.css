@@ -1,0 +1,16 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.box
+
+{
+	font-size:15px;
+	font-weight:100;
+	margin: 10px 20px 10px;
+	position: relative;
+    padding: 10px 10px;
+	background:#95a5a6;
+	width:700px;
+	height:300px;
+	float:right;
+}

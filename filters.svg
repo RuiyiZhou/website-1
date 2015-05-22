@@ -1,4 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg">
-<filter id="colorMatrix">
-  <feColorMatrix type="matrix" values="0.607 0.358 0.036 0 0, 0.107 0.857 0.036 0 0, 0.107 0.358 0.536 0 0, 0 0 0 1 0"/>
-</filter>

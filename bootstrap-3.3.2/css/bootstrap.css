@@ -1571,17 +1571,17 @@ pre code {
 }
 @media (min-width: 768px) {
   .container {
-    width: 750px;
+    width: 600px;
   }
 }
 @media (min-width: 992px) {
   .container {
-    width: 970px;
+    width: 800px;
   }
 }
 @media (min-width: 1200px) {
   .container {
-    width: 1170px;
+    width: 1000px;
   }
 }
 .container-fluid {
@@ -5730,6 +5730,11 @@ button.close {
        -o-transform: translate(0, 0);
           transform: translate(0, 0);
 }
+
+.vcenter {
+    vertical-align: middle;
+}
+
 .modal-open .modal {
   overflow-x: hidden;
   overflow-y: auto;
