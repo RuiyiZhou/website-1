@@ -8,8 +8,10 @@
     <link rel="stylesheet" type="text/css" href="bootstrap-3.3.2/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="bootstrap-3.3.2/css/bootstrap.css">
     <link rel="stylesheet" type="text/css" href="bootstrap-3.3.2/css/personal.css">
+
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <script src="bootstrap-3.3.2/js/bootstrap.min.js"></script>
+    <script src="animation.js"></script>
     <script src="bootstrap-3.3.2/js/bootstrap.js"></script>
     <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Lato:300,400' rel='stylesheet' type='text/css'>
@@ -17,7 +19,7 @@
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
     <link rel="icon" href="favicon.ico" type="image/x-icon" />
     <script src="js/modernizr.custom.97074.js"></script>
-    
+    <script src="js/scrollbacktotop.js"></script> 
     <title>Ruiyi Zhou | UX/UI Designer</title>
     <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -34,6 +36,7 @@
 
 <!--Navigation Bar-->
  <body>
+
     <div class="navbar-wrapper">
       <div class="container">
 
@@ -47,13 +50,12 @@
 
       </div>
     </div>
-    
     <!--Home image-->
     
     <div class="container">
     <div class="title">
-        <h1>Hi, I'm Ruiyi Zhou.</h1>
-        <p>I'm currently looking for a summer intern as a UX/UI designer.</p>
+        <h3>Hi, I'm Ruiyi Zhou.</h3>
+        <p>I'm currently a full-time MS student at Human Centered Design and Engineering, University of Washington.</p>
         <p>
         <a class="btn btn-lg btn-default btn-align text-center" href="RuiyiZhou-MS-HCDE.pdf" role="button">Resume</a>
         <a class="btn btn-lg btn-default btn-align text-center" href="mailto:ryzhou@uw.edu" role="button">Email</a>
@@ -61,34 +63,40 @@
         </p>
 
         </div>
+     </div>
    
       <!-- Three columns-->
       &nbsp;
-      &nbsp;
-<h2 class="bs-docs-featurette-title">Expertise</h2>
+
+     <div class="bluearea">  
+     <div class="container">
+     <h3 class="bs-docs-featurette-title">Expertise</h3>
 
       <hr class="featurette-divider">
 
       &nbsp;
       &nbsp;
-      <div class="row text-center">
-        <div class="col-lg-4">
-          <img class="img-circle center" src="images/design.png" alt="Generic placeholder image" style="width: 140px; height: 140px;">
+      <div class="row text-center ">
+
+          <div class="col-lg-4">
+          <img class="img-circle center" src="images/design.png" alt="Generic placeholder image" style="width: 100px; height: 100px;">
           
-          <h2>UX/UI Design</h2>
+          <h3>UX/UI Design</h3>
           <p>I'm currently a full-time MS student at Human Centered Design and Engineering at University of Washington.</p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
-          <img class="img-circle" src="images/productmanager.png" alt="Generic placeholder image" style="width: 140px; height: 140px;">
-          <h2>Product Management</h2>
+          <img class="img-circle" src="images/productmanager.png" alt="Generic placeholder image" style="width: 100px; height: 100px;">
+          <h3>Product Management</h3>
           <p>I worked at Tencent as a product manager for 3 years. My product was QQ mobile browser on Android platform.</p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
-          <img class="img-circle" src="images/coding.png" alt="Generic placeholder image" style="width: 140px; height: 140px;">
-          <h2>Front-end Development</h2>
+          <img class="img-circle" src="images/coding.png" alt="Generic placeholder image" style="width: 100px; height: 100px;">
+          <h3>Front-end Development</h3>
           <p>I have two-year experience in front-end development. I built this website on my own.</p>
         </div><!-- /.col-lg-4 -->
       </div><!-- /.row -->
+         </div>
+         </div>
       &nbsp;
       &nbsp;
 
@@ -97,22 +105,22 @@
       &nbsp;
       &nbsp;
       &nbsp;
-<h2 class="bs-docs-featurette-title">Portfolio</h2>
+     <div class="container">
+<h3 class="bs-docs-featurette-title">Portfolio</h3>
       
       <hr class="featurette-divider">
-            <div class="row featurette">
+            <div class="row featurette onhover" onclick="location.href='TraveLENS.html';" style="cursor: pointer;" >
             
-            <div class="col-md-5">
-        <img class="featurette-image img-responsive" src="images/travelens.png" alt="Generic placeholder image" style="width: 300px; ">
+            <div class="col-md-5 aligner-center">
+        <img class="featurette-image img-responsive " src="images/travelens.png" alt="Generic placeholder image" >
         </div>
 
 
         <div class="col-md-7">
-          <h2 class="featurette-heading">TraveLENS <span class="text-muted">UX/UI Designer</span></h2>
+          <h3 class="featurette-heading ">TraveLENS <br><span class="text-muted">UX/UI Designer</span></h3>
                     <p>Platform: Windows PC</p>
-          <p>A travel data visualization that helps travelers and investors find goals.</p>
+          <p>A travel data visualization that helps travelers and investors find their goals.</p>
 
-          <p><a class="btn btn-default" href="TraveLENS.html" role="button">View Details &raquo;</a></p>
         </div>
         
         
@@ -120,31 +128,29 @@
 
       <hr class="featurette-divider">
 
-      <div class="row featurette">
+      <div class="row featurette onhover" onclick="location.href='SmartPonics.html';" style="cursor: pointer;">
         <div class="col-md-5 vcenter">
           <img class="featurette-image img-responsive" src="images/smartponics.png" alt="Generic placeholder image" style="width: 300px; ">
         </div>
         <div class="col-md-7">
-          <h2 class="featurette-heading">SmartPonics <span class="text-muted">UX/UI Designer</span></h2>
+          <h3 class="featurette-heading">SmartPonics <br><span class="text-muted">UX/UI Designer</span></h3>
                     <p>Platform: iOS</p>
           <p>A self-control rooftop hydroponics garden with mobile control that helps people living in apartments grow plants easily.</p>
 
-          <p><a class="btn btn-default" href="SmartPonics.html" role="button">View Details &raquo;</a></p>
         </div>
       </div>
 
       <hr class="featurette-divider">
       
-      <div class="row featurette">
+      <div class="row featurette onhover" onclick="location.href='qqbrowser.html';" style="cursor: pointer;">
        <div class="col-md-5">
           <img class="featurette-image img-responsive" src="images/qqbrowser.jpg" alt="Generic placeholder image" style="width: 300px; ">
         </div>
         <div class="col-md-7">
-          <h2 class="featurette-heading">QQ Browser <span class="text-muted">Product Manager</span></h2>
+          <h3 class="featurette-heading">QQ Browser <br><span class="text-muted">Product Manager</span></h3>
                     <p>Platform: Android</p>
           <p>A top-ranked mobile browser run on Android platform designed specifically for Chinese users, had over 30 million daily active users.</p>
 
-          <p><a class="btn btn-default" href="qqbrowser.html" role="button">View Details &raquo;</a></p>
         </div>
        
       </div>
@@ -152,28 +158,28 @@
       
       <hr class="featurette-divider">
       
-      <div class="row featurette">
+      <div class="row featurette onhover" onclick="location.href='usability_study.html';" style="cursor: pointer;">
         <div class="col-md-5">
           <img class="featurette-image img-responsive" src="images/img_usability_new.jpg" alt="Generic placeholder image" style="width: 300px; ">
         </div>
         <div class="col-md-7">
-          <h2 class="featurette-heading">QQ Browser Usability Study <span class="text-muted">UX Researcher</span></h2>
+          <h3 class="featurette-heading">QQ Browser Usability Study <br><span class="text-muted">UX Researcher</span></h3>
           <p>A usability study in university campus to interview, observe, and conduct focus group with our target users - college students.</p>
-          <p><a class="btn btn-default" href="usability_study.html" role="button">View Details &raquo;</a></p>
+
         </div>
       </div>
       
            <hr class="featurette-divider">
 
-      <div class="row featurette">
+      <div class="row featurette onhover" onclick="location.href='forum_design.html';" style="cursor: pointer;">
       <div class="col-md-5">
           <img class="featurette-image img-responsive" src="images/img_forum_new.jpg" alt="Generic placeholder image" style="width: 300px; ">
         </div>
         
         <div class="col-md-7">
-          <h2 class="featurette-heading">QQ Browser Forum <span class="text-muted">Product Manager, UX Designer</span></h2>
+          <h3 class="featurette-heading">QQ Browser Forum <br><span class="text-muted">UX Designer</span></h3>
           <p>An official forum supporting QQ Browser, serving as a discussion board for users, and a method to collect feedback from users.</p>
-          <p><a class="btn btn-default" href="forum_design.html" role="button">View Details &raquo;</a></p>
+
         </div>
         
       </div>
@@ -181,11 +187,11 @@
       <hr class="featurette-divider">
       
       <footer>
-        <p class="pull-right"><a href="#">Back to top</a></p>
-        <p>&copy; 2015 Ruiyi Zhou. Designed and coded.</p>
+        <p class="pull-right cd-top"><a href="#" >Back to top</a></p>
+        <p>&copy; 2015 Ruiyi Zhou. Designed and coded. </p>
+
       </footer>
        </div>
-      
       <!-- FOOTER -->
 
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>

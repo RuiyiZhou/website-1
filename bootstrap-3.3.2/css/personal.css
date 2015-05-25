@@ -37,9 +37,45 @@
 }
 
 .btn-align {
-margin:10px 0px;	
+margin:10px;
+margin-left: 0px;
 }
 
 .nextproject {
     margin-top:50px;	
+}
+
+.socialmedia {
+    margin: 20px;
+    width: 200px;;
+    height: 100px;
+    background-color: aqua;
+    
+    
+}
+.onhover:hover {
+    background-color: #f2f2f2;
+}
+
+
+
+.portimg:before {
+  display: inline-block;
+  vertical-align: middle;
+  height: 100%;
+}
+
+.bluearea {
+    background-color: #dbf0f6;
+    padding: 20px;
+}
+
+
+
+.aligner-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 50%;
+background-color: aqua;
 }
