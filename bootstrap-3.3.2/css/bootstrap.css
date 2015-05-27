@@ -2937,7 +2937,7 @@ select[multiple].form-group-lg .form-control {
 }
 .form-horizontal .form-group {
   margin-right: -15px;
-  margin-left: -15px;
+
 }
 @media (min-width: 768px) {
   .form-horizontal .control-label {
@@ -4107,7 +4107,6 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .container > .navbar-collapse,
 .container-fluid > .navbar-collapse {
   margin-right: -15px;
-  margin-left: -15px;
 }
 @media (min-width: 768px) {
   .container > .navbar-header,
@@ -4166,7 +4165,6 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 @media (min-width: 768px) {
   .navbar > .container .navbar-brand,
   .navbar > .container-fluid .navbar-brand {
-    margin-left: -15px;
   }
 }
 .navbar-toggle {
@@ -4200,6 +4198,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-nav {
   margin: 7.5px -15px;
+    
 }
 .navbar-nav > li > a {
   padding-top: 10px;
@@ -4247,7 +4246,6 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   margin-top: 8px;
   margin-right: -15px;
   margin-bottom: 8px;
-  margin-left: -15px;
   border-top: 1px solid transparent;
   border-bottom: 1px solid transparent;
   -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, .1), 0 1px 0 rgba(255, 255, 255, .1);
@@ -6252,7 +6250,6 @@ button.close {
   }
   .carousel-control .glyphicon-chevron-left,
   .carousel-control .icon-prev {
-    margin-left: -15px;
   }
   .carousel-control .glyphicon-chevron-right,
   .carousel-control .icon-next {
