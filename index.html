@@ -20,6 +20,10 @@
     <link rel="icon" href="favicon.ico" type="image/x-icon" />
     <script src="js/modernizr.custom.97074.js"></script>
     <script src="js/scrollbacktotop.js"></script> 
+    <!-- Parallax Scrolling -->
+<script src="js/parallax.js"></script>
+<script src="js/parallax.min.js"></script>
+      <!-- End -->
     <title>Ruiyi Zhou | UX/UI Designer</title>
     <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -39,12 +43,21 @@
 
     <div class="navbar-wrapper">
       <div class="container">
-
         <nav class="navbar navbar-inverse navbar-fixed-top">
           <div class="container">
             <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+
               <a class="navbar-brand" href="index.html">Ruiyi Zhou</a>
             </div>
+              
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
           <nav class="collapse navbar-collapse bs-navbar-collapse">
       <ul class="nav navbar-nav navbar-right">
         <li>
@@ -54,21 +67,19 @@
           <a href="../css/">Portfolio</a>
         </li>
       </ul>
- 
     </nav>
-            
+              </div>
             </div>
         </nav>
 
       </div>
     </div>
     <!--Home image-->
-    <div class="titleimage">
-        
+    <div class="parallax-window" data-parallax="scroll" data-image-src="images/me.jpg">
     <div class="container">
-    <div class="title">
-        <h3>Hi, I'm Ruiyi Zhou.</h3>
-        <p>I'm currently a full-time MS student at Human Centered Design and Engineering, University of Washington.</p>
+    <div class="titlename margin15">
+        <p style="margin-top:30%;">Hi, I'm Ruiyi Zhou.</p>
+        <p style="font-size:16px">I'm currently a full-time MS student at Human Centered Design and Engineering, University of Washington.</p>
         <p>
         <a class="btn btn-lg btn-default btn-align text-center" href="RuiyiZhou-MS-HCDE.pdf" role="button">Resume</a>
         <a class="btn btn-lg btn-default btn-align text-center" href="mailto:ryzhou@uw.edu" role="button">Email</a>
@@ -80,7 +91,6 @@
         </div>
    
       <!-- Three columns-->
-      &nbsp;
 
      <div class="bluearea">  
      <div class="container">

@@ -18,6 +18,11 @@
     <link rel="icon" href="favicon.ico" type="image/x-icon" />
     <script src="js/modernizr.custom.97074.js"></script>
     <script src="js/scrollbacktotop.js"></script> 
+    
+        <!-- Parallax Scrolling -->
+<script src="js/parallax.js"></script>
+<script src="js/parallax.min.js"></script>
+    
     <title>TraveLENS</title>
     <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -34,29 +39,49 @@
 
 <!--Navigation Bar-->
  <body>
+    <div class="navbar-wrapper">
+      <div class="container">
+
         <nav class="navbar navbar-inverse navbar-fixed-top">
-                  <div class="container">
+          <div class="container">
             <div class="navbar-header">
               <a class="navbar-brand" href="index.html">Ruiyi Zhou</a>
+            </div>
+          <nav class="collapse navbar-collapse bs-navbar-collapse">
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+          <a href="../getting-started/">Project Description </a>
+        </li>
+        <li>
+          <a href="../css/">Design Process</a>
+        </li>
+        <li>
+          <a href="../css/">Usability Testing</a>
+        </li>  
+      </ul>
+ 
+    </nav>
+            
             </div>
         </nav>
 
       </div>
+    </div>
     
     
     <!--Home image-->
-    
+    <div class="parallax-window" data-parallax="scroll" data-image-src="images/travelenstheme.png">
     <div class="container">
-    <div class="title">
-        <h3>TraveLENS</h3>
-        <p>A travel data visualization that helps travelers and investors find goals.</p>
+    <div class="titlename margin15">
+        <p style="margin-top:30%">TraveLENS</p>
+        <p style="font-size:1em">A travel data visualization that helps travelers and investors find goals.</p>
         <p><a class="btn btn-lg btn-default btn-align text-center" href="Final_Presentation_TraveLENS.pdf" role="button">Final Presentation</a>
 <a class="btn btn-lg btn-default btn-align text-center" href="Resources/TraveLens_Group1_final3.pdf" role="button">Final Paper</a>
 </p>
         </div>
      </div>
-     
-      &nbsp;
+          </div>
+
       <!--Summary-->
      
      <div class="bluearea">  
@@ -85,10 +110,10 @@
          
          </div>
      </div>
-     
+
      
 
-<div class="container">
+<div class="container margin15">
       <!-- Detail -->
       <h3 class="bs-docs-featurette-title nextproject">Project Description</h3>
       <hr class="featurette-divider">
@@ -129,7 +154,7 @@ We began investigating data sets in health, traveler safety, weather and climate
 <img class="featurette-image img-responsive" src="images/travelens_designprocess_3.png"  style='width:500px;'>
 
       
-      <h3 class="bs-docs-featurette-title nextproject">User Research and Key Findings</h3>
+      <h3 class="bs-docs-featurette-title nextproject">Usability Testing and Key Findings</h3>
       <hr class="featurette-divider">
       <img class="featurette-image img-responsive " src="images/usabilitytesting-travelens.png" style="width: 542px;"> 
 <h3>Iteration 1</h3>
@@ -158,14 +183,15 @@ We began investigating data sets in health, traveler safety, weather and climate
       <h3 class="bs-docs-featurette-title nextproject">Next Project</h3>
       <hr class="featurette-divider">
       
-      <div class="row featurette">
-        <div class="col-md-5">
+      <div class="row featurette onhover" onclick="location.href='SmartPonics.html';" style="cursor: pointer;">
+        <div class="col-md-5 vcenter">
           <img class="featurette-image img-responsive" src="images/smartponics.png" alt="Generic placeholder image" style="width: 300px; ">
         </div>
         <div class="col-md-7">
-          <h3 class="featurette-heading">SmartPonics <span class="text-muted">UX/UI Designer</span></h3>
-          <p>A self-control rooftop garden with mobile control that helps people living in apartments grow plants easily.</p>
-          <p><a class="btn btn-default" href="SmartPonics.html" role="button">View Details &raquo;</a></p>
+          <h3 class="featurette-heading">SmartPonics <br><span class="text-muted">UX/UI Designer</span></h3>
+                    <p>Platform: iOS</p>
+          <p>A self-control rooftop hydroponics garden with mobile control that helps people grow plants easily.</p>
+
         </div>
       </div>
 

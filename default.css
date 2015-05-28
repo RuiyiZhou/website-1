@@ -226,75 +226,14 @@
 	ul.contact li a.icon-tumblr:before { background: #31516A; }
 	ul.contact li a.icon-rss:before { background: #F2600B; }
 
-/*********************************************************************************/
-/* Button Style                                                                  */
-/*********************************************************************************/
-
-	/*.button
-	{
-		display: inline-block;
-		padding: 10px 10px;
-		background: #2372DE url(images/bg01.png);
-
-		letter-spacing: 0.20em;
-		text-decoration: none;
-		text-transform: uppercase;
-		font-weight: 400;
-		color: #FFFFFF;
-		width:105px;
-		text-align:center;
-		margin-left:auto;
-		margin-right:auto;
-		color:blue;
-		
-		-moz-transition: opacity 0.25s ease-in-out;
-		-webkit-transition: opacity 0.25s ease-in-out;
-		-o-transition: opacity 0.25s ease-in-out;
-		-ms-transition: opacity 0.25s ease-in-out;
-		transition: opacity 0.25s ease-in-out;
-		}
-		
-
-		
-/*		display: block;
-		padding: 0em 1.5em;
-		height: 50px;
-		letter-spacing: 0em;
-		line-height: 50px;
-		text-decoration: none;
-		font-size: 1em;
-		font-weight: 600;
-		text-transform: uppercase;
-		outline: 0;
-		color: #ACCFFF;
-		margin:auto;*/
-		
-
-/*
-		.button:hover
-		{
-		}
-		
-		.button:active
-		{
-		}
-		
-		.button-big
-		{
-			padding: 40px 40px;
-			font-size: 0.5em;
-			font-weight: 900;
-			
-		}*/
-			
-/*********************************************************************************/
-/* Heading Titles                                                                */
-/*********************************************************************************/
-
 	.title
-	{
-		margin-bottom: 3em;
-	}
+
+
+.title p {
+  display: table-cell; 
+  vertical-align: middle; 
+  text-align: left; 
+}
 
 	.title h2
 	{
