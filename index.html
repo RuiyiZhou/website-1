@@ -9,8 +9,8 @@
     <meta name="author" content="Ruiyi Zhou">
     <link rel="stylesheet" type="text/css" href="bootstrap-3.3.2/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="bootstrap-3.3.2/css/bootstrap.css">
-    <link rel="stylesheet" type="text/css" href="bootstrap-3.3.2/css/personal.css">
     <link rel="stylesheet" type="text/css" href="css/agency.css">
+    <link rel="stylesheet" type="text/css" href="bootstrap-3.3.2/css/personal.css">
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <script src="bootstrap-3.3.2/js/bootstrap.min.js"></script>
     <script src="animation.js"></script>
@@ -25,6 +25,7 @@
     <!-- Parallax Scrolling -->
 <script src="js/parallax.js"></script>
 <script src="js/parallax.min.js"></script>
+<script src="js/scrollhidden.js"></script>
       <!-- End -->
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 
@@ -44,16 +45,22 @@
 
 <!--Navigation Bar-->
  <body>
-    <!-- Navigation -->
-    <nav class="navbar navbar-default navbar-fixed-top">
+        
+
+
+     
+     <!--Navigation-->
+    <nav id="nav" class="navbar navbar-default navbar-inverse navbar-fixed-top hidden">
         <div class="container">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header page-scroll">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#dropdownlist">
+                    <div id="dropdownlist">
                     <span class="sr-only">Toggle navigation</span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
+                        </div>
                 </button>
                 <a class="navbar-brand page-scroll" href="index.html">Ruiyi Zhou</a>
             </div>
@@ -71,10 +78,7 @@
                         <a class="page-scroll" href="#portfolio">Portfolio</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#about">About</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="#team">Team</a>
+                        <a class="page-scroll" href="#about">Resume</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="#contact">Contact</a>
@@ -89,13 +93,43 @@
     <!--Home image-->
     <div class="parallax-window" data-parallax="scroll" data-image-src="images/me.jpg">
     <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">>
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand page-scroll" href="index.html">Ruiyi Zhou</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div>
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a class="page-scroll" href="#expertise">Expertise</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#portfolio">Portfolio</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#about">Resume</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#contact">Contact</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        <!-- /.container-fluid -->
+        
     <div class="titlename margin15">
         <p style="margin-top:25%;">Hi, I'm Ruiyi Zhou.</p>
         <p style="font-size:16px; font-weight:200">Learn with passion, imagine without boundary.</p>
         <p>
-        <a class="btn btn-lg btn-default btn-align text-center" href="RuiyiZhou-MS-HCDE.pdf" role="button">Resume</a>
-        <a class="btn btn-lg btn-default btn-align text-center" href="mailto:ryzhou@uw.edu" role="button">Email</a>
-        <a class="btn btn-lg btn-default btn-align text-center" href="http://www.linkedin.com/pub/ruiyi-zhou/94/b52/644" role="button">LinkedIn</a>
+        <a class="btn btn-lg btn-default btn-align text-center" href="#portfolio">See My Projects</a>
+
         </p>
 
         </div>
@@ -119,17 +153,17 @@
           <img class="img-circle center" src="images/design.png" alt="Generic placeholder image" style="width: 100px; height: 100px;">
           
           <h3>UX/UI Design</h3>
-          <p style="text-align:justify">I'm currently a full-time MS student at Human Centered Design and Engineering at University of Washington.</p>
+          <p>I'm currently a full-time MS student at Human Centered Design and Engineering at University of Washington.</p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
           <img class="img-circle" src="images/productmanager.png" alt="Generic placeholder image" style="width: 100px; height: 100px;">
           <h3>Product Management</h3>
-          <p style="text-align:justify">I worked at Tencent as a product manager for 3 years. My product was QQ mobile browser on Android platform.</p>
+          <p>I worked at Tencent as a product manager for 3 years. My product was QQ mobile browser on Android platform.</p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
           <img class="img-circle" src="images/coding.png" alt="Generic placeholder image" style="width: 100px; height: 100px;">
           <h3>Front-end Development</h3>
-          <p style="text-align:justify">I have two-year experience in front-end development. I built this website on my own.</p>
+          <p>I have two-year experience in front-end development. I built this website on my own.</p>
         </div><!-- /.col-lg-4 -->
       </div><!-- /.row -->
          </div>
@@ -213,7 +247,7 @@
 
 
     <!-- Footer -->
-    <footer>
+    <footer id="contact">
         <div class="footer-above">
             <div class="container">
                 <div class="row margin15">
@@ -235,17 +269,17 @@
                             </li>
                         </ul>
                     </div>
+
                     <div class="footer-col col-md-3">
-                        <h3>Location</h3>
-                        <p>3481 Melrose Place<br>Beverly Hills, CA 90210</p>
+                        <h3>Right now</h3>
+                        <p>I'm currently a full-time student at Human Centered Design and Engineering, University of Washington.</p>
                     </div>
                     
-                    
                     <div class="footer-col col-md-3">
                         <h3>Location</h3>
-                        <p>3481 Melrose Place<br>Beverly Hills, CA 90210</p>
+                        <p>Seattle, Washington, 98105</p>
                     </div>
-                    
+
                     <div class="footer-col col-md-3">
                         <h3>Contact me</h3>
                     <i class="fa fa-fw fa-envelope-o"></i>ryzhou@uw.edu<br>
