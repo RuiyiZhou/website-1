@@ -39,7 +39,7 @@ margin-left: 0px;
 }
 
 .nextproject {
-    margin-top:50px;	
+    margin-top:100px;	
 }
 
 .socialmedia {
@@ -146,9 +146,9 @@ footer h3 {
 footer .footer-above {
     padding-top: 30px;
     background-color: #F5F5F5 ;
-    border-bottom: 10px solid black;
+    border-bottom: 10px solid #424242;
     font-size: 1em;
-    color: #777;
+    color: #424242;
 }
 
 
@@ -193,6 +193,68 @@ footer .footer-col {
 
 }
 
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 35px;
+    height: 0;
+    overflow: hidden;
+}
+
+.video-container iframe {
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+
+.vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
+
+.marginbuttom20 {
+    margin-bottom: 20px;
+}
+
+.relative {
+    position: relative;
+}
+
+.bubble {
+  position: absolute; 
+  display: table; 
+}
+
+.bubble p {
+  display: table-cell; 
+  vertical-align: middle; 
+}
+
+.tablerow {
+    	display: table-row;
+}
+
+.tablerow li{
+    	display: table-cell;
+}
+
+.tablecell {
+    vertical-align: middle;
+}
+
+.marginbottomtop30 {
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
 .center {
-    align: center;
+    text-align: center;
+}
+
+.margintop50 {
+    margin-top: 70px;
 }

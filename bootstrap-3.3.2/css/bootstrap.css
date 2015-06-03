@@ -1100,6 +1100,12 @@ a:focus {
   text-decoration: underline;
   transition: all 0.3s ease 0s;
 }
+
+li: active {
+border-bottom: 2px solid #ffffff;
+
+}
+
 a:focus {
   outline: thin dotted;
   outline: 5px auto -webkit-focus-ring-color;
@@ -4185,6 +4191,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   width: 22px;
   height: 2px;
   border-radius: 1px;
+  background-color: #ffffff;
 }
 .navbar-toggle .icon-bar + .icon-bar {
   margin-top: 4px;
@@ -4365,16 +4372,17 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
     margin-right: 0;
   }
 }
-.navbar-default {
+
+.navbar-inverse .navbar-brand {
+  color: #9d9d9d;
 }
-.navbar-default .navbar-brand {
-  color: #777;
-}
-.navbar-default .navbar-brand:hover,
-.navbar-default .navbar-brand:focus {
-  color: #ffffff;
+.navbar-brand:hover {
+  color: #000000;
   background-color: transparent;
 }
+
+
+
 .navbar-default .navbar-text {
   color: #777;
 }
@@ -4464,10 +4472,8 @@ fieldset[disabled] .navbar-default .btn-link:focus {
     opacity: 0.9;
 
 }
-.navbar-inverse .navbar-brand {
-  color: #9d9d9d;
-}
-.navbar-inverse .navbar-brand:hover,
+
+.navbar-inverse .navbar-brand .icon-bar:hover,
 .navbar-inverse .navbar-brand:focus {
   color: #000;
   background-color: transparent;
@@ -4502,14 +4508,16 @@ fieldset[disabled] .navbar-default .btn-link:focus {
 }
 .navbar-inverse .navbar-toggle:hover,
 .navbar-inverse .navbar-toggle:focus {
-  background-color: #333;
+  background-color: #ffffff;
 }
 .navbar-inverse .navbar-toggle .icon-bar {
-  background-color: #fff;
+  background-color: #9d9d9d;
 }
+
+
 .navbar-inverse .navbar-collapse,
 .navbar-inverse .navbar-form {
-  border-color: #101010;
+
 }
 .navbar-inverse .navbar-nav > .open > a,
 .navbar-inverse .navbar-nav > .open > a:hover,
