@@ -258,3 +258,22 @@ footer .footer-col {
 .margintop50 {
     margin-top: 70px;
 }
+
+.opacity img{
+    opacity: 0.4;
+    filter: alpha(opacity=40); /* For IE8 and earlier */
+    -webkit-transition: all 0.3s ease 0s;
+    -moz-transition: all 0.3s ease 0s;
+    -o-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s;
+}
+
+.opacity:hover img{
+    opacity: 1;
+    filter: alpha(opacity=100); /* For IE8 and earlier */
+    -webkit-transition: all 0.3s ease 0s;
+    -moz-transition: all 0.3s ease 0s;
+    -o-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s;
+}
+
