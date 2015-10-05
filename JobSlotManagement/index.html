@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8"/>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+	<meta property="og:image" content="/st/og-image.png"/>
+
+	<title>Job Slots Management</title>
+
+	<meta name="keywords" content="sortable, reorder, list, javascript, html5, drag and drop, dnd, animation, groups, angular, ng-sortable, react, mixin, effects, rubaxa"/>
+	<meta name="description" content="Sortable - is a minimalist JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery. Supports Meteor, AngularJS, React and any CSS library, e.g. Bootstrap."/>
+	<meta name="viewport" content="width=device-width, initial-scale=0.5"/>
+
+	<link href="//rubaxa.github.io/Ply/ply.css" rel="stylesheet" type="text/css"/>
+	<link href="//fonts.googleapis.com/css?family=Roboto:300" rel="stylesheet" type="text/css"/>
+	<link href="st/app.css" rel="stylesheet" type="text/css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+</head>
+    
+<body>
+
+
+
+
+
+
+	<!-- Connected lists -->
+<div style="display:none;">
+<ul id="foo" class="block__list block__list_words"></ul>
+<ul id="bar" class="block__list block__list_tags"></ul>
+<div id="multi"></div>
+<div id="filter"></div>
+<ul id="editable"></ul>
+<ul id="addUser"></ul>
+</div>
+
+
+
+	<!-- Advanced connected lists -->
+	<a name="ag"></a>
+	<div class="container">
+		<div id="advanced">
+			<div style="border-bottom-style:solid; width:983px; border-width:4px; border-color: #EDEDED"><div data-force="5" class="jobslottitle layer title title_xl">Job Slot Management</div></div>
+
+			<div class="block__list block__list_words">
+				<div class="block__list-title">Slotted Jobs (<span id="slottedcounter">6 of 20</span> slots used)</div>
+                <div class="block__list-subtitle">Sort: Job A-Z  | <span style="color: #2476BA">Job Z-A </span> | <span style="color: #2476BA">Location A-Z </span> | <span style="color: #2476BA">Location Z-A</span>
+                <input type="text" name="search" value="" style="visibility:hidden">
+                </div>
+				<ul id="advanced-1" class="slotted connectedSortable">
+                    <li>
+                    <div>    
+                    <span class="hamburger">&#9776</span><p><span class="order"></span>Sr Business Analyst (Reporting & ERP) -Contract-to-Hire</p>
+                    <p> <b>Raleigh, NC</b>
+                    <!--<span title="Remove from list" class="remove right_align"><img src="img/Remove_button_grey.png" height="20px" width="20px" onmouseover="this.src='img/Remove_button_green.png';" onmouseout="this.src='img/Remove_button_grey.png';" ></span>
+                    <span title="Move to waitlist" class="WL right_align"><img src="img/WL_button_grey.png" id="moveBtn" height="20px" width="20px" onmouseover="this.src='img/WL_button_green.png';" onmouseout="this.src='img/WL_button_grey.png';"></span>
+                        -->
+                     </p>
+                    </div>
+                    </li>
+
+                    
+
+                    <li>
+                    <div>    
+                    <span class="hamburger">&#9776</span><p><span class="order"></span>Business Analyst (Reporting & ERP) -Contract-to-Hire</p>
+                    <p> <b>Boston, MA</b>
+                    
+                    
+
+                     </p>
+                    </div>
+                    </li>
+                    
+                    <li>
+                    <div>    
+                    <span class="hamburger">&#9776</span><p><span class="order"></span>Project Manager - Business Intelligence</p>
+                    <p> <b>San Francsico, CA</b>
+                    
+                    
+
+                     </p>
+                    </div>
+                    </li>
+                    
+                    <li>
+                    <div>    
+                    <span class="hamburger">&#9776</span><p><span class="order"></span>Sr Quality Engineer</p>
+                    <p> <b>San Jose, CA</b>
+                    
+                   
+
+                    </p>
+                    </div>
+                    </li>
+                    
+                    <li>
+                    <div>    
+                    <span class="hamburger">&#9776</span><p><span class="order"></span>Jr Javascript Developer - Contract-to-Hire</p>
+                    <p> <b>San Jose, CA</b>
+                    
+                   
+
+                    </p>
+                    </div>
+                    </li>
+                    
+                    <li>
+                    <div>    
+                    <span class="hamburger">&#9776</span><p><span class="order"></span>Chief Technology Officer</p>
+                    <p> <b>San Jose, CA</b>
+                    
+                   
+
+                    </p>
+                    </div>
+                    </li>
+				</ul>
+			</div>
+
+			<div class="block__list block__list_words">
+				<div class="block__list-title">Prioritized Waitlist (<span id="waitlistcounter">3</span> jobs)
+                
+                </div>
+                                <div class="block__list-subtitle"><br><input type="text" name="search" value="" style="visibility:hidden"></div>
+				<ul id="advanced-2" class="waitlist connectedSortable">
+					<li>
+                    <div>    
+                        <span class="hamburger">&#9776</span><p><span class="order">1. </span>Sr Business Analyst (Customer Service) -Contract-to-Hire</p>
+                    <p> <b>Raleigh, NC</b>
+                    
+                    <!--<span title="Remove from list" class="remove right_align"><img src="img/Remove_button_grey.png" height="20px" width="20px" onmouseover="this.src='img/Remove_button_green.png';" onmouseout="this.src='img/Remove_button_grey.png';" ></span>
+                    <span title="Sponsor" class="LA right_align"><img src="img/Left_arrow_grey.png" id="moveBtn" height="20px" width="20px" onmouseover="this.src='img/Left_arrow_green.png';" onmouseout="this.src='img/Left_arrow_grey.png';"></span>
+                     -->
+                     </p>
+                    </div>
+                    </li>
+                    
+                    <li>
+                    <div>    
+                    <span class="hamburger">&#9776</span><p><span class="order">2. </span>Business Analyst (Logistics) -Contract-to-Hire</p>
+                    <p> <b>Boston, MA</b>
+                    
+                    
+                     </p>
+                    </div>
+                    </li>
+                    
+                    <li>
+                    <div>    
+                    <span class="hamburger">&#9776</span><p><span class="order">3. </span>Android Software Engineer</p>
+                    <p> <b>San Francsico, CA</b>
+                    
+                    
+                     </p>
+                    </div>
+                    </li>
+                    
+				</ul>
+			</div>
+
+			<div class="block__list block__list_words">
+				<div class="block__list-title">Available Jobs (<span id="availablecounter">6</span> jobs)</div>
+                <div class="block__list-subtitle">Sort: Job A-Z  | <span style="color: #2476BA">Job Z-A </span> | <span style="color: #2476BA">Location A-Z </span> | <span style="color: #2476BA">Location Z-A</span><input type="text" name="search" placeholder="Search"><button><i class="fa fa-search fa-lg"></i></button>
+                </div>
+                
+				<ul id="advanced-3" class="available connectedSortable">
+                    
+					<li>
+                    <div>    
+                    <span class="hamburger">&#9776</span><p><span class="order"></span>iOS Software Engineer</p>
+                    <p> <b>Raleigh, NC</b>
+                    
+                    <!--<span title="Remove from list" class="remove right_align"><img src="img/Remove_button_grey.png" height="20px" width="20px" onmouseover="this.src='img/Remove_button_green.png';" onmouseout="this.src='img/Remove_button_grey.png';" ></span>
+                    <span title="Move to waitlist" class="LA right_align"><img src="img/WL_button_grey.png" height="20px" width="20px" id="moveBtn" onmouseover="this.src='img/WL_button_green.png';" onmouseout="this.src='img/WL_button_grey.png';"></span>             -->
+
+                     </p>
+                    </div>
+                    </li>
+                    
+                    <li>
+                    <div>    
+                    <span class="hamburger">&#9776</span><p><span class="order"></span>Senior Technology Architect - Mobile</p>
+                    <p> <b>Boston, MA</b>
+                    
+                    
+
+                     </p>
+                    </div>
+                    </li>
+                    
+                    <li>
+                    <div>    
+                    <span class="hamburger">&#9776</span><p><span class="order"></span>Associate Project Manager - New Business Development</p>
+                    <p> <b>San Francsico, CA</b>
+                    
+                
+
+                     </p>
+                    </div>
+                    </li>
+                    
+                    <li>
+                    <div>    
+                    <span class="hamburger">&#9776</span><p><span class="order"></span>Senior Product Manager - Mobile Apps</p>
+                    <p> <b>San Jose, CA</b>
+                    
+                
+
+                     </p>
+                    </div>
+                    </li>
+                    
+                    <li>
+                    <div>    
+                    <span class="hamburger">&#9776</span><p><span class="order"></span>User Experience Architect - Business Solutions</p>
+                    <p> <b>San Jose, CA</b>
+                    
+                
+
+                     </p>
+                    </div>
+                    </li>
+                    
+                    <li>
+                    <div>    
+                    <span class="hamburger">&#9776</span><p><span class="order"></span>User Interface Designer - Mobile</p>
+                    <p> <b>San Jose, CA</b>
+                    
+                
+
+                     </p>
+                    </div>
+                    </li>
+                
+				</ul>
+			</div>
+
+			<div style="clear: both"></div>
+		</div>
+	</div>
+
+
+	
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="http://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+
+	<!--
+    <script src="Sortable.js"></script>
+	<script src="//rubaxa.github.io/Ply/Ply.min.js"></script>
+	<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.26/angular.min.js"></script>
+	<script src="ng-sortable.js"></script>
+
+	<script src="st/app.js"></script>
+    -->
+    <script>
+        
+    //change button style
+    $('.WL').click(function(){
+    $(this).closest('li').appendTo('.waitlist');
+            $(this).find('#moveBtn').attr({
+        src: "img/Left_arrow_grey.png",
+        onmouseover: "this.src='img/Left_arrow_green.png';",       
+        onmouseout: "this.src='img/Left_arrow_grey.png';",
+    });
+    $('#advanced-2').find('#moveBtn').parent().removeClass('WL');
+    $('#advanced-2').find('#moveBtn').parent().addClass('LA');
+    });
+        
+    //slotted list: remove button 
+    $('.remove').click(function(){
+    $(this).closest('li').remove();    
+    });
+    
+    //click on LA button, move to slotted list
+  
+    $('.LA').click(function(){
+    $(this).closest('li').appendTo('.slotted');
+    $(this).find('#moveBtn').attr({
+        src: "img/WL_button_grey.png",
+        onmouseover: "this.src='img/WL_button_green.png';",       
+        onmouseout: "this.src='img/WL_button_grey.png';",
+    });
+    $('#advanced-1').find('#moveBtn').parent().addClass('WL');    
+    $('#advanced-1').find('#moveBtn').parent().removeClass('LA');    
+    });
+
+        
+    //sortbale
+       
+    $("#advanced-1, #advanced-2, #advanced-3").sortable(
+    {connectWith: ".connectedSortable"}, 
+    {revert:100}).disableSelection();
+    
+    $( "#advanced-1, #advanced-2, #advanced-3" ).sortable({
+    update: function( event, ui ) {
+    var n = $( ".slotted li" ).length;
+    $( "#slottedcounter" ).text( n + " of 20 ");
+    
+    var n = $( ".waitlist li" ).length;
+    $( "#waitlistcounter" ).text(n);
+    
+    $( "ul.waitlist span.order:eq(0)" ).text( 1 + ". ");
+    $( "ul.waitlist span.order:eq(1)" ).text( 2 + ". ");
+    $( "ul.waitlist span.order:eq(2)" ).text( 3 + ". ");
+    $( "ul.waitlist span.order:eq(3)" ).text( 4 + ". ");
+    $( "ul.waitlist span.order:eq(4)" ).text( 5 + ". ");
+    $( "ul.waitlist span.order:eq(5)" ).text( 6 + ". ");
+    $( "ul.waitlist span.order:eq(6)" ).text( 7 + ". ");
+    $( "ul.waitlist span.order:eq(7)" ).text( 8 + ". ");
+    $( "ul.waitlist span.order:eq(8)" ).text( 9 + ". ");
+    $( "ul.waitlist span.order:eq(9)" ).text( 10 + ". ");    
+    $( "ul.waitlist span.order:eq(10)" ).text( 11 + ". ");
+    $( "ul.waitlist span.order:eq(11)" ).text( 12 + ". ");
+    $( "ul.waitlist span.order:eq(12)" ).text( 13 + ". ");
+    $( "ul.waitlist span.order:eq(13)" ).text( 14 + ". ");
+    $( "ul.waitlist span.order:eq(14)" ).text( 15 + ". "); 
+        
+    var n = $( ".available li" ).length;
+    $( "#availablecounter" ).text(n);
+        
+    $( "ul.slotted span.order" ).text("");
+    $( "ul.available span.order" ).text("");
+    }
+    });
+    
+    //ordering    
+
+        
+    </script>
+
+	<!-- highlight.js -->
+	<style>
+		/* Tomorrow Theme */
+		/* http://jmblog.github.com/color-themes-for-google-code-highlightjs */
+		/* Original theme - https://github.com/chriskempson/tomorrow-theme */
+		/* http://jmblog.github.com/color-themes-for-google-code-highlightjs */
+		.tomorrow-comment, pre .comment, pre .title {
+		  color: #8e908c;
+		}
+		.tomorrow-red, pre .variable, pre .attribute, pre .tag, pre .regexp, pre .ruby .constant, pre .xml .tag .title, pre .xml .pi, pre .xml .doctype, pre .html .doctype, pre .css .id, pre .css .class, pre .css .pseudo {
+		  color: #c82829;
+		}
+		.tomorrow-orange, pre .number, pre .preprocessor, pre .built_in, pre .literal, pre .params, pre .constant {
+		  color: #f5871f;
+		}
+		.tomorrow-yellow, pre .class, pre .ruby .class .title, pre .css .rules .attribute {
+		  color: #eab700;
+		}
+		.tomorrow-green, pre .string, pre .value, pre .inheritance, pre .header, pre .ruby .symbol, pre .xml .cdata {
+		  color: #718c00;
+		}
+		.tomorrow-aqua, pre .css .hexcolor {
+		  color: #3e999f;
+		}
+		.tomorrow-blue, pre .function, pre .python .decorator, pre .python .title, pre .ruby .function .title, pre .ruby .title .keyword, pre .perl .sub, pre .javascript .title, pre .coffeescript .title {
+		  color: #4271ae;
+		}
+		.tomorrow-purple, pre .keyword, pre .javascript .function {
+		  color: #8959a8;
+		}
+		pre {
+			border: 0;
+			background-color: #fff;
+		}
+		pre code {
+		  display: block;
+		  color: #4d4d4c;
+		  font-size: 15px;
+		  font-family: Menlo, Monaco, Consolas, monospace;
+		  line-height: 1.5;
+		  padding: 30px;
+		}
+	</style>
+
+
+</body>
+</html>

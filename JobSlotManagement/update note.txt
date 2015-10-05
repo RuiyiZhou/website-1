@@ -1,0 +1,18 @@
+July 28th Update
+
+1. Column 2 supports sorting now.
+2. Get fid of the red color
+3. Add counter
+
+July 29th Update
+
+1. Remove buttons
+2. Add vertical scrollbar
+3. Support dragging to an empty list
+4. Add background color
+5. Support ordering
+6. Add search box
+
+July 30th Update
+1. Add border
+2. Add version 2 – 2 columns
