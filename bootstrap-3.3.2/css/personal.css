@@ -277,3 +277,74 @@ footer .footer-col {
     transition: all 0.3s ease 0s;
 }
 
+.fadein img{
+opacity: 0;
+    -webkit-animation:fadeIn ease-in 1;  /* call our keyframe named fadeIn, use animattion ease-in and repeat it only 1 time */
+  -moz-animation:fadeIn ease-in 1;
+  animation:fadeIn ease-in 1;
+
+  -webkit-animation-fill-mode:forwards;  /* this makes sure that after animation is done we remain at the last keyframe value (opacity: 1)*/
+  -moz-animation-fill-mode:forwards;
+  animation-fill-mode:forwards;
+
+  -webkit-animation-duration:1s;
+  -moz-animation-duration:1s;
+  animation-duration:1s;
+}
+
+
+/* Quote Style */
+blockquote {
+
+  margin: 1.5em 10px;
+  quotes: "\201C""\201D""\2018""\2019";
+  font-size: 2em;
+}
+blockquote:before {
+  color: #ccc;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-left: -0.33em;
+  vertical-align: -0.4em;
+}
+
+
+
+blockquote p {
+  display: inline;
+}
+
+.btn-inline {
+   margin: 10px;
+    margin-left: 0px;
+    padding: 10px 16px;
+    font-size: 16px;
+    color: #424242;
+    font-weight: 200;
+    line-height: 1.3333333;
+    border: 2px solid #424242;
+    transition: all 0.3s ease 0s;
+    -webkit-transition: all 0.3s ease 0s;
+    -moz-transition: all 0.3s ease 0s;
+    display: inline-block;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    background-image: none;
+    text-decoration: none;
+    background-color: transparent;
+    box-sizing: border-box; 
+    
+}
+
+.btn-inline a {
+    color: #424242;
+
+}
