@@ -1077,7 +1077,7 @@ body {
   font-size: 16px;
   font-family: 'Lato', sans-serif;
   font-weight:200;
-  line-height: 1.42857143;
+  line-height: 1.6;
   color: #424242;
   background-color: #fff;
 }
@@ -1089,8 +1089,9 @@ textarea {
   font-size: inherit;
   line-height: inherit;
 }
+
 a {
-  color: #ffffff;
+  
   text-decoration: none;
   transition: all 0.3s ease 0s;
 }
@@ -3025,7 +3026,7 @@ fieldset[disabled] .btn {
 .btn-default.active,
 .open > .dropdown-toggle.btn-default {
   color: #ffffff;
-background-color: rgba(0,0,0,0.35);
+background-color: rgba(0,0,0,0.75);
     border:2px solid rgba(0,0,0,0.05);
 }
 .btn-default:active,

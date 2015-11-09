@@ -1,38 +1,10 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
-
 <head>
-    <meta charset="utf-8">
+   
+<?php include('header.php'); ?>
 
-
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Ruiyi's portfolio">
-    <meta name="author" content="Ruiyi Zhou">
-    <link rel="stylesheet" type="text/css" href="bootstrap-3.3.2/css/bootstrap.min.css">
-    <link rel="stylesheet" type="text/css" href="bootstrap-3.3.2/css/bootstrap.css">
-    <link rel="stylesheet" type="text/css" href="bootstrap-3.3.2/css/animate.css"> 
-    <link rel="stylesheet" type="text/css" href="css/agency.css">
-    <link rel="stylesheet" type="text/css" href="bootstrap-3.3.2/css/personal.css">
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-    <script src="bootstrap-3.3.2/js/bootstrap.min.js"></script>
-    <script src="bootstrap-3.3.2/js/fadein.js"></script>
-    <script src="animation.js"></script>
-    <script src="bootstrap-3.3.2/js/bootstrap.js"></script>
-    <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-    <link href='http://fonts.googleapis.com/css?family=Lato:300,400' rel='stylesheet' type='text/css'>
-    <link rel="icon" href="favicon.ico" type="image/x-icon" />
-    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
-    <link rel="icon" href="favicon.ico" type="image/x-icon" />
-    <script src="js/modernizr.custom.97074.js"></script>
-    <script src="js/scrollbacktotop.js"></script> 
-    <!-- Parallax Scrolling -->
-<script src="js/parallax.js"></script>
-<script src="js/parallax.min.js"></script>
-<script src="js/scrollhidden.js"></script>
-      <!-- End -->
-    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-
-    <title>Glassdoor</title>
+<title>Glassdoor</title>
     <script>
         (function(i, s, o, g, r, a, m) {
             i['GoogleAnalyticsObject'] = r;
@@ -52,83 +24,13 @@
 
 </head>
 
-<!--Navigation Bar-->
-
 <body>
-     <!--Navigation-->
-    <nav id="nav" class="navbar navbar-default navbar-inverse navbar-fixed-top hidden">
-        <div class="container-fluid">
-            <!-- Brand and toggle get grouped for better mobile display -->
-            <div class="navbar-header">
-                <div  class="navbar-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </div>
-                <a class="navbar-brand" href="index.html">Ruiyi Zhou</a>
-            </div>
-
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div id="navbar" class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                <ul class="nav navbar-nav navbar-right">
-                    <li class="hidden">
-                        <a href="#page-top"></a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="index.html#expertise">Expertise</a>
-                    </li>
-                    <li>
-                        <a class="active" href="index.html#portfolio">Portfolio</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="RuiyiZhou-MS-HCDE.pdf">Resume</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="#contact">Contact</a>
-                    </li>
-                </ul>
-            </div>
-            <!-- /.navbar-collapse -->
-        </div>
-        <!-- /.container-fluid -->
-    </nav>
-
-
-    <!--Home image-->
+<?php include('float_navigation.php'); ?>
+    
+<!--Home image-->
     <div class="parallax-window" data-parallax="scroll" data-image-src="images/glassdoortheme.jpg">
-        <div class="container-fluid">
-            <!-- Brand and toggle get grouped for better mobile display -->
-            <div class="navbar-header">
-                <div class="navbar-toggle" data-toggle="collapse" data-target="#fakenavbar" aria-expanded="false" aria-controls="fakenavbar" >
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </div>
-                <a class="navbar-brand" href="index.html">Ruiyi Zhou</a>
-            </div>
 
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div id="fakenavbar" class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                <ul class="nav navbar-nav navbar-right">
-                    <li>
-                        <a class="page-scroll" href="index.html#expertise">Expertise</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="index.html#portfolio">Portfolio</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="RuiyiZhou-MS-HCDE.pdf">Resume</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="#contact">Contact</a>
-                    </li>
-                </ul>
-            </div>
-            </div>
-            <!-- /.navbar-collapse -->
-        <!-- /.container-fluid -->
+<?php include('fixed_navigation.php'); ?>
 
         <div class="container animated fadeInUp">
             <div class="titlename margin15">
@@ -204,7 +106,7 @@
           </ul>
             </div>
            <div class="col-md-6 vcenter">
-           <img class="img-responsive" src="images/glassdoor-survey.png" style="max-width: 90%; margin:0 auto">
+           <img class="img-responsive " src="images/glassdoor-survey.png" style="max-width: 90%; margin:0 auto">
             </div>
         </div>
         
@@ -221,7 +123,7 @@
 
             </div>
             <div class="col-md-6 vcenter">
-           <img class="img-responsive" src="images/glassdoor-viz.png" style="max-width: 90%; margin:0 auto">
+           <img class="img-responsive " src="images/glassdoor-viz.png" style="max-width: 90%; margin:0 auto">
             </div>
         </div>
             
@@ -310,7 +212,7 @@
         
         
         
-<div class="row featurette onhover opacity" onclick="location.href='FareStart.html';" style="cursor: pointer;">
+<div class="row featurette onhover opacity" onclick="location.href='farestart.php';" style="cursor: pointer;">
         <div class="col-md-5">
           <img class="featurette-image img-responsive " src="images/farestart.png" alt="Generic placeholder image" style="width: 300px; ">
         </div>
@@ -323,71 +225,8 @@
 
                
 </div>
-    <!-- Footer -->
-    <footer id="contact">
-        <div class="footer-above">
-            <div class="container">
-                <div class="row margin15">
-                    <div class="footer-col col-md-3">
-                    <h3>Get in touch</h3>
-                      <ul class="list-inline">
-                                                       <li>
-                                <a href="http://www.linkedin.com/pub/ruiyi-zhou/94/b52/644/en" class="btn-social"><i class="fa fa-fw fa-linkedin"></i></a>
-                            </li>  
-                          <li>
-                                <a href="https://www.facebook.com/zhou.ruiyi" class="btn-social"><i class="fa fa-fw fa-facebook"></i></a>
-                            </li>
-                            <li>
-                                <a href="http://instagram.com/ruiyizhou/" class="btn-social"><i class="fa fa-fw fa-instagram"></i></a>
-                            </li>
-
-                            <li>
-                                <a href="https://www.pinterest.com/zhouruiyi/" class="btn-social"><i class="fa fa-fw fa-pinterest"></i></a>
-                            </li>
-                        </ul>
-                    </div>
-
-                    <div class="footer-col col-md-3">
-                        <h3>Right now</h3>
-                        <p>I'm currently a student at Human Centered Design and Engineering, University of Washington.</p>
-                    </div>
-                    
-                    <div class="footer-col col-md-3">
-                        <h3>Location</h3>
-                        <p>Seattle, Washington, 98105</p>
-                    </div>
-
-                    <div class="footer-col col-md-3">
-                        <h3>Contact me</h3>
-                    <i class="fa fa-fw fa-envelope-o"></i>ryzhou@uw.edu<br>
-                    <i class="fa fa-fw fa-mobile"></i>206.383.9873<br>
-                    </div>
-                    
-
-                </div>
-                 <div class="copyright">
-                    <p>Copyright &copy; Ruiyi Zhou</p>
-                    </div>
-            </div>
-        </div>
-
-    </footer>
-
-    </div>
-            <!-- FOOTER -->
-
-            <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
-            <script type="text/javascript" src="js/jquery.hoverdir.js"></script>
-            <script type="text/javascript">
-                $(function() {
-
-                    $(' #da-thumbs > li ').each(function() {
-                        $(this).hoverdir();
-                    });
-
-                });
-            </script>
+        
+<?php include('footer.php'); ?>
 
 </body>
-
 </html>
