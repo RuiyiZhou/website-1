@@ -21,7 +21,7 @@
                             </li>
 
                             <li>
-                                <a href="https://www.pinterest.com/zhouruiyi/" class="btn-social" target="_blank"><i class="fa fa-fw fa-medium"></i></a>
+                                <a href="https://medium.com/@ruiyizhou" class="btn-social" target="_blank"><i class="fa fa-fw fa-medium"></i></a>
                             </li>
 
                         </ul>

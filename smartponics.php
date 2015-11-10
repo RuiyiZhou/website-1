@@ -163,7 +163,7 @@ Our prefabricated, remotely controlled hydroponics system provides a vegetable g
       <hr class="featurette-divider">
 
 <!--Start carousel-->
-<div id="carousel-example-generic" class="carousel slide" data-ride="carousel" style="max-width: 600px; margin: 0 auto">
+<div id="carousel-example-generic" class="carousel slide" data-ride="carousel" style="max-width: 100%; margin: 0 auto">
   <!-- Indicators -->
   <ol class="carousel-indicators">
     <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
@@ -174,21 +174,19 @@ Our prefabricated, remotely controlled hydroponics system provides a vegetable g
   <!-- Wrapper for slides -->
   <div class="carousel-inner">
     <div class="item active">
-      <img src="images/smartponics_persona.jpg" alt="...">
+      <img src="images/smartponics_persona_1.png" alt="...">
       <div class="carousel-caption">
-          <h3>Primary Persona - Mike</h3>
       </div>
     </div>
     <div class="item">
-      <img src="images/smartponics_persona_2.jpg" alt="...">
+      <img src="images/smartponics_persona_2.png" alt="...">
       <div class="carousel-caption">
-          <h3>Secondary Persona - James</h3>
       </div>
     </div>
     <div class="item">
-      <img src="images/smartponics_persona_3.jpg" alt="...">
+      <img src="images/smartponics_persona_3.png" alt="...">
       <div class="carousel-caption">
-          <h3>Supplementary Pesona - Lisa</h3>
+
       </div>
     </div>
   </div>
@@ -205,16 +203,16 @@ Our prefabricated, remotely controlled hydroponics system provides a vegetable g
    </div>     
                 <h3 class="bs-docs-featurette-title nextproject">Sketch</h3>
                 <hr class="featurette-divider">
-                <img class="featurette-image img-responsive " src="images/smartponics_sketch.jpg" style="width: 800px; margin:0 auto; ">
+                <img class="featurette-image img-responsive " src="images/smartponics_sketch.jpg" style="width: 100%; margin:0 auto; ">
 
                 <h3 class="bs-docs-featurette-title nextproject">User Flow</h3>
                 <hr class="featurette-divider">
-                <img class="featurette-image img-responsive " src="images/smartponics_userflow.png" style="width: 800px; margin:0 auto; ">
+                <img class="featurette-image img-responsive " src="images/smartponics_userflow.png" style="width: 100%; margin:0 auto; ">
 
         
                <h2 class="bs-docs-featurette-title nextproject">Prototype</h2>
                <hr class="featurette-divider">
-               <img class="featurette-image img-responsive " src="images/smartponics_prototype.jpg" style="width: 800px; margin:0 auto; ">
+               <img class="featurette-image img-responsive " src="images/smartponics_prototype.jpg" style="width: 100%; margin:0 auto; ">
 
 
                 <h3 class="bs-docs-featurette-title nextproject ">Usability Testing and Key Findings</h3>
