@@ -1,3 +1,3 @@
 # website-1
-This is the source code of my portfolio website
-Portfolio: students.washington.edu/ryzhou
+<p> This is the source code of my portfolio website</p>
+<p>View my portfolio <a href="http://students.washington.edu/ryzhou"> here</a></p>
