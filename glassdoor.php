@@ -160,10 +160,12 @@
         <hr class="featurette-divider">
         <div class="row featurette marginbottomtop30">
             
-            <p>A fully interactive prototype of the Job Slots Management. Try it <a href="JobSlotManagement/index.html" style="color:#2c84cc">here</a></p>
+            <p>A fully interactive prototype of the Job Slots Management.</p>
             
+                          
             <img class="img-responsive " src="images/jobslot.png" style="max-width: 100%;">
-            
+            <h3 class="center"><a class="btn btn-align btn-default btn-inline text-center" href="JobSlotManagement/index.html" target="_blank" role="button">Try  It Now</a></h3>
+                      
         </div>
 
             <h3 class="nextproject">User Research</h3>

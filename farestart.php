@@ -86,8 +86,8 @@
           <div class="col-md-7" style="float: none; margin: 0 auto;">
               
           <p>This is the <b>course project</b> of HCDE537 Web Design. We redesigned the website for <b>FareStart</b>, a non-profit, social organization which has been providing hands-on culinary job training and job placement for homeless and disadvantaged individuals and families in Seattle for over 20 years.</p>
-              <p>Try final prototype <a href="http://hcxwfn.axshare.com/home.html" style="color:#2c84cc">here</a></p>
-              
+              <h3 class="center"><a class="btn btn-align btn-default btn-inline text-center" href="https://hcxwfn.axshare.com/home.html" target="_blank" role="button">Try Final Prototype Now</a></h3>
+
         </div>
         </div> 
         

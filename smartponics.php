@@ -39,8 +39,7 @@
                 <p>
                     <a class="btn btn-lg btn-default btn-align text-center" href="Final_Presentation_SmartPonics.pdf" role="button">Final Presentation</a>
                     <a class="btn btn-lg btn-default btn-align text-center" href="Resources/P5 Design Spec - Group7.pdf" role="button">Design Specification</a>
-                    <a class="btn btn-lg btn-default btn-align text-center" href="http://dlnbk7.axshare.com" role="button">Prototype</a>
-                </p>
+                 </p>
             </div>
         </div>
     </div>
@@ -70,6 +69,7 @@
                 <div class="col-md-3">
                     <h3>Tools<i class="fa fa-fw fa-wrench"></i></h3>
                     <p>Axure</p>
+                    <p>Sketch</p>
                     <p>Photoshop</p>
                 </div>
             </div>
@@ -208,12 +208,13 @@ Our prefabricated, remotely controlled hydroponics system provides a vegetable g
                 <h3 class="bs-docs-featurette-title nextproject">User Flow</h3>
                 <hr class="featurette-divider">
                 <img class="featurette-image img-responsive " src="images/smartponics_userflow.png" style="width: 100%; margin:0 auto; ">
-
-        
-               <h2 class="bs-docs-featurette-title nextproject">Prototype</h2>
+ 
+               <h2 class="bs-docs-featurette-title nextproject">Wireframe</h2>
                <hr class="featurette-divider">
-               <img class="featurette-image img-responsive " src="images/smartponics_prototype.jpg" style="width: 100%; margin:0 auto; ">
-
+               <img class="featurette-image img-responsive " src="images/smartponics_wireframe_1.png" style="width: 100%; margin:0 auto; ">
+               <img class="featurette-image img-responsive " src="images/smartponics_wireframe_2.png" style="width: 100%; margin:0 auto; ">
+               <img class="featurette-image img-responsive " src="images/smartponics_wireframe_3.png" style="width: 100%; margin:0 auto; ">
+               <img class="featurette-image img-responsive " src="images/smartponics_wireframe_4.png" style="width: 100%; margin:0 auto; ">
 
                 <h3 class="bs-docs-featurette-title nextproject ">Usability Testing and Key Findings</h3>
                 <hr class="featurette-divider">
