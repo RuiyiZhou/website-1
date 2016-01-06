@@ -182,12 +182,16 @@ TraveLENS is an interactive visualization tool that equips potential travellers 
                 
                 </div>
         </div>
+
+</div>
+
+
         
         
-        
-        <hr class="featurette-divider">
+        <div style="background-color: #F5F5F5;">
+        <div class="container" style="padding:15px">
         <h3>Round 2</h3>   
-        <img class="featurette-image img-responsive " src="images/travelens_round2wireframe.jpg" style="width: 800px; margin:0 auto; ">
+        <img class="featurette-image img-responsive " src="images/travelens_round2wireframe.png" style="width: 800px; margin:0 auto; ">
         <div class="row featurette marginbottomtop30">
          
             
@@ -219,8 +223,10 @@ TraveLENS is an interactive visualization tool that equips potential travellers 
                 
                 </div>
         </div>
-        
-        <hr class="featurette-divider">
+        </div>
+    </div>
+
+        <div class="container" style="padding:15px">
         <h3>Round 3</h3>   
         <img class="featurette-image img-responsive " src="images/travelens_round3wireframe.jpg" style="width: 800px; margin:0 auto; ">
         <div class="row featurette marginbottomtop30">

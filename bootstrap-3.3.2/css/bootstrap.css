@@ -1150,7 +1150,9 @@ hr {
   margin-top: 20px;
   margin-bottom: 20px;
   border: 0;
-  border-top: 1px solid #eee;
+  border-top: 6px solid #424242;
+  align-content: center;
+  width: 10%;
 }
 .sr-only {
   position: absolute;

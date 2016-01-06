@@ -179,9 +179,9 @@
   <div class="col-mg-7">
   <a href="https://www.goodreads.com/book/show/68143.The_Wisdom_of_Crowds?from_search=true&search_version=service" target="_blank"><img class="featurette-image img-responsive img-inlineblock" src="images/book_wisdomofcrowds.jpg" alt="Generic placeholder image" style="max-width:150px; "></a>
 
-  <a href="https://www.goodreads.com/book/show/12609433-the-power-of-habit?from_search=true&search_version=service" target="_blank"><img class="featurette-image img-responsive img-inlineblock" src="images/book_thepowerofhabit.jpg" alt="Generic placeholder image" style="max-width:150px; "></a>
+  <a href="https://www.goodreads.com/book/show/69242.Made_to_Stick" target="_blank"><img class="featurette-image img-responsive img-inlineblock" src="images/book_madetostick.jpeg" alt="Generic placeholder image" style="max-width:150px; "></a>
 
-  <a href="https://www.goodreads.com/book/show/19904558-service-design?from_search=true&search_version=service" target="_blank"><img class="featurette-image img-responsive img-inlineblock" src="images/book_servicedesign.jpg" alt="Generic placeholder image" style="max-width:150px; "></a>
+  <a href="https://www.goodreads.com/book/show/336258.Information_Dashboard_Design" target="_blank"><img class="featurette-image img-responsive img-inlineblock" src="images/book_informationdashboarddesign.png" alt="Generic placeholder image" style="max-width:150px; "></a>
   </div>
   </div>
   </div>

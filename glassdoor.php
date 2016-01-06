@@ -86,7 +86,7 @@
 <blockquote>A journey I enjoyed, a job I loved, and a team I missed.</blockquote></div>    
             
             <div class="col-md-7" style="float: none; margin: 0 auto;">
-            <p>This is a brief summary of what I’ve done in this internship. The projects I’ve done are categorized into six sections: analysis, design, prototype, user research, pattern library, and mobile.</p>
+            <p>This is a brief summary of what I’ve done in this internship. The projects I’ve done are categorized into six sections: analysis, design, prototype, user research, pattern library, and mobile. Certain mockups are not included due to NDA.</p>
         </div>
         </div> 
         
@@ -176,6 +176,7 @@
                     <p>Jobs. Jobs. Jobs. It’s all about jobs. The current user flow of job searching and application was not optimal. To start optimizing it, I worked to put together the task flows and then called out the bad experience along the task flow. And compared this experience with the ones offered by main competitors.</p>
                 </div>
                 <div class="col-md-6 vcenter">
+                <img class="img-responsive " src="images/glassdoor-userflow.jpg" style="max-width: 100%; margin:0 auto">  
                 
                 </div>
         </div>
@@ -203,7 +204,6 @@
                     
                 </div>
                 <div class="col-md-6 vcenter">
-                  
                 </div>
         </div>
 
