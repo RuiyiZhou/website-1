@@ -309,7 +309,7 @@ TraveLENS is an interactive visualization tool that equips potential travellers 
 
                 <div class="row featurette onhover" onclick="location.href='smartponics.php';" style="cursor: pointer;">
                     <div class="col-md-5">
-                        <img class="featurette-image img-responsive" src="images/smartponics.png" alt="Generic placeholder image" style="width: 300px; ">
+                        <img class="featurette-image img-responsive" src="images/smartponics.png" alt="Generic placeholder image" style="width: 100%; ">
                     </div>
                     <div class="col-md-7">
                         <h3 class="featurette-heading">SmartPonics <br><span class="text-muted">UX/UI Designer</span></h3>

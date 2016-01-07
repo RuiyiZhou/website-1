@@ -237,7 +237,7 @@ Our prefabricated, remotely controlled hydroponics system provides a vegetable g
 
                 <div class="row featurette onhover" onclick="location.href='qqbrowser.php';" style="cursor: pointer;">
                     <div class="col-md-5">
-                        <img class="featurette-image img-responsive" src="images/qqbrowser.png" alt="Generic placeholder image" style="width: 300px; ">
+                        <img class="featurette-image img-responsive" src="images/qqbrowser.png" alt="Generic placeholder image" style="width: 100%; ">
                     </div>
                     <div class="col-md-7">
                         <h3 class="featurette-heading">QQ Browser <br><span class="text-muted">Product Manager</span></h3>

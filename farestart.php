@@ -245,7 +245,7 @@ In order to accurately reflect all that FareStart offers and to continue to grow
 <div class="row featurette onhover opacity" onclick="location.href='travelens.php';" style="cursor: pointer;" >
             
             <div class="col-md-5">
-        <img class="featurette-image img-responsive " src="images/travelens.png" alt="Generic placeholder image" style="width: 300px;">
+        <img class="featurette-image img-responsive " src="images/travelens.png" alt="Generic placeholder image" style="width: 100%;">
         </div>
 
 

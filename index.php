@@ -89,11 +89,10 @@
       <hr class="featurette-divider">
             <div class="row featurette onhover opacity" onclick="location.href='glassdoor.php';" style="cursor: pointer;" >
             
-            <div class="col-md-4">
-        <img class="featurette-image img-responsive " src="images/glassdoor.png" alt="Generic placeholder image" style="width: 300px;">
+            <div class="col-md-5">
+        <img class="featurette-image img-responsive " src="images/glassdoor.png" alt="Generic placeholder image" style="width: 100%;">
         </div>
-            <div class="col-md-1">
-        </div>
+
 
         <div class="col-md-7">
           <h3 class="featurette-heading ">Glassdoor <br><span class="text-muted">UX/UI Design Intern</span></h3>
@@ -107,7 +106,7 @@
 
 <div class="row featurette onhover opacity" onclick="location.href='farestart.php';" style="cursor: pointer;">
         <div class="col-md-5">
-          <img class="featurette-image img-responsive " src="images/farestart.png" alt="Generic placeholder image" style="width: 300px; ">
+          <img class="featurette-image img-responsive " src="images/farestart.png" alt="Generic placeholder image" style="width: 100%; ">
         </div>
         <div class="col-md-7">
           <h3 class="featurette-heading">FareStart <br><span class="text-muted">UX Designer</span></h3>
@@ -120,7 +119,7 @@
          <div class="row featurette onhover opacity" onclick="location.href='travelens.php';" style="cursor: pointer;" >
             
             <div class="col-md-5">
-        <img class="featurette-image img-responsive " src="images/travelens.png" alt="Generic placeholder image" style="width: 300px;">
+        <img class="featurette-image img-responsive " src="images/travelens.png" alt="Generic placeholder image" style="width: 100%;">
         </div>
 
 
@@ -137,7 +136,7 @@
 
       <div class="row featurette onhover opacity" onclick="location.href='smartponics.php';" style="cursor: pointer;">
         <div class="col-md-5">
-          <img class="featurette-image img-responsive " src="images/smartponics.png" alt="Generic placeholder image" style="width: 300px; ">
+          <img class="featurette-image img-responsive " src="images/smartponics.png" alt="Generic placeholder image" style="width: 100%; ">
         </div>
         <div class="col-md-7">
           <h3 class="featurette-heading">SmartPonics <br><span class="text-muted">UX/UI Designer</span></h3>
@@ -150,7 +149,7 @@
       
       <div class="row featurette onhover opacity" onclick="location.href='qqbrowser.php';" style="cursor: pointer;">
        <div class="col-md-5">
-          <img class="featurette-image img-responsive " src="images/qqbrowser.png" alt="Generic placeholder image" style="width: 300px; ">
+          <img class="featurette-image img-responsive " src="images/qqbrowser.png" alt="Generic placeholder image" style="width: 100%; ">
         </div>
         <div class="col-md-7">
           <h3 class="featurette-heading">QQ Browser <br><span class="text-muted">Product Manager</span></h3>
