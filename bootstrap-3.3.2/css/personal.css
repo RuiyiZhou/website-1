@@ -409,3 +409,8 @@ a:hover.inline-link {
 {
     opacity:0;
 }
+
+.marginright {
+  margin-right: -100px;
+
+}
