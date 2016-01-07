@@ -89,10 +89,11 @@
       <hr class="featurette-divider">
             <div class="row featurette onhover opacity" onclick="location.href='glassdoor.php';" style="cursor: pointer;" >
             
-            <div class="col-md-5">
+            <div class="col-md-4">
         <img class="featurette-image img-responsive " src="images/glassdoor.png" alt="Generic placeholder image" style="width: 300px;">
         </div>
-
+            <div class="col-md-1">
+        </div>
 
         <div class="col-md-7">
           <h3 class="featurette-heading ">Glassdoor <br><span class="text-muted">UX/UI Design Intern</span></h3>
@@ -177,7 +178,7 @@
   <a href="https://www.goodreads.com/user/show/47665326-ruiyi-zhou" target="_blank"><img class="featurette-image img-responsive img-inlineblock opacity" src="images/logo_goodreads.png" alt="Generic placeholder image" style="max-width:100px; "></a>
   </div>
   <div class="col-mg-7">
-  <a href="https://www.goodreads.com/book/show/68143.The_Wisdom_of_Crowds?from_search=true&search_version=service" target="_blank"><img class="featurette-image img-responsive img-inlineblock" src="images/book_wisdomofcrowds.jpg" alt="Generic placeholder image" style="max-width:150px; "></a>
+  <a href="https://www.goodreads.com/book/show/99315.A_Whole_New_Mind" target="_blank"><img class="featurette-image img-responsive img-inlineblock" src="images/book_awholenewmind.jpg" alt="Generic placeholder image" style="max-width:150px; "></a>
 
   <a href="https://www.goodreads.com/book/show/69242.Made_to_Stick" target="_blank"><img class="featurette-image img-responsive img-inlineblock" src="images/book_madetostick.jpeg" alt="Generic placeholder image" style="max-width:150px; "></a>
 
