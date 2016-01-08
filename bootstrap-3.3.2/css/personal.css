@@ -414,3 +414,7 @@ a:hover.inline-link {
   margin-right: -100px;
 
 }
+
+img.small75 {
+  width: 75px;
+}
