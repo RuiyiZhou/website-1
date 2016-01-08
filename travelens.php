@@ -89,8 +89,7 @@
 TraveLENS is an interactive visualization tool that equips potential travellers with data and information across a wide range of risk factors that could influence in their decision-making process. It is designed to let the users see and explore the world through different categories of lenses depending on their tasks and goals, and the visualization is designed to adapt and morph to fit the requirements of each category and to present that category’s information in the most effective and expressive way.
         </div>
         </div>
-
-               <img class="img-responsive " src="images/travelens_main_new.png" style="max-width: 100%;">
+        <a class="example-image-link" href="images/travelens_main_new.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/travelens_main_new.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>  
 
         
 <h3 class="center">Video Demo</h3>
@@ -118,20 +117,20 @@ TraveLENS is an interactive visualization tool that equips potential travellers 
 
             </div>
             <div class="col-md-6 vcenter">
-                <img class="featurette-image img-responsive" src="images/travelens_datasets.png" style='width:100%;'>
+        <a class="example-image-link" href="images/travelens_datasets.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/travelens_datasets.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>  
+
             </div>
         </div>
         
         <h3 class="nextproject ">Ideation</h3>
         <hr class="featurette-divider">
-        <img class="img-responsive " src="images/travelens_ideation.jpg" style="max-width: 100%;">
-        
+        <a class="example-image-link" href="images/travelens_ideation.jpg" data-lightbox="example-1"><img class="example-image img-responsive" src="images/travelens_ideation.jpg" alt="image-1" style="max-width: 100%; margin:0 auto" /></a> 
+
         
         <h3 class="nextproject ">Design Process</h3>
         <hr class="featurette-divider">
         <h3>Round 1</h3>
-              <img class="featurette-image img-responsive " src="images/travelens_round1wireframe.jpg" style="width: 800px; margin:0 auto; ">
-
+                <a class="example-image-link" href="images/travelens_round1wireframe.jpg" data-lightbox="example-1"><img class="example-image img-responsive" src="images/travelens_round1wireframe.jpg" alt="image-1" style="max-width: 100%; margin:0 auto" /></a> 
         
 
         <div class="row featurette marginbottomtop30">
@@ -144,7 +143,8 @@ TraveLENS is an interactive visualization tool that equips potential travellers 
           </ul>
             </div>
             <div class="col-md-6 vcenter">
-                <img class="featurette-image img-responsive" src="images/travelens_circle.png" style='width:100%;'>
+                <a class="example-image-link" href="images/travelens_circle.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/travelens_circle.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a> 
+
             </div>
         </div>
         
@@ -158,7 +158,7 @@ TraveLENS is an interactive visualization tool that equips potential travellers 
           </ul>
             </div>
             <div class="col-md-6 vcenter">
-                <img class="featurette-image img-responsive" src="images/travelens_choropleth.png" style='width:100%;'>
+                <a class="example-image-link" href="images/travelens_choropleth.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/travelens_choropleth.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>
             </div>
         </div>
         
@@ -191,7 +191,8 @@ TraveLENS is an interactive visualization tool that equips potential travellers 
         <div style="background-color: #F5F5F5;">
         <div class="container" style="padding:15px">
         <h3>Round 2</h3>   
-        <img class="featurette-image img-responsive " src="images/travelens_round2wireframe.png" style="width: 800px; margin:0 auto; ">
+                <a class="example-image-link" href="images/travelens_round2wireframe.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/travelens_round2wireframe.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>
+
         <div class="row featurette marginbottomtop30">
          
             
@@ -201,7 +202,8 @@ TraveLENS is an interactive visualization tool that equips potential travellers 
                 <p>Parallel coordinates was chosen to support comparison across many dissimilar variables and correlate multiple variables simultaneously.</p>
             </div>
             <div class="col-md-6 vcenter">
-                <img class="featurette-image img-responsive" src="images/travelens_designprocess_2_new.png" >
+                <a class="example-image-link" href="images/travelens_designprocess_2_new.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/travelens_designprocess_2_new.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>
+
             </div>
         </div>
         
@@ -228,7 +230,8 @@ TraveLENS is an interactive visualization tool that equips potential travellers 
 
         <div class="container" style="padding:15px">
         <h3>Round 3</h3>   
-        <img class="featurette-image img-responsive " src="images/travelens_round3wireframe.jpg" style="width: 800px; margin:0 auto; ">
+                <a class="example-image-link" href="images/travelens_round3wireframe.jpg" data-lightbox="example-1"><img class="example-image img-responsive" src="images/travelens_round3wireframe.jpg" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>
+
         <div class="row featurette marginbottomtop30">
          
             
@@ -238,7 +241,8 @@ TraveLENS is an interactive visualization tool that equips potential travellers 
                 <p>The parallel coordinates was presented under the main tab together with other plots. Brushing and linking was therefore empowered to generate more insights.</p>
             </div>
             <div class="col-md-6 vcenter">
-                <img class="featurette-image img-responsive" src="images/travelens_integratedmaintab.png" >
+                <a class="example-image-link" href="images/travelens_integratedmaintab.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/travelens_integratedmaintab.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>                
+
             </div>
         </div>
         
@@ -248,7 +252,8 @@ TraveLENS is an interactive visualization tool that equips potential travellers 
            <p>The scatter plot serves as a correlation tool that contextualizes the selected variable against the baseline tourist arrivals data.</p>
             </div>
             <div class="col-md-6 vcenter">
-                <img class="featurette-image img-responsive" src="images/travelens_scatterplot.png" >
+                <a class="example-image-link" href="images/travelens_scatterplot.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/travelens_scatterplot.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>                 
+
             </div>
 
 
@@ -276,7 +281,8 @@ TraveLENS is an interactive visualization tool that equips potential travellers 
         
         <h3 class="nextproject ">Final Product</h3>
         <hr class="featurette-divider">
-        <img class="img-responsive " src="images/travelens_main_new.png" style="max-width: 100%;">
+                 <a class="example-image-link" href="images/travelens_main_new.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/travelens_main_new.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a> 
+                        
         <h3 class="center"><a class="btn btn-align btn-default btn-inline text-center" href="https://drive.google.com/file/d/0B3ZohE4IjwhkRkFtb2Nzc0FHTVE/view?usp=sharing" target="_blank" role="button">Try It Now (runs on Windows)</a></h3>
 
 
