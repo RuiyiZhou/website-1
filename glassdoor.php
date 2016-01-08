@@ -106,7 +106,8 @@
           </ul>
             </div>
            <div class="col-md-6 vcenter">
-           <img class="img-responsive " src="images/glassdoor-survey.png" style="max-width: 90%; margin:0 auto">
+                      <a class="example-image-link" href="images/glassdoor-survey.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/glassdoor-survey.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>
+
             </div>
         </div>
         
@@ -123,7 +124,9 @@
 
             </div>
             <div class="col-md-6 vcenter">
-           <img class="img-responsive " src="images/glassdoor-viz.png" style="max-width: 90%; margin:0 auto">
+             <a class="example-image-link" href="images/glassdoor-viz.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/glassdoor-viz.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>
+
+
             </div>
         </div>
             
@@ -137,7 +140,7 @@
 
             </div>
             <div class="col-md-6 vcenter">
-           <img class="img-responsive " src="images/glassdoor-as.png" style="max-width: 90%; margin:0 auto">
+            <a class="example-image-link" href="images/glassdoor-as.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/glassdoor-as.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>     
             </div>
         </div>
         
@@ -162,8 +165,8 @@
             
             <p>A fully interactive prototype of the Job Slots Management.</p>
             
-                          
-            <img class="img-responsive " src="images/jobslot.png" style="max-width: 100%;">
+            <a class="example-image-link" href="images/jobslot.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/jobslot.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>                            
+
             <h3 class="center"><a class="btn btn-align btn-default btn-inline text-center" href="JobSlotManagement/index.html" target="_blank" role="button">Try  It Now</a></h3>
                       
         </div>
@@ -176,7 +179,7 @@
                     <p>Jobs. Jobs. Jobs. It’s all about jobs. The current user flow of job searching and application was not optimal. To start optimizing it, I worked to put together the task flows and then called out the bad experience along the task flow. And compared this experience with the ones offered by main competitors.</p>
                 </div>
                 <div class="col-md-8 vcenter marginright">
-                <img class="img-responsive " src="images/glassdoor-userflow.jpg" style="max-width: 100%; margin:0 auto">  
+            <a class="example-image-link" href="images/glassdoor-userflow.jpg" data-lightbox="example-1"><img class="example-image img-responsive" src="images/glassdoor-userflow.jpg" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>                      
                 
                 </div>
         </div>
