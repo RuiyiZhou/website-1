@@ -204,17 +204,17 @@ In order to accurately reflect all that FareStart offers and to continue to grow
             <h3 class="nextproject">Design Changes Based on Key Findings</h3>
             <hr class="featurette-divider">
         <p>1. Secondary horizontal navigation bar was not intuitive enough. So we changed to vertical sidebar.</p>
-        <a class="example-image-link" href="images/farestart-keyfinding-1.png" data-lightbox="example-1"><img class="example-image img-responsive" src="farestart-keyfinding-1.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>        
+        <a class="example-image-link" href="images/farestart-keyfinding-1.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/farestart-keyfinding-1.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>        
 
         <p>2. Descriptions were wordy. We rewrote the content to make it simple and concise.</p>
-        <a class="example-image-link" href="images/farestart-keyfinding-2.png" data-lightbox="example-1"><img class="example-image img-responsive" src="farestart-keyfinding-2.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>            
+        <a class="example-image-link" href="images/farestart-keyfinding-2.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/farestart-keyfinding-2.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>            
         
         <p>3. It was not visually appealing. We improved the visual design.</p>
-        <a class="example-image-link" href="images/farestart-keyfinding-3.png" data-lightbox="example-1"><img class="example-image img-responsive" src="farestart-keyfinding-3.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>   
+        <a class="example-image-link" href="images/farestart-keyfinding-3.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/farestart-keyfinding-3.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>   
         
         <h3 class="nextproject">Final Prototype</h3>
         <hr class="featurette-divider">
-        <a class="example-image-link" href="images/farestart_sitemap.png" data-lightbox="example-1"><img class="example-image img-responsive" src="farestart_sitemap.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>           
+        <a class="example-image-link" href="images/farestart_sitemap.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/farestart_sitemap.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>           
         
         <h3 class="center"><a class="btn btn-align btn-default btn-inline text-center" href="http://hcxwfn.axshare.com/home.html" target="_blank" role="button">Try It Now</a></h3>
         
