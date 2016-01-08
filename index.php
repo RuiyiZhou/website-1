@@ -249,49 +249,49 @@
 <div id="links">
 
     <a href="images/book_madetostick.jpeg" title="Made To Stick" data-gallery>
-        <img class="small75" src="images/book_madetostick.jpeg" alt="Made To Stick">
+        <img class="small75 lazy" data-lightbox="images/book_madetostick.jpeg" alt="Made To Stick">
     </a>
     <a href="https://d.gr-assets.com/books/1442616448l/41597.jpg" title="The Non-Designer's Design Book" data-gallery>
-        <img class="small75" src="https://d.gr-assets.com/books/1442616448l/41597.jpg" alt="The Non-Designer's Design Book">
+        <img class="small75 lazy" data-lightbox="https://d.gr-assets.com/books/1442616448l/41597.jpg" alt="The Non-Designer's Design Book">
     </a>
     <a href="https://d.gr-assets.com/books/1333124707l/13539381.jpg" title="How China Became Capitalist" data-gallery>
-        <img class="small75" src="https://d.gr-assets.com/books/1333124707l/13539381.jpg" alt="How China Became Capitalist">
+        <img class="small75 lazy" data-lightbox="https://d.gr-assets.com/books/1333124707l/13539381.jpg" alt="How China Became Capitalist">
     </a>
     <a href="https://d.gr-assets.com/books/1410138134l/10639.jpg" title="The Paradox of Choice" data-gallery>
-        <img class="small75" src="https://d.gr-assets.com/books/1410138134l/10639.jpg" alt="The Paradox of Choice">
+        <img class="small75 lazy" data-lightbox="https://d.gr-assets.com/books/1410138134l/10639.jpg" alt="The Paradox of Choice">
     </a>  
     <a href="images/book_awholenewmind.jpg" title="A Whole New Mind" data-gallery>
-        <img class="small75" src="images/book_awholenewmind.jpg" alt="A Whole New Mind">
+        <img class="small75 lazy" data-lightbox="images/book_awholenewmind.jpg" alt="A Whole New Mind">
     </a>      
     <a href="https://d.gr-assets.com/books/1347488145l/6659874.jpg" title="Behind the Cloud" data-gallery>
-        <img class="small75" src="https://d.gr-assets.com/books/1347488145l/6659874.jpg" alt="Behind the Cloud">
+        <img class="small75 lazy" data-lightbox="https://d.gr-assets.com/books/1347488145l/6659874.jpg" alt="Behind the Cloud">
     </a>   
     <a href="https://d.gr-assets.com/books/1404576602l/13099738.jpg" title="Steal Like An Artist" data-gallery>
-        <img class="small75" src="https://d.gr-assets.com/books/1404576602l/13099738.jpg" alt="Steal Like An Artist">
+        <img class="small75 lazy" data-lightbox="https://d.gr-assets.com/books/1404576602l/13099738.jpg" alt="Steal Like An Artist">
     </a>        
     <a href="https://d.gr-assets.com/books/1347329018l/980280.jpg" title="Sketching User Experience" data-gallery>
-        <img class="small75" src="https://d.gr-assets.com/books/1347329018l/980280.jpg" alt="Sketching User Experience">
+        <img class="small75 lazy" data-lightbox="https://d.gr-assets.com/books/1347329018l/980280.jpg" alt="Sketching User Experience">
     </a>       
     <a href="https://d.gr-assets.com/books/1365396257l/6157547.jpg" title="Interdisciplinary Interaction Design" data-gallery>
-        <img class="small75" src="https://d.gr-assets.com/books/1365396257l/6157547.jpg" alt="Interdisciplinary Interaction Design">
+        <img class="small75 lazy" data-lightbox="https://d.gr-assets.com/books/1365396257l/6157547.jpg" alt="Interdisciplinary Interaction Design">
     </a> 
     <a href="https://d.gr-assets.com/books/1328834536l/336258.jpg" title="Information Dashboard Design" data-gallery>
-        <img class="small75" src="https://d.gr-assets.com/books/1328834536l/336258.jpg" alt="Information Dashboard Design">
+        <img class="small75 lazy" data-lightbox="https://d.gr-assets.com/books/1328834536l/336258.jpg" alt="Information Dashboard Design">
     </a>   
     <a href="https://d.gr-assets.com/books/1387739935l/19904558.jpg" title="Service Design" data-gallery>
-        <img class="small75" src="https://d.gr-assets.com/books/1387739935l/19904558.jpg" alt="Service Design">
+        <img class="small75 lazy" data-lightbox="https://d.gr-assets.com/books/1387739935l/19904558.jpg" alt="Service Design">
     </a>          
     <a href="https://d.gr-assets.com/books/1388211043l/68143.jpg" title="The Wisdom of Crowds" data-gallery>
-        <img class="small75" src="https://d.gr-assets.com/books/1388211043l/68143.jpg" alt="The Wisdom of Crowds">
+        <img class="small75 lazy" data-lightbox="https://d.gr-assets.com/books/1388211043l/68143.jpg" alt="The Wisdom of Crowds">
     </a>   
     <a href="https://d.gr-assets.com/books/1266606574l/646060.jpg" title="Worlds Together, Worlds Apart" data-gallery>
-        <img class="small75" src="https://d.gr-assets.com/books/1266606574l/646060.jpg" alt="Worlds Together, Worlds Apart">
+        <img class="small75 lazy" data-lightbox="https://d.gr-assets.com/books/1266606574l/646060.jpg" alt="Worlds Together, Worlds Apart">
     </a>  
     <a href="https://d.gr-assets.com/books/1366758683l/12609433.jpg" title="The Power of Habit" data-gallery>
-        <img class="small75" src="https://d.gr-assets.com/books/1366758683l/12609433.jpg" alt="The Power of Habit">
+        <img class="small75 lazy" data-lightbox="https://d.gr-assets.com/books/1366758683l/12609433.jpg" alt="The Power of Habit">
     </a>  
     <a href="https://d.gr-assets.com/books/1387365289l/18324256.jpg" title="Qualitative Research Practice" data-gallery>
-        <img class="small75" src="https://d.gr-assets.com/books/1387365289l/18324256.jpg" alt="Qualitative Research Practice">
+        <img class="small75 lazy" data-lightbox="https://d.gr-assets.com/books/1387365289l/18324256.jpg" alt="Qualitative Research Practice">
     </a>  
 
 </div>
@@ -308,9 +308,17 @@
         
 <?php include('footer.php'); ?>
 
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script>
+$(function() {
+    $("img.lazy").lazyload();
+});
+$("img.lazy").lazyload({
+    threshold : 200
+});
+</script>
 <script src="//blueimp.github.io/Gallery/js/jquery.blueimp-gallery.min.js"></script>
 <script src="js/bootstrap-image-gallery.js"></script>
-
+    <!--LazyLoad-->
+<script src="js/jquery.lazyload.js"></script> 
 </body>
 </html>
