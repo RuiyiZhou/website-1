@@ -91,8 +91,8 @@
         </div>
         </div> 
         
-        
-        <img class="img-responsive " src="images/farestarthomepage.png" style="max-width: 100%;">
+        <a class="example-image-link" href="images/farestarthomepage.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/farestarthomepage.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>
+
         
         <h3 class="nextproject">Goals</h3>
         <hr class="featurette-divider">   
@@ -116,14 +116,16 @@ In order to accurately reflect all that FareStart offers and to continue to grow
     
         <h3 class="nextproject">Research</h3>
         <hr class="featurette-divider">   
-      <img class="img-responsive " src="images/farestart-researchmethod.png" style="max-width: 90%;">  
+              <a class="example-image-link" href="images/farestart-researchmethod.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/farestart-researchmethod.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>
+                
         
       <h3>Key Findings</h3>    
-      <img class="img-responsive " src="images/farestart-research.png" style="max-width: 90%;">  
+        <a class="example-image-link" href="images/farestart-research.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/farestart-research.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>
+
         
       <h3 class="nextproject">Design Principle</h3>
         <hr class="featurette-divider">   
-      <img class="img-responsive " src="images/farestart_designprinciple.png" style="max-width: 90%;">  
+        <a class="example-image-link" href="images/farestart_designprinciple.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/farestart_designprinciple.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>
         
         
       <h3 class="bs-docs-featurette-title nextproject">Persona</h3>
@@ -182,12 +184,14 @@ In order to accurately reflect all that FareStart offers and to continue to grow
 
             </div>
            <div class="col-md-6 vcenter">
-           <img class="img-responsive " src="images/iadiscussion.jpg" style="max-width: 90%; margin:0 auto">
+
+        <a class="example-image-link" href="images/iadiscussion.jpg" data-lightbox="example-1"><img class="example-image img-responsive" src="images/iadiscussion.jpg" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>
+
             </div>
         </div>
-        
-         <img class="img-responsive " src="images/cardsorting.png" style="max-width: 100%;">
-        <img class="img-responsive " src="images/ia.png" style="max-width: 100%;">
+        <a class="example-image-link" href="images/cardsorting.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/cardsorting.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>
+        <a class="example-image-link" href="images/ia.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/ia.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>
+
         
         <h3 class="nextproject">Design Iteration</h3>
         <hr class="featurette-divider">
@@ -195,23 +199,22 @@ In order to accurately reflect all that FareStart offers and to continue to grow
 
             <h3 class="nextproject">Usability Study</h3>
             <hr class="featurette-divider">
-            
-        <img class="img-responsive " src="images/farestart-usabilitytestscenario.png" style="max-width: 100%;">
+        <a class="example-image-link" href="images/farestart-usabilitytestscenario.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/farestart-usabilitytestscenario.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>
         
             <h3 class="nextproject">Design Changes Based on Key Findings</h3>
             <hr class="featurette-divider">
         <p>1. Secondary horizontal navigation bar was not intuitive enough. So we changed to vertical sidebar.</p>
-        <img class="img-responsive " src="images/farestart-keyfinding-1.png" style="max-width: 100%;">
+        <a class="example-image-link" href="images/farestart-keyfinding-1.png" data-lightbox="example-1"><img class="example-image img-responsive" src="farestart-keyfinding-1.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>        
 
         <p>2. Descriptions were wordy. We rewrote the content to make it simple and concise.</p>
-        <img class="img-responsive " src="images/farestart-keyfinding-2.png" style="max-width: 100%;">
+        <a class="example-image-link" href="images/farestart-keyfinding-2.png" data-lightbox="example-1"><img class="example-image img-responsive" src="farestart-keyfinding-2.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>            
         
         <p>3. It was not visually appealing. We improved the visual design.</p>
-        <img class="img-responsive " src="images/farestart-keyfinding-3.png" style="max-width: 100%;">
+        <a class="example-image-link" href="images/farestart-keyfinding-3.png" data-lightbox="example-1"><img class="example-image img-responsive" src="farestart-keyfinding-3.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>   
         
         <h3 class="nextproject">Final Prototype</h3>
         <hr class="featurette-divider">
-        <img class="img-responsive " src="images/farestart_sitemap.png" style="max-width: 100%;"> 
+        <a class="example-image-link" href="images/farestart_sitemap.png" data-lightbox="example-1"><img class="example-image img-responsive" src="farestart_sitemap.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>           
         
         <h3 class="center"><a class="btn btn-align btn-default btn-inline text-center" href="http://hcxwfn.axshare.com/home.html" target="_blank" role="button">Try It Now</a></h3>
         
