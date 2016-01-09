@@ -178,7 +178,7 @@
                     <h3>Job Search Task Flow</h3>
                     <p>Jobs. Jobs. Jobs. It’s all about jobs. The current user flow of job searching and application was not optimal. To start optimizing it, I worked to put together the task flows and then called out the bad experience along the task flow. And compared this experience with the ones offered by main competitors.</p>
                 </div>
-                <div class="col-md-8 vcenter marginright">
+                <div class="col-md-7 vcenter">
             <a class="example-image-link" href="images/glassdoor-userflow.jpg" data-lightbox="example-1"><img class="example-image img-responsive" src="images/glassdoor-userflow.jpg" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>                      
                 
                 </div>
