@@ -80,7 +80,7 @@
         <!-- Detail -->
 
 <div class="quote">
-<blockquote>How can we use visualization to help global travelers pick destination?</blockquote></div>
+<blockquote>How can we use visualization to help global travelers evaluate destination?</blockquote></div>
         
     
         
@@ -101,7 +101,12 @@ TraveLENS is an interactive visualization tool that equips potential travellers 
     </div>
     </div> 
         
-        <h3 class="nextproject ">Data Sets</h3>
+        <h3 class="nextproject">Process</h3>
+        <hr class="featurette-divider">
+        <a class="example-image-link" href="images/travelens_process.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/travelens_process.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a> 
+
+
+        <h3 class="nextproject">Data Sets</h3>
         <hr class="featurette-divider">
         
         
@@ -126,6 +131,9 @@ TraveLENS is an interactive visualization tool that equips potential travellers 
         <hr class="featurette-divider">
         <a class="example-image-link" href="images/travelens_ideation.jpg" data-lightbox="example-1"><img class="example-image img-responsive" src="images/travelens_ideation.jpg" alt="image-1" style="max-width: 100%; margin:0 auto" /></a> 
 
+        <h3 class="nextproject ">Persona</h3>
+        <hr class="featurette-divider">
+        <a class="example-image-link" href="images/travelens_personas.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/travelens_personas.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a> 
         
         <h3 class="nextproject ">Design Process</h3>
         <hr class="featurette-divider">
