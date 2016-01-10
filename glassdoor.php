@@ -83,7 +83,7 @@
         <div class="row margintop50">
           
         <div class="quote">
-<blockquote>A journey I enjoyed, a job I loved, and a team I missed.</blockquote></div>    
+<blockquote><p>Ruiyi is smart, thoughtful, and enthusiastic in his work. He was able to accomplish more than we’d expected of an intern and was always eager to take on additional projects.</p>  <br/> &nbsp; <br/><p>- Jennifer, UX Lead, B2B at Glassdoor</p></blockquote></div>    
             
             <div class="col-md-7" style="float: none; margin: 0 auto;">
             <p>This is a brief summary of what I’ve done in this internship. The projects I’ve done are categorized into six sections: analysis, design, prototype, user research, pattern library, and mobile. Certain mockups are not included due to NDA.</p>
@@ -174,7 +174,7 @@
             <h3 class="nextproject">User Research</h3>
             <hr class="featurette-divider">
             <div class="row featurette marginbottomtop30">
-                <div class="col-md-5 vcenter">
+                <div class="col-md-4 vcenter">
                     <h3>Job Search Task Flow</h3>
                     <p>Jobs. Jobs. Jobs. It’s all about jobs. The current user flow of job searching and application was not optimal. To start optimizing it, I worked to put together the task flows and then called out the bad experience along the task flow. And compared this experience with the ones offered by main competitors.</p>
                 </div>
