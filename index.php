@@ -17,7 +17,7 @@
   ga('send', 'pageview');
 
    </script>
-
+<script src="js/jquery.lazyload.js"></script> 
 </head>
 
 <body>
@@ -258,12 +258,10 @@
 $(function() {
     $("img.lazy").lazyload();
 });
-$("img.lazy").lazyload({
-    threshold : 200
-});
+
 </script>
 
     <!--LazyLoad-->
-<script src="js/jquery.lazyload.js"></script> 
+
 </body>
 </html>
