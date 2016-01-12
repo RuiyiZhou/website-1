@@ -418,3 +418,17 @@ a:hover.inline-link {
 img.small75 {
   width: 75px;
 }
+
+.hideme {
+  opacity: 0;
+}
+
+
+::selection {
+  background: #424242; /* WebKit/Blink Browsers */
+  color: white;
+}
+::-moz-selection {
+  background: #424242; /* Gecko Browsers */
+    color: white;
+}
