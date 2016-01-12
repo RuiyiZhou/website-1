@@ -92,7 +92,7 @@
 
 
           <div class="row margintop50">
-            <div class="col-md-7" style="float: none; margin: 0 auto;">
+            <div class="col-md-7" style="float: none; margin: 0 auto; text-align: center">
               Our prefabricated, remotely controlled hydroponics system provides a vegetable growth medium for urban apartment buildings with little or no gardening space. The SmartPonics is a rooftop based hydroponic system that users can interact with via phone,
               tablet or desktop UI to observe plant growth, manipulate the nutrient solution and set specific watering times.
             </div>
@@ -102,7 +102,7 @@
           <hr class="featurette-divider">
 
           <div class="row featurette marginbottomtop30">
-            <div class="col-md-5 vcenter">
+             <div class="col-md-7" style="float: none; margin: 0 auto; text-align: center">
               <ul class="tablerow">
                 <li class="tablecell">
                   <p>To gain a more user centered understand of our original design question, our team used surveys, interviews, field investigation, historical analysis and competitive product surveys to better inform the development of a viable prototype
