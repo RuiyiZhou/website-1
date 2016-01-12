@@ -32,7 +32,7 @@
 
 <?php include('fixed_navigation.php'); ?>
 
-        <div class="container animated fadeInUp">
+        <div class="container animated fadeIn">
             <div class="titlename margin15">
                 <p style="margin-top:20%">Glassdoor</p>
                 <p style="font-size:1em">An online community to help you find a job and company you love.</p>
@@ -160,7 +160,7 @@
             </div>
         </div>
         
-        
+
         <h3 class="nextproject">Prototype</h3>
         <hr class="featurette-divider">
         <div class="row featurette marginbottomtop30">

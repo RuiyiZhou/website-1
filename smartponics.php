@@ -34,7 +34,7 @@
 
         <?php include('fixed_navigation.php'); ?>
 
-          <div class="container animated fadeInUp">
+          <div class="container animated fadeIn">
             <div class="titlename margin15">
               <p style="margin-top:20%">SmartPonics</p>
               <p style="font-size:1em">A self-control rooftop hydroponics garden that helps people grow plants easily.</p>

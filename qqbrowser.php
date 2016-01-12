@@ -32,7 +32,7 @@
 
 <?php include('fixed_navigation.php'); ?>
 
-<div class="container animated fadeInUp">
+<div class="container animated fadeIn">
             <div class="titlename margin15">
                 <p style="margin-top:20%">QQ Browser</p>
                 <p style="font-size:1em">A top-ranked mobile browser run on Android platform designed specifically for Chinese users, had over 30 million daily active users.</p>

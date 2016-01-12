@@ -34,7 +34,7 @@
 
 
 
-        <div class="container animated fadeInUp">
+        <div class="container animated fadeIn">
             <div class="titlename margin15">
                 <p style="margin-top:20%">FareStart</p>
                 <p style="font-size:1em">Redesign of the website of a non-profit, social organization in Seattle.</p>

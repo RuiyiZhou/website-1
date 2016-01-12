@@ -28,7 +28,7 @@
 
 <?php include('fixed_navigation.php'); ?>
 
-        <div class="container animated fadeInUp">
+        <div class="container animated fadeIn">
     <div class="titlename margin15">
         <p style="margin-top:25%;">Hi, I'm Ruiyi Zhou.</p>
         <p style="font-size:16px; font-weight:200">Learn with passion, imagine without boundary.</p>
