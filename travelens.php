@@ -32,7 +32,7 @@
 
 <?php include('fixed_navigation.php'); ?>
 
-        <div class="container animated fadeInUp">
+        <div class="container animated fadeIn">
             <div class="titlename margin15">
                 <p style="margin-top:20%">TraveLENS</p>
                 <p style="font-size:1em">A travel data visualization that helps travelers and investors find goals.</p>
@@ -85,7 +85,7 @@
     
         
         <div class="row margintop50">
-          <div class="col-md-7" style="float: none; margin: 0 auto;">
+          <div class="col-md-7" style="float: none; margin: 0 auto; text-align: center">
 TraveLENS is an interactive visualization tool that equips potential travellers with data and information across a wide range of risk factors that could influence in their decision-making process. It is designed to let the users see and explore the world through different categories of lenses depending on their tasks and goals, and the visualization is designed to adapt and morph to fit the requirements of each category and to present that category’s information in the most effective and expressive way.
         </div>
         </div>
@@ -104,6 +104,27 @@ TraveLENS is an interactive visualization tool that equips potential travellers 
         <h3 class="nextproject">Process</h3>
         <hr class="featurette-divider">
         <a class="example-image-link" href="images/travelens_process.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/travelens_process.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a> 
+
+        <h3 class="nextproject">User Research</h3>
+        <hr class="featurette-divider">
+
+          <div class="row featurette marginbottomtop30">
+            <div class="col-md-5 vcenter">
+
+                  <h3>Secondary Research Key Findings</h3>
+              <ul>
+                <li><b>Risk</b> has been shown to play a significant role in international travel decision-making process</li>
+                <li>Travelers have <b>preconceived (maybe incorrect) ideas</b> about certain destination countries or continents</li>
+              </ul>
+            </div>
+            <div class="col-md-6 vcenter">
+
+        <a class="example-image-link" href="images/travelens_secondary.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/travelens_secondary.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>  
+            </div>
+          </div>
+
+        <h3>Competitive Analysis</h3>
+        <a class="example-image-link" href="images/travelens_competitive.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/travelens_competitive.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>  
 
 
         <h3 class="nextproject">Data Sets</h3>
