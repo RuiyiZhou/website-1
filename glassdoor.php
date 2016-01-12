@@ -85,32 +85,11 @@
         <div class="quote">
 <blockquote><p>Ruiyi is smart, thoughtful, and enthusiastic in his work. He was able to accomplish more than we’d expected of an intern and was always eager to take on additional projects.</p>  <br/> &nbsp; <br/><p>- Jennifer, UX Lead, B2B at Glassdoor</p></blockquote></div>    
             
-            <div class="col-md-7" style="float: none; margin: 0 auto;">
-            <p>This is a brief summary of what I’ve done in this internship. The projects I’ve done are categorized into six sections: analysis, design, prototype, user research, pattern library, and mobile. Certain mockups are not included due to NDA.</p>
+            <div class="col-md-7" style="float: none; margin: 0 auto; text-align: center">
+            <p>This is a brief summary of what I’ve done in this internship. The projects I’ve done are categorized into six sections: design, analysis, prototype, user research, pattern library, and mobile. Certain mockups are not included due to NDA.</p>
         </div>
         </div> 
-        
-         <h3 class="nextproject">Analysis</h3>
-        
-        <hr class="featurette-divider">   
-        <div class="row featurette marginbottomtop30">
-            <div class="col-md-5 vcenter">
-         <ul class="tablerow">
-             <li class="tablecell">
-  
-             
-<p>I analyzed the error message of surveys using <b>Google Analytics</b> data to get an idea where and how users might be confused and make errors. Surveys are super crucial in that they influence how many reviews we get, and how good  these reviews are in terms of quality.</p>
 
-<p>I also conducted a <b>heuristic evaluation</b> of these pages, and wrote a report about the potential usability issues these surveys have. After several rounds of refinements, it’s getting better and better, but still there is a space to improve.</p>
-         </li>
-          </ul>
-            </div>
-           <div class="col-md-6 vcenter">
-                      <a class="example-image-link" href="images/glassdoor-survey.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/glassdoor-survey.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>
-
-            </div>
-        </div>
-        
         
         
         <h3 class="nextproject">Design</h3>
@@ -159,6 +138,29 @@
             </div>
         </div>
 
+        
+         <h3 class="nextproject">Analysis</h3>
+        
+        <hr class="featurette-divider">   
+        <div class="row featurette marginbottomtop30">
+            <div class="col-md-5 vcenter">
+         <ul class="tablerow">
+             <li class="tablecell">
+  
+             
+<p>I analyzed the error message of surveys using <b>Google Analytics</b> data to get an idea where and how users might be confused and make errors. Surveys are super crucial in that they influence how many reviews we get, and how good  these reviews are in terms of quality.</p>
+
+<p>I also conducted a <b>heuristic evaluation</b> of these pages, and wrote a report about the potential usability issues these surveys have. After several rounds of refinements, it’s getting better and better, but still there is a space to improve.</p>
+         </li>
+          </ul>
+            </div>
+           <div class="col-md-6 vcenter">
+                      <a class="example-image-link" href="images/glassdoor-survey.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/glassdoor-survey.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>
+
+            </div>
+        </div>
+        
+        
         <h3 class="nextproject">Prototype</h3>
         <hr class="featurette-divider">
         <div class="row featurette marginbottomtop30">
