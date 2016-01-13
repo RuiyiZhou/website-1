@@ -4,7 +4,7 @@
    
 <?php include('header.php'); ?>
 
-<title>SmartPonics</title>
+<title>QQ Browser</title>
     <script>
         (function(i, s, o, g, r, a, m) {
             i['GoogleAnalyticsObject'] = r;
@@ -43,9 +43,8 @@
 
     <!--Summary-->
     <div class="margintop100">
-<div class="container">
+<div class="container" style="padding:15px">
     <div class="bluearea">
-        <div class="container">
 
             <div class="row margin15">
                 <div class="col-md-3">
@@ -70,18 +69,12 @@
             </div>
 
         </div>
-    </div>
-</div>
-
-
-    <div class="container" style="padding:15px">
         <!-- Detail -->
-
-        <div class="row margintop50">
-          <div class="col-md-7" style="float: none; margin: 0 auto;">
+                  <div class="row margintop50">
+          <div class="col-md-7" style="float: none; margin: 0 auto; text-align: center">
 QQ Browser for Android was initially launched in 2009. I first joined the team in July, 2011, and left for school in June 2014. During the time I was there, the product grew rapidly, gained more than 3o million daily active users. My responsibilities were mainly in two parts, developing new features and collecting user feedback for iterative design process. Below are several selected pieces of work.
         </div>
-        </div> 
+    </div>
         
         
         

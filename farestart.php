@@ -45,9 +45,8 @@
 
     <!--Summary-->
     <div class="margintop100">
-<div class="container">
+<div class="container" style="padding:15px">
     <div class="bluearea">
-        <div class="container">
 
             <div class="row margin15">
                 <div class="col-md-3">
@@ -74,12 +73,7 @@
                 </div>
             </div>
 
-        </div>
     </div>
-</div>
-
-
-    <div class="container" style="padding:15px">
         <!-- Detail -->
 
         <div class="row margintop50">

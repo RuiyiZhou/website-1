@@ -136,7 +136,7 @@ margin: 0 auto;
 }
 
 .margintop100 {
-    margin-top: -15%;
+    margin-top: -10%;
 }
 
 
@@ -257,7 +257,8 @@ footer .footer-col {
 }
 
 .margintop50 {
-    margin-top: 70px;
+    padding-top: 70px;
+    background-color: white;
 }
 
 .opacity img{
@@ -296,8 +297,8 @@ opacity: 0;
 
 /* Quote Style */
 blockquote {
-
-  margin: 1.5em 10px;
+  background-color: white;
+  padding: 1.5em 1.5em;
   quotes: "\201C""\201D""\2018""\2019";
   font-size: 2em;
 }
@@ -432,3 +433,4 @@ img.small75 {
   background: #424242; /* Gecko Browsers */
     color: white;
 }
+
