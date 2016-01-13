@@ -43,7 +43,7 @@
 
     <!--Summary-->
     <div class="margintop100">
-<div class="container" style="padding:15px">
+<div class="container">
     <div class="bluearea">
 
             <div class="row margin15">
@@ -129,7 +129,7 @@
 
             </div>
             <div class="col-md-6 vcenter">
-            <img class="img-responsive " src="images/glassdoor_opencompany.png" style="max-width: 90%; margin:0 auto">
+            <a class="example-image-link" href="images/glassdoor_opencompany.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/glassdoor_opencompany.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>             
             </div>
         </div>
 
