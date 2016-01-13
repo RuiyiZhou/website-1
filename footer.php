@@ -54,4 +54,30 @@
     </footer>
 
     </div>
-<script src="js/lightbox.js"></script>      
+<script src="js/lightbox.js"></script>  
+<script>
+
+jQuery('#portfolio-demo').slippry({
+  // general elements & wrapper
+  slippryWrapper: '<div class="sy-box portfolio-slider" />', // wrapper to wrap everything, including pager
+
+  // options
+  adaptiveHeight: false, // height of the sliders adapts to current slide
+  start: '1', // num (starting from 1), random
+  loop: true, // first -> last & last -> first arrows
+  captionsSrc: 'li',
+  captions: 'custom', // Position: overlay, below, custom, false
+  captionsEl: '.external-captions',
+
+  // transitions
+  transition: 'fade', // fade, horizontal, kenburns, false
+  speed: '400',
+  easing: 'linear', // easing to use in the animation [(see... [jquery www])]
+  continuous: false,
+  controls: false,
+
+  // slideshow
+  auto: false
+});
+
+</script>        
