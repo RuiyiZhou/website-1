@@ -45,7 +45,7 @@
 
     <!--Summary-->
     <div class="margintop100">
-<div class="container" style="padding:15px">
+<div class="container">
     <div class="bluearea">
 
             <div class="row margin15">
@@ -79,7 +79,7 @@
         <div class="row margintop50">
           <div class="col-md-7" style="float: none; margin: 0 auto; text-align: center">
               
-          <p>This is the <b>course project</b> of HCDE537 Web Design. We redesigned the website for <b>FareStart</b>, a non-profit, social organization which has been providing hands-on culinary job training and job placement for homeless and disadvantaged individuals and families in Seattle for over 20 years.</p>
+          <p><b>FareStart</b> is a non-profit, social organization which has been providing hands-on culinary job training and job placement for homeless and disadvantaged individuals and families in Seattle for over 20 years. We redesigned FareStart's website to make it more visually appealing, efficient, and mobile friendly.</p>
               <h3 class="center"><a class="btn btn-align btn-default btn-inline text-center" href="https://hcxwfn.axshare.com/home.html" target="_blank" role="button">Try Final Prototype Now</a></h3>
 
         </div>
