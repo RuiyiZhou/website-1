@@ -176,10 +176,14 @@
       <a href="#slide3"><img style="max-width: 100%; margin: 0 auto" src="images/smartponics_persona_3.png"></a>
     </li>
   </ul>
-  
+
           <h3 class="bs-docs-featurette-title nextproject">Sketch</h3>
           <hr class="featurette-divider">
-          <a class="example-image-link" href="images/smartponics_sketch.jpg" data-lightbox="example-1"><img class="example-image img-responsive" src="images/smartponics_sketch.jpg" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>
+          <a class="example-image-link" href="images/smartponics_sketchnotebook.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/smartponics_sketchnotebook.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>
+
+          <h3 class="bs-docs-featurette-title nextproject">Moodboard</h3>
+          <hr class="featurette-divider">
+          <a class="example-image-link" href="images/smartponics_moodboard.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/smartponics_moodboard.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>
 
 
           <h3 class="bs-docs-featurette-title nextproject">User Flow</h3>

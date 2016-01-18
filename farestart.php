@@ -125,48 +125,18 @@ In order to accurately reflect all that FareStart offers and to continue to grow
       <h3 class="bs-docs-featurette-title nextproject">Persona</h3>
       <hr class="featurette-divider">
 
-        
-        <!--Start carousel-->
-<div id="carousel-example-generic" class="carousel slide" data-ride="carousel" style="max-width: 100%; margin: 0 auto">
-  <!-- Indicators -->
-  <ol class="carousel-indicators">
-    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
-    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
-    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
-  </ol>
- 
-  <!-- Wrapper for slides -->
-  <div class="carousel-inner">
-    <div class="item active">
-      <img src="images/farestartpersona-01.jpg" alt="...">
-      <div class="carousel-caption">
-         
-      </div>
-    </div>
-    <div class="item">
-      <img src="images/farestartpersona-02.jpg" alt="...">
-      <div class="carousel-caption">
-     
-      </div>
-    </div>
-    <div class="item">
-      <img src="images/farestartpersona-03.jpg" alt="...">
-      <div class="carousel-caption">
-      
-      </div>
-    </div>
-  </div>
- 
-  <!-- Controls
-  <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
-    <span class="glyphicon glyphicon-chevron-left"></span>
-  </a>
-  <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
-    <span class="glyphicon glyphicon-chevron-right"></span>
-  </a>
- <!-- Carousel -->
-<!--End carousel-->
-    </div>    
+    <ul id="portfolio-demo">
+    <li>
+      <a href="#slide1"><img style="max-width: 100%; margin: 0 auto" src="images/farestartpersona-01.jpg"></a>
+    </li>
+    <li>
+      <a href="#slide2"><img style="max-width: 100%; margin: 0 auto" src="images/farestartpersona-02.jpg"></a>
+    </li>
+    <li>
+      <a href="#slide3"><img style="max-width: 100%; margin: 0 auto" src="images/farestartpersona-03.jpg"></a>
+    </li>
+  </ul>
+
         
         
         <h3 class="nextproject">Information Architecture</h3>
