@@ -162,6 +162,49 @@
             </div>
           </div>
 
+</div>
+
+<div id="smartponicsmarket">
+<div class="container">
+
+          <h3 class="bs-docs-featurette-title nextproject white">Market Analysis</h3>
+          <hr class="featurette-divider white">
+
+          <div class="row featurette marginbottomtop30">
+            <div class="col-md-6 vcenter">
+              <h3 class="bold">$24.3B</h3>
+              <p class="thin">2018</p>
+              <p class="thin">MARKET SIZE</p>
+            </div>
+            <div class="col-md-5 vcenter">
+              <h3 class="bold">6.5%</h3>
+              <p class="thin">ANNUAL</p>
+              <p class="thin">GROWTH RATE</p>
+
+            </div>
+        </div>
+        <div class="row featurette marginbottomtop30">
+
+           <div class="col-md-2"></div>
+           <div class="col-md-8 center">
+           <div class="white">
+                <p class="quotenew">Hydroponic growing advances food safety and traceability that customers, retailers, and even food regulators are demanding.</p>
+            <div class="author white">
+        <!--    <p>Carol L. Stimmel, founder and CEO of Manifest Mind, LLC.</p> -->
+            <p>CAROL L. STIMMEL, FOUNDER AND CEO OF MANIFEST MIND, LLC.</p>
+            </div>
+          </div>
+           </div>
+           <div class="col-md-2"></div>
+    </div>
+
+
+</div>
+
+
+</div>
+
+<div class="container">
           <h3 class="bs-docs-featurette-title nextproject">Persona</h3>
           <hr class="featurette-divider">
 
