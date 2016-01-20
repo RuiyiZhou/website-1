@@ -36,8 +36,8 @@
             <div class="titlename margin15">
                 <p style="margin-top:20%">TraveLENS</p>
                 <p style="font-size:1em">A travel data visualization that helps travelers and investors find goals.</p>
-                <p><a class="btn btn-lg btn-default btn-align text-center" href="Final_Presentation_TraveLENS.pdf" role="button">Final Presentation</a>
-                    <a class="btn btn-lg btn-default btn-align text-center" href="Resources/TraveLens_Group1_final3.pdf" role="button">Final Paper</a>
+                <p><a class="btn btn-lg btn-default btn-align text-center" href="Final_Presentation_TraveLENS.pdf" target="_blank" role="button">Final Presentation</a>
+                    <a class="btn btn-lg btn-default btn-align text-center" href="Resources/TraveLens_Group1_final3.pdf" target="_blank" role="button">Final Paper</a>
                 </p>
             </div>
         </div>
@@ -62,6 +62,7 @@
                     <h3>Methods<i class="fa fa-fw fa-book"></i></h3>
                     <p>Persona</p>
                     <p>Card sorting</p>
+                    <p>Secondary research</p>
                 </div>
                 <div class="col-md-3">
                     <h3>Tools<i class="fa fa-fw fa-wrench"></i></h3>
@@ -212,7 +213,7 @@ TraveLENS is an interactive visualization tool that equips potential travellers 
 
         
         
-        <div style="background-color: #F5F5F5;">
+        <div style="background-color: #E1FFFB;">
         <div class="container" style="padding:15px">
         <h3>Round 2</h3>   
                 <a class="example-image-link" href="images/travelens_round2wireframe.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/travelens_round2wireframe.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>
