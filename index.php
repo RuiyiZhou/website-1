@@ -179,18 +179,18 @@
       <div class="row text-center ">
 
         <div class="col-lg-4">
-          <img class="img-circle" src="images/avidreader.png" alt="Generic placeholder image" style="width: 100px; height: 100px;">
+          <img class="img-circle" src="images/avidreader.png" alt="avid reader" style="width: 100px; height: 100px;">
           <h3>Avid Reader</h3>
         </div><!-- /.col-lg-4 -->
 
           <div class="col-lg-4">
-             <img class="img-circle center" src="images/selftaughteconomist.png" alt="Generic placeholder image" style="width: 100px; height: 100px;">
+             <img class="img-circle center" src="images/selftaughteconomist.png" alt="self-taught economist" style="width: 100px; height: 100px;">
           
         <h3>Self-taught Economist</h3>
         </div><!-- /.col-lg-4 -->
 
         <div class="col-lg-4">
-          <img class="img-circle" src="images/halfbloodgeek.png" alt="Generic placeholder image" style="width: 100px; height: 100px;">
+          <img class="img-circle" src="images/halfbloodgeek.png" alt="half-blood geek" style="width: 100px; height: 100px;">
           <h3>Half-blood Geek</h3>
         </div><!-- /.col-lg-4 -->
       </div><!-- /.row -->
@@ -241,6 +241,23 @@
 
     <a class="example-image-link" href="https://d.gr-assets.com/books/1387365289l/18324256.jpg" data-lightbox="example-1"><img class="example-image small75 lazy" src="https://d.gr-assets.com/books/1387365289l/18324256.jpg" alt="image-1"/></a>
 
+    <a class="example-image-link" href="images/books/nowyouseeit.jpg" data-lightbox="example-1"><img class="example-image small75 lazy" src="images/books/nowyouseeit.jpg" alt="image-1"/></a>
+
+    <a class="example-image-link" href="images/books/measuringtheuserexperience.jpg" data-lightbox="example-1"><img class="example-image small75 lazy" src="images/books/measuringtheuserexperience.jpg" alt="image-1"/></a>
+
+    <a class="example-image-link" href="images/books/handbookofusabilitytesting.jpg" data-lightbox="example-1"><img class="example-image small75 lazy" src="images/books/handbookofusabilitytesting.jpg" alt="image-1"/></a>
+
+    <a class="example-image-link" href="images/books/godelescherbach.jpg" data-lightbox="example-1"><img class="example-image small75 lazy" src="images/books/godelescherbach.jpg" alt="image-1"/></a>
+
+    <a class="example-image-link" href="images/books/freakonomics.jpg" data-lightbox="example-1"><img class="example-image small75 lazy" src="images/books/freakonomics.jpg" alt="image-1"/></a>
+
+    <a class="example-image-link" href="images/books/thetippingpoint.jpg" data-lightbox="example-1"><img class="example-image small75 lazy" src="images/books/thetippingpoint.jpg" alt="image-1"/></a>
+
+    <a class="example-image-link" href="images/books/leanux.jpg" data-lightbox="example-1"><img class="example-image small75 lazy" src="images/books/leanux.jpg" alt="image-1"/></a>
+
+    <a class="example-image-link" href="images/books/notbychancealone.jpg" data-lightbox="example-1"><img class="example-image small75 lazy" src="images/books/notbychancealone.jpg" alt="image-1"/></a>
+
+    <a class="example-image-link" href="images/books/businessmodelgeneration.jpg" data-lightbox="example-1"><img class="example-image small75 lazy" src="images/books/businessmodelgeneration.jpg" alt="image-1"/></a>
 
 </div>
 
