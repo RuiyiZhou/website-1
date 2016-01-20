@@ -38,10 +38,7 @@
             <div class="titlename margin15">
               <p style="margin-top:20%">SmartPonics</p>
               <p style="font-size:1em">A self-control rooftop hydroponics garden that helps people grow plants easily.</p>
-              <p>
-                <a class="btn btn-lg btn-default btn-align text-center" href="Final_Presentation_SmartPonics.pdf" role="button">Final Presentation</a>
-                <a class="btn btn-lg btn-default btn-align text-center" href="Resources/P5 Design Spec - Group7.pdf" role="button">Design Specification</a>
-              </p>
+
             </div>
           </div>
       </div>
