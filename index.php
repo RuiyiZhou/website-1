@@ -31,7 +31,7 @@
         <div class="container animated fadeIn">
     <div class="titlename margin15">
         <p style="margin-top:25%;">Hi, I'm Ruiyi Zhou.</p>
-        <p style="font-size:16px; font-weight:200">Learn with passion, imagine without boundary.</p>
+        <p style="font-size:16px; font-weight:200">UX Designer | Learn with passion, imagine without boundary.</p>
         <p>
         <a class="btn btn-lg btn-default btn-align text-center" href="#portfolio">See My Projects</a>
 
