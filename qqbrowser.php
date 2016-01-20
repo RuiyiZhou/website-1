@@ -43,7 +43,7 @@
 
     <!--Summary-->
     <div class="margintop100">
-<div class="container" style="padding:15px">
+<div class="container">
     <div class="bluearea">
 
             <div class="row margin15">
