@@ -55,6 +55,7 @@
 
     </div>
 <script src="js/lightbox.js"></script>  
+<script src="https://cdn.jsdelivr.net/scrollreveal.js/3.0.9/scrollreveal.min.js"></script>fil
 <script>
 
 jQuery('#portfolio-demo').slippry({
@@ -81,3 +82,12 @@ jQuery('#portfolio-demo').slippry({
 });
 
 </script>        
+<script>
+var normalScale = {
+  scale    : 1
+};
+
+window.sr = ScrollReveal();
+sr.reveal('.row', normalScale);
+sr.reveal('.bar');
+</script>
