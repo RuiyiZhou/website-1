@@ -9,7 +9,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </div>
-                <a class="navbar-brand" href="index.php">Ruiyi Zhou</a>
+                <a class="navbar-brand" href="http://ruiyizhou.com">Ruiyi Zhou</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
