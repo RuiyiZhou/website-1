@@ -48,31 +48,31 @@
         <div class="container">
           <div class="bluearea">
 
-              <div class="row margin15">
-                <div class="col-md-3">
-                  <h3>Team Role<i class="fa fa-fw fa-user"></i></h3>
-                  <p>UX/UI Designer</p>
-                </div>
-                <div class="col-md-3">
-                  <h3>Duration<i class="fa fa-fw fa-calendar-o"></i></h3>
-                  <p>09/2014 - 12/2014</p>
-                  <p>10 weeks</p>
-                </div>
-                <div class="col-md-3">
-                  <h3>Methods<i class="fa fa-fw fa-book"></i></h3>
-                  <p>Persona</p>
-                  <p>Survey</p>
-                  <p>Field Investigation</p>
-                </div>
-                <div class="col-md-3">
-                  <h3>Tools<i class="fa fa-fw fa-wrench"></i></h3>
-                  <p>Axure</p>
-                  <p>Sketch</p>
-                  <p>Photoshop</p>
-                </div>
+            <div class="row margin15">
+              <div class="col-md-3">
+                <h3>Team Role<i class="fa fa-fw fa-user"></i></h3>
+                <p>UX/UI Designer</p>
               </div>
-
+              <div class="col-md-3">
+                <h3>Duration<i class="fa fa-fw fa-calendar-o"></i></h3>
+                <p>09/2014 - 12/2014</p>
+                <p>10 weeks</p>
+              </div>
+              <div class="col-md-3">
+                <h3>Methods<i class="fa fa-fw fa-book"></i></h3>
+                <p>Persona</p>
+                <p>Survey</p>
+                <p>Field Investigation</p>
+              </div>
+              <div class="col-md-3">
+                <h3>Tools<i class="fa fa-fw fa-wrench"></i></h3>
+                <p>Axure</p>
+                <p>Sketch</p>
+                <p>Photoshop</p>
+              </div>
             </div>
+
+          </div>
 
           <!-- Detail -->
 
@@ -94,7 +94,7 @@
           <hr class="featurette-divider">
 
           <div class="row featurette marginbottomtop30">
-             <div class="col-md-7" style="float: none; margin: 0 auto; text-align: center">
+            <div class="col-md-7" style="float: none; margin: 0 auto; text-align: center">
               <ul class="tablerow">
                 <li class="tablecell">
                   <p>To gain a more user centered understand of our original design question, our team used surveys, interviews, field investigation, historical analysis and competitive product surveys to better inform the development of a viable prototype
@@ -159,88 +159,91 @@
             </div>
           </div>
 
-</div>
-
-<div id="smartponicsmarket">
-<div class="container">
-
-          <h3 class="bs-docs-featurette-title nextproject white">Market Analysis</h3>
-          <hr class="featurette-divider white">
-
-          <div class="row featurette marginbottomtop30">
-            <div class="col-md-6 vcenter">
-              <h3 class="bold">$24.3B</h3>
-              <p class="thin">2018</p>
-              <p class="thin">MARKET SIZE</p>
-            </div>
-            <div class="col-md-5 vcenter">
-              <h3 class="bold">6.5%</h3>
-              <p class="thin">ANNUAL</p>
-              <p class="thin">GROWTH RATE</p>
-
-            </div>
         </div>
-        <div class="row featurette marginbottomtop30">
 
-           <div class="col-md-2"></div>
-           <div class="col-md-8 center">
-           <div class="white">
-                <p class="quotenew">Hydroponic growing advances food safety and traceability that customers, retailers, and even food regulators are demanding.</p>
-            <div class="author white">
-        <!--    <p>Carol L. Stimmel, founder and CEO of Manifest Mind, LLC.</p> -->
-            <p>CAROL L. STIMMEL, FOUNDER AND CEO OF MANIFEST MIND, LLC.</p>
+        <div id="smartponicsmarket">
+          <div class="container">
+
+            <h3 class="bs-docs-featurette-title nextproject white">Market Analysis</h3>
+            <hr class="featurette-divider white">
+
+            <div class="row featurette marginbottomtop30">
+              <div class="col-md-6 vcenter">
+                <h3 class="bold">$24.3B</h3>
+                <p class="thin">2018</p>
+                <p class="thin">MARKET SIZE</p>
+              </div>
+              <div class="col-md-5 vcenter">
+                <h3 class="bold">6.5%</h3>
+                <p class="thin">ANNUAL</p>
+                <p class="thin">GROWTH RATE</p>
+
+              </div>
             </div>
+            <div class="row featurette marginbottomtop30">
+
+              <div class="col-md-2"></div>
+              <div class="col-md-8 center">
+                <div class="white">
+                  <p class="quotenew">Hydroponic growing advances food safety and traceability that customers, retailers, and even food regulators are demanding.</p>
+                  <div class="author white">
+                    <!--    <p>Carol L. Stimmel, founder and CEO of Manifest Mind, LLC.</p> -->
+                    <p>CAROL L. STIMMEL, FOUNDER AND CEO OF MANIFEST MIND, LLC.</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-2"></div>
+            </div>
+
+
           </div>
-           </div>
-           <div class="col-md-2"></div>
-    </div>
 
 
-</div>
+        </div>
 
-
-</div>
-
-<div class="container">
+        <div class="container">
           <h3 class="bs-docs-featurette-title nextproject">Persona</h3>
           <hr class="featurette-divider">
-
-    <ul id="portfolio-demo">
-    <li>
-      <a href="#slide1"><img style="max-width: 100%; margin: 0 auto" src="images/smartponics_persona_1.png"></a>
-    </li>
-    <li>
-      <a href="#slide2"><img style="max-width: 100%; margin: 0 auto" src="images/smartponics_persona_2.png"></a>
-    </li>
-    <li>
-      <a href="#slide3"><img style="max-width: 100%; margin: 0 auto" src="images/smartponics_persona_3.png"></a>
-    </li>
-  </ul>
-
+          <div class="row featurette">
+            <ul id="portfolio-demo">
+              <li>
+                <a href="#slide1"><img style="max-width: 100%; margin: 0 auto" src="images/smartponics_persona_1.png"></a>
+              </li>
+              <li>
+                <a href="#slide2"><img style="max-width: 100%; margin: 0 auto" src="images/smartponics_persona_2.png"></a>
+              </li>
+              <li>
+                <a href="#slide3"><img style="max-width: 100%; margin: 0 auto" src="images/smartponics_persona_3.png"></a>
+              </li>
+            </ul>
+          </div>
           <h3 class="bs-docs-featurette-title nextproject">Sketch</h3>
           <hr class="featurette-divider">
-          <a class="example-image-link" href="images/smartponics_sketchnotebook.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/smartponics_sketchnotebook.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>
-
+          <div class="row featurette">
+            <a class="example-image-link" href="images/smartponics_sketchnotebook.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/smartponics_sketchnotebook.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>
+          </div>
           <h3 class="bs-docs-featurette-title nextproject">Moodboard</h3>
           <hr class="featurette-divider">
-          <a class="example-image-link" href="images/smartponics_moodboard.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/smartponics_moodboard.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>
-
+          <div class="row featurette">
+            <a class="example-image-link" href="images/smartponics_moodboard.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/smartponics_moodboard.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>
+          </div>
 
           <h3 class="bs-docs-featurette-title nextproject">User Flow</h3>
           <hr class="featurette-divider">
-          <a class="example-image-link" href="images/smartponics_userflow.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/smartponics_userflow.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>
-
+          <div class="row featurette">
+            <a class="example-image-link" href="images/smartponics_userflow.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/smartponics_userflow.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>
+          </div>
           <h2 class="bs-docs-featurette-title nextproject">Wireframe</h2>
           <hr class="featurette-divider">
+          <div class="row featurette">
+            <a class="example-image-link" href="images/smartponics_wireframe_1.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/smartponics_wireframe_1.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>
 
-          <a class="example-image-link" href="images/smartponics_wireframe_1.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/smartponics_wireframe_1.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>
+            <a class="example-image-link" href="images/smartponics_wireframe_2.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/smartponics_wireframe_2.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>
 
-          <a class="example-image-link" href="images/smartponics_wireframe_2.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/smartponics_wireframe_2.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>
+            <a class="example-image-link" href="images/smartponics_wireframe_3.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/smartponics_wireframe_3.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>
 
-          <a class="example-image-link" href="images/smartponics_wireframe_3.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/smartponics_wireframe_3.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>
-
-          <a class="example-image-link" href="images/smartponics_wireframe_4.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/smartponics_wireframe_4.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>
-
+            <a class="example-image-link" href="images/smartponics_wireframe_4.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/smartponics_wireframe_4.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>
+          </div>
 
           <h3 class="bs-docs-featurette-title nextproject ">Usability Testing and Key Findings</h3>
           <hr class="featurette-divider">
@@ -251,7 +254,8 @@
               <p>Our goals were to observe seamless navigation and setup by users with minimal confusion. We tested 10 participants. Our methodology was as follows:</p>
               <p>We began the study by sending users a confirmation email that their SmartPonics account had been created and their apartment manager had assigned them three hydroponic boxes. This “Welcome” email set the context for the user, eliciting the
                 expectation that they would be setting up the application during the test. We had users complete four tasks, described below, and took notes on whether their experience was as fluid as we hoped, noting where user doubt and misdirection
-                occurred.</p>
+                occurred.
+              </p>
             </div>
             <div class="col-md-7">
               <a class="example-image-link" href="images/usabilitytesting-smartponics.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/usabilitytesting-smartponics.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>
