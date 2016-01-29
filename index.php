@@ -102,7 +102,7 @@
 
 
               <div class="col-md-7">
-                <h3 class="featurette-heading ">Glassdoor <i class="fa fa-fw fa-desktop"></i> <i class="fa fa-fw fa-android"></i><br><span class="text-muted">UX/UI Design Intern</span></h3>
+                <h3 class="featurette-heading ">Glassdoor <i class="fa fa-fw fa-desktop"></i> <br><span class="text-muted">UX/UI Design Intern</span></h3>
                 <p>An online community to help you find a job and company you love.</p>
 
               </div>
