@@ -19,10 +19,10 @@
                         <a href="#page-top"></a>
                     </li>
                     <li>
-                        <a class="page-scroll white" href="index.php#expertise">Expertise</a>
+                        <a class="page-scroll white" href="http://ruiyizhou.com#expertise">Expertise</a>
                     </li>
                     <li>
-                        <a class="active white" href="index.php#portfolio">Portfolio</a>
+                        <a class="active white" href="http://ruiyizhou.com#portfolio">Portfolio</a>
                     </li>
                     <li>
                         <a class="page-scroll white" href="RuiyiZhou-MS-HCDE.pdf">Resume</a>
