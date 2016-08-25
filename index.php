@@ -38,8 +38,8 @@
 
           <div class="container animated fadeIn">
             <div class="titlename margin15">
-              <p style="margin-top:25%;">Hi, I'm Ruiyi Zhou.</p>
-              <p style="font-size:16px; font-weight:200">UX/UI Designer | With additional experience in product management and front-end development.</p>
+              <p style="margin-top:20%;">Hi, I'm Ruiyi Zhou.</p>
+              <p style="font-size:16px;">UX/UI Designer | With additional experience in product management and front-end development.</p>
               <p>
                 <a class="btn btn-lg btn-default btn-align text-center" href="#portfolio">See My Projects</a>
 
@@ -213,6 +213,8 @@
 
             <div class="row">
 
+              <a class="example-image-link" href="images/books/mobilefirst.png" data-lightbox="example-1"><img class="example-image small75 lazy" src="images/books/mobilefirst.png" alt="image-1" /></a>
+
               <a class="example-image-link" href="images/book_madetostick.jpeg" data-lightbox="example-1"><img class="example-image small75 lazy" src="images/book_madetostick.jpeg" alt="image-1" /></a>
 
               <a class="example-image-link" href="https://d.gr-assets.com/books/1442616448l/41597.jpg" data-lightbox="example-1"><img class="example-image small75 lazy" src="https://d.gr-assets.com/books/1442616448l/41597.jpg" alt="image-1" /></a>
@@ -256,6 +258,10 @@
               <a class="example-image-link" href="images/books/thetippingpoint.jpg" data-lightbox="example-1"><img class="example-image small75 lazy" src="images/books/thetippingpoint.jpg" alt="image-1" /></a>
 
               <a class="example-image-link" href="images/books/leanux.jpg" data-lightbox="example-1"><img class="example-image small75 lazy" src="images/books/leanux.jpg" alt="image-1" /></a>
+
+              <a class="example-image-link" href="images/books/designinginterfaces.jpg" data-lightbox="example-1"><img class="example-image small75 lazy" src="images/books/designinginterfaces.jpg" alt="image-1" /></a>
+
+              <a class="example-image-link" href="images/books/designingmulti-deviceexperiences.jpg" data-lightbox="example-1"><img class="example-image small75 lazy" src="images/books/designingmulti-deviceexperiences.jpg" alt="image-1" /></a>
 
               <a class="example-image-link" href="images/books/notbychancealone.jpg" data-lightbox="example-1"><img class="example-image small75 lazy" src="images/books/notbychancealone.jpg" alt="image-1" /></a>
 

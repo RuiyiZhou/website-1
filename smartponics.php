@@ -81,8 +81,31 @@
             <blockquote>How can we use technology to help people without access to conventional gardens grow plants easily in urban environments?</p>
             </blockquote>
           </div>
+        </div>
 
 
+        <div style="background-color: #fafafa;">
+          <div class="container">
+            <div class="padding70">
+            <div class="row featurette">
+              <div class="col-md-6">
+              <a class="example-image-link" href="images/smartponics_visual1.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/smartponics_visual1.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>
+            </div>
+            <div class="col-md-1"></div>
+            <div class="col-md-5">
+              <img src="images/smartponics_logo.png" style="width: 300px"/>
+              <div class="padding70">
+              <p>Growing your food today.</p> 
+              <p>Just relax and wait for the harvest.</p>
+              <p>Let Smartponics do the tedious work, guaranteeing the best temperature and nutrients.</p>
+            </div>
+            </div>
+          </div>
+        </div>
+          </div>
+        </div>
+
+        <div class="container">
           <div class="row margintop50">
             <div class="col-md-7" style="float: none; margin: 0 auto; text-align: center">
               Our prefabricated, remotely controlled hydroponics system provides a vegetable growth medium for urban apartment buildings with little or no gardening space. The SmartPonics is a rooftop based hydroponic system that users can interact with via phone,
@@ -261,10 +284,33 @@
               <a class="example-image-link" href="images/usabilitytesting-smartponics.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/usabilitytesting-smartponics.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>
             </div>
           </div>
+        </div>
+
+        <div style="background-color: #fafafa;">
+          <div class="container">
+          <h3 class="bs-docs-featurette-title nextproject">Final Product</h3>
+          <hr class="featurette-divider">
+            <div class="padding70">
+            <div class="row featurette">
+              <div class="col-md-6">
+              <a class="example-image-link" href="images/smartponics_visual1.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/smartponics_visual1.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>
+            </div>
+            <div class="col-md-1"></div>
+            <div class="col-md-5">
+              <img src="images/smartponics_logo.png" style="width: 300px"/>
+              <div class="padding70">
+              <p>Growing your food today.</p> 
+              <p>Just relax and wait for the harvest.</p>
+              <p>Let Smartponics do the tedious work, guaranteeing the best temperature and nutrients.</p>
+            </div>
+            </div>
+          </div>
+        </div>
+          </div>
+        </div>
 
 
-
-
+         <div class="container">
           <h3 class="bs-docs-featurette-title nextproject">Next Project</h3>
           <hr class="featurette-divider">
 

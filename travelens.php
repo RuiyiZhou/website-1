@@ -38,9 +38,6 @@
             <div class="titlename margin15">
               <p style="margin-top:20%">TraveLENS</p>
               <p style="font-size:1em">A travel data visualization that helps travelers and investors find goals.</p>
-              <p><a class="btn btn-lg btn-default btn-align text-center" href="Final_Presentation_TraveLENS.pdf" target="_blank" role="button">Final Presentation</a>
-                <a class="btn btn-lg btn-default btn-align text-center" href="Resources/TraveLens_Group1_final3.pdf" target="_blank" role="button">Final Paper</a>
-              </p>
             </div>
           </div>
       </div>
@@ -131,10 +128,38 @@
             <a class="example-image-link" href="images/travelens_competitive.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/travelens_competitive.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>
           </div>
 
+          <h3 class="nextproject ">Ideation</h3>
+          <hr class="featurette-divider">
+          <div class="row featurette">
+            <a class="example-image-link" href="images/travelens_ideation.jpg" data-lightbox="example-1"><img class="example-image img-responsive" src="images/travelens_ideation.jpg" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>
+          </div>
+
+              <h3 class="bs-docs-featurette-title nextproject ">Narrow Down Scope</h3>
+              <hr class="featurette-divider">
+              <div class="row featurette">
+                <div class="col-md-6">
+                  <h3>Hypotheses</h3>
+                  <ul>
+                  <li>Our target users prefer TraveLENS to obtain information about various <b> travel risk factors </b> over disparate text and online sources. </li>
+                  <li>Our target users can <b> efficiently compare and contrast risk factors </b> of different countries using TraveLENS. </li>
+                  </ul>
+
+                </div>
+                <div class="col-md-6">
+                  <h3>Design Concept</h3>
+                <p>The concept behind TraveLENS is to <b> provide a single destination </b> for a variety of information regarding travel and to <b> help people make informed decisions </b> and preparations for their travel plans with user-friendly visualization of multiple data sources.</p>
+                </div>
+              </div>
+
+
+          <h3 class="nextproject ">Persona</h3>
+          <hr class="featurette-divider">
+          <div class="row featurette">
+            <a class="example-image-link" href="images/travelens_personas.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/travelens_personas.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>
+          </div>
+
           <h3 class="nextproject">Data Sets</h3>
           <hr class="featurette-divider">
-
-
           <div class="row featurette marginbottomtop30">
             <div class="col-md-5 vcenter">
 
@@ -148,19 +173,7 @@
             </div>
             <div class="col-md-6 vcenter">
               <a class="example-image-link" href="images/travelens_datasets.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/travelens_datasets.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>
-
             </div>
-          </div>
-
-          <h3 class="nextproject ">Ideation</h3>
-          <hr class="featurette-divider">
-          <div class="row featurette">
-            <a class="example-image-link" href="images/travelens_ideation.jpg" data-lightbox="example-1"><img class="example-image img-responsive" src="images/travelens_ideation.jpg" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>
-          </div>
-          <h3 class="nextproject ">Persona</h3>
-          <hr class="featurette-divider">
-          <div class="row featurette">
-            <a class="example-image-link" href="images/travelens_personas.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/travelens_personas.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>
           </div>
 
           <h3 class="nextproject ">Design Process</h3>
@@ -225,7 +238,7 @@
 
 
 
-        <div style="background-color: #E1FFFB;">
+        <div style="background-color: #fafafa;">
           <div class="container" style="padding:15px">
             <h3>Round 2</h3>
             <div class="row featurette">
@@ -330,7 +343,7 @@
               <hr class="featurette-divider">
               <div class="row featurette">
                 <div class="col-md-5">
-                  <h3>What I Learned</h3>
+                  <h3>What I've Learned</h3>
                   <ul>
                     <li>Fancy visualizations are hard to interpret</li>
                     <li>Getting actual data sets as early as possible, which helps a lot with narrowing down the scope and getting to know the limitations</li>

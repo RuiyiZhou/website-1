@@ -103,16 +103,16 @@
             <div class="col-md-5 vcenter">
 
               <h3>Data Visualization</h3>
-              <p>Employer Center is the <b>B2B</b> site to connect the employers with the potential candidates. I redesigned the <b>data visualization</b> pages in the EC site. One of the challenges was to design specifically for the user group of the EC
-                site: HRs, hiring managers, etc., who didn’t necessarily have a technical background, so might be easily confused by fancy visualizations like small multiples or scatter plots.</p>
+              <p>Employer Center is the <b>B2B</b> site to connect the employers with the potential candidates. I redesigned the <b>data visualization</b> pages on the Employer Center site to <b> increase the usability </b> and <b> reduce the potential confusion </b> caused by visualizations. One of the challenges was to design specifically for the user group of the EC
+                site: <b> people-driven </b> HRs, hiring managers, etc., who didn’t necessarily have a technical background, so might be easily confused by fancy visualizations like small multiples or scatter plots.</p>
 
             </div>
             <div class="col-md-6 vcenter">
-              <a class="example-image-link" href="images/glassdoor-viz.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/glassdoor-viz.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>
+           <img class="example-image img-responsive" src="images/glassdoor-viz.png" style="max-width: 100%; margin:0 auto" />
 
 
             </div>
-            <a class="example-image-link" href="images/glassdoor_dataviz.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/glassdoor_dataviz.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>
+           <img class="example-image img-responsive" src="images/glassdoor_dataviz.png" alt="image-1" style="max-width: 100%; margin:0 auto" />
           </div>
 
         </div>
@@ -129,11 +129,11 @@
 
               </div>
               <div class="col-md-6 vcenter">
-                <a class="example-image-link" href="images/glassdoor-as.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/glassdoor-as.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>
+                <img class="example-image img-responsive" src="images/glassdoor-as.png" alt="image-1" style="max-width: 100%; margin:0 auto" />
               </div>
 
 
-              <a class="example-image-link" href="images/glassdoor_activitystream.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/glassdoor_activitystream.png" alt="image-1" style="max-width: 80%; margin:0 auto" /></a>
+              <img class="example-image img-responsive" src="images/glassdoor_activitystream.png" alt="image-1" style="max-width: 80%; margin:0 auto" />
             </div>
           </div>
         </div>
@@ -150,9 +150,9 @@
             </div>
 
             <div class="col-md-6 vcenter">
-              <a class="example-image-link" href="images/glassdoor_opencompany.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/glassdoor_opencompany.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>
+             <img class="example-image img-responsive" src="images/glassdoor_opencompany.png" alt="image-1" style="max-width: 100%; margin:0 auto" />
             </div>
-            <a class="example-image-link" href="images/glassdoor_opencompanyrule.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/glassdoor_opencompanyrule.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>
+            <img class="example-image img-responsive" src="images/glassdoor_opencompanyrule.png" alt="image-1" style="max-width: 100%; margin:0 auto" />
           </div>
 
 
@@ -174,7 +174,7 @@
               </ul>
             </div>
             <div class="col-md-6 vcenter">
-              <a class="example-image-link" href="images/glassdoor-survey.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/glassdoor-survey.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>
+              <img class="example-image img-responsive" src="images/glassdoor-survey.png" alt="image-1" style="max-width: 100%; margin:0 auto"/>
 
             </div>
           </div>
@@ -184,12 +184,12 @@
           <hr class="featurette-divider">
           <div class="row featurette marginbottomtop30">
 
-            <p>I built several interactive prototypes, using proto.io or manually coding. proto.io is a quick way to build interactive prototype, but still limited. Prototypes built by coding could better mimic the real web pages and apps. Below is a fully
-              interactive prototype of the Job Slots Management I built using HTML/CSS and jQuery.</p>
+            <p>I built several interactive prototypes, using proto.io or manually coding. <b> Proto.io </b> is a quick way to build interactive prototype, but still limited. Prototypes built by coding could better mimic the real web pages and apps. Below is a fully
+              interactive prototype of the Job Slots Management I built using <b> HTML/CSS and jQuery </b>.</p>
 
             <img style="max-width: 100%; margin:0 auto" src="images/glassdoor_jobslot.gif"></img>
 
-            <h3 class="center"><a class="btn btn-align btn-default btn-inline text-center" href="JobSlotManagement/index.html" target="_blank" role="button">Try  It Now</a></h3>
+            <h3 class="center"><a class="btn btn-align btn-default btn-inline text-center" href="JobSlotManagement/index.html" target="_blank" role="button">Try It Now</a></h3>
 
           </div>
 
@@ -198,11 +198,11 @@
           <div class="row featurette marginbottomtop30">
             <div class="col-md-5 vcenter">
               <h3>Job Search User Journey Map</h3>
-              <p>Jobs. Jobs. Jobs. It’s all about jobs. The current user flow of job searching and application was not optimal. To start optimizing it, I worked to put together the user journey map and then called out the bad experience. I also conducted
-                competitive analysis to evaluate the experience of using main competitors's products.</p>
+              <p>Jobs. Jobs. Jobs. It’s all about jobs. The current user flow of job searching and application was not optimal. To start optimizing it, I worked to put together the <b> user journey map </b> and then called out the bad experience. I also conducted
+               <b> competitive analysis </b> to evaluate the experience of using main competitors's products.</p>
             </div>
             <div class="col-md-6 vcenter">
-              <a class="example-image-link" href="images/glassdoor-userflow.jpg" data-lightbox="example-1"><img class="example-image img-responsive" src="images/glassdoor-userflow.jpg" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>
+              <img class="example-image img-responsive" src="images/glassdoor-userflow.jpg" alt="image-1" style="max-width: 100%; margin:0 auto" />
 
             </div>
           </div>
@@ -221,7 +221,25 @@
             </div>
           </div>
 
+              <h3 class="bs-docs-featurette-title nextproject ">Reflection</h3>
+              <hr class="featurette-divider">
+              <div class="row featurette">
+                <div class="col-md-5">
+                  <h3>What I've Learned</h3>
+                  <ul>
+                    <li>The whole design process needs to be tailored to fit specific projects</li>
+                    <li>The skill to articulate design decisions is crucial</li>
+                    <li>Data-driven design starts will goals, not data</li>
+                  </ul>
 
+                </div>
+                <div class="col-md-7">
+                  <h3>What Else</h3>
+                  <ul>
+                    <li>San Francisco is cold at night, even in summer</li>
+                  </ul>
+                </div>
+              </div>
 
           <h3 class="bs-docs-featurette-title nextproject">Next Project</h3>
           <hr class="featurette-divider">

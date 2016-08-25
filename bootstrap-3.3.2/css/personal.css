@@ -119,7 +119,7 @@ img.homeimage {
 
 
 .titlename p{
-    font-size: 3.75em;
+    font-size: 3.5em;
     color: #ffffff;
 }
 
@@ -472,4 +472,9 @@ p.quotenew {
   font-size: 1.5em;
   font-weight: 500;
 
+}
+
+.padding70 {
+  padding-top: 70px;
+  padding-bottom: 70px;
 }

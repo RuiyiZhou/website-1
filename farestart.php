@@ -88,7 +88,7 @@
             </div>
           </div>
           <div class="row featurette">
-            <a class="example-image-link" href="images/farestarthomepage.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/farestarthomepage.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>
+            <img class="example-image img-responsive" src="images/farestarthomepage.png" alt="image-1" style="max-width: 100%; margin:0 auto" />
           </div>
 
           <h3 class="nextproject">Goals</h3>
@@ -97,7 +97,7 @@
 
             <div class="col-md-5 vcenter">
               <ul>
-                <li> Update the site to match advances in technology. Success will be measured by the implementation of a <b>responsive or mobile-friendly design</b></li>
+                <li>Update the site to match advances in technology. Success will be measured by the implementation of a <b>responsive or mobile-friendly design</b></li>
                 <li>Make it easier to understand and/or discover different parts of the organization and its offerings. Success will be measured by <b>perceived effectiveness</b> of the site</li>
                 <li>Provide relevant info for each of the specific audiences (students, catering customers, donors, etc) to fulfill their needs. Success will be measured by improved <b>task efficiency and reduced error rate</b></li>
               </ul>
@@ -115,18 +115,18 @@
           <h3 class="nextproject">Research</h3>
           <hr class="featurette-divider">
           <div class="row featurette">
-            <a class="example-image-link" href="images/farestart-researchmethod.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/farestart-researchmethod.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>
+            <img class="example-image img-responsive" src="images/farestart-researchmethod.png" alt="image-1" style="max-width: 100%; margin:0 auto" />
 
           </div>
           <h3>Key Findings</h3>
           <div class="row featurette">
-            <a class="example-image-link" href="images/farestart-research.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/farestart-research.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>
+            <img class="example-image img-responsive" src="images/farestart-research.png" alt="image-1" style="max-width: 100%; margin:0 auto" />
           </div>
 
           <h3 class="nextproject">Design Principle</h3>
           <hr class="featurette-divider">
           <div class="row featurette">
-            <a class="example-image-link" href="images/farestart_designprinciple.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/farestart_designprinciple.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>
+            <img class="example-image img-responsive" src="images/farestart_designprinciple.png" alt="image-1" style="max-width: 100%; margin:0 auto" />
           </div>
 
           <h3 class="bs-docs-featurette-title nextproject">Persona</h3>
@@ -157,15 +157,15 @@
             </div>
             <div class="col-md-6 vcenter">
 
-              <a class="example-image-link" href="images/iadiscussion.jpg" data-lightbox="example-1"><img class="example-image img-responsive" src="images/iadiscussion.jpg" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>
+             <img class="example-image img-responsive" src="images/iadiscussion.jpg" alt="image-1" style="max-width: 100%; margin:0 auto" />
 
             </div>
           </div>
           <div class="row featurette">
-            <a class="example-image-link" href="images/cardsorting.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/cardsorting.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>
+            <img class="example-image img-responsive" src="images/cardsorting.png" alt="image-1" style="max-width: 100%; margin:0 auto" />
           </div>
           <div class="row featurette">
-            <a class="example-image-link" href="images/ia.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/ia.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>
+          <img class="example-image img-responsive" src="images/ia.png" alt="image-1" style="max-width: 100%; margin:0 auto" />
           </div>
 
 
@@ -178,30 +178,30 @@
           <h3 class="nextproject">Usability Study</h3>
           <hr class="featurette-divider">
           <div class="row featurette">
-            <a class="example-image-link" href="images/farestart-usabilitytestscenario.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/farestart-usabilitytestscenario.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>
+            <img class="example-image img-responsive" src="images/farestart-usabilitytestscenario.png" alt="image-1" style="max-width: 100%; margin:0 auto" />
           </div>
 
           <h3 class="nextproject">Design Changes Based on Key Findings</h3>
           <hr class="featurette-divider">
           <p>1. Secondary horizontal navigation bar was not intuitive enough. So we changed to vertical sidebar.</p>
           <div class="row featurette">
-            <a class="example-image-link" href="images/farestart-keyfinding-1.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/farestart-keyfinding-1.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>
+            <img class="example-image img-responsive" src="images/farestart-keyfinding-1.png" alt="image-1" style="max-width: 100%; margin:0 auto" />
           </div>
 
           <p>2. Descriptions were wordy. We rewrote the content to make it simple and concise.</p>
           <div class="row featurette">
-            <a class="example-image-link" href="images/farestart-keyfinding-2.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/farestart-keyfinding-2.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>
+            <img class="example-image img-responsive" src="images/farestart-keyfinding-2.png" alt="image-1" style="max-width: 100%; margin:0 auto" />
           </div>
 
           <p>3. It was not visually appealing. We improved the visual design.</p>
           <div class="row featurette">
-            <a class="example-image-link" href="images/farestart-keyfinding-3.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/farestart-keyfinding-3.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>
+            <img class="example-image img-responsive" src="images/farestart-keyfinding-3.png" alt="image-1" style="max-width: 100%; margin:0 auto" />
           </div>
 
           <h3 class="nextproject">Final Prototype</h3>
           <hr class="featurette-divider">
           <div class="row featurette">
-            <a class="example-image-link" href="images/farestart_sitemap.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/farestart_sitemap.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>
+            <img class="example-image img-responsive" src="images/farestart_sitemap.png" alt="image-1" style="max-width: 100%; margin:0 auto" />
           </div>
           <div class="row featurette">
             <h3 class="center"><a class="btn btn-align btn-default btn-inline text-center" href="http://hcxwfn.axshare.com/home.html" target="_blank" role="button">Try It Now</a></h3>
@@ -215,6 +215,7 @@
               <ul>
                 <li>Data-Driven Design, I used Google Analytics to help make design decisions</li>
                 <li>Mobile-first is hard, espicially when the majority of current users used desktop</li>
+                <li>Card sorting is not the end, it's just the beginning</li>                
               </ul>
 
             </div>
