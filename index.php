@@ -26,6 +26,11 @@
 
       </script>
       <script src="js/jquery.lazyload.js"></script>
+
+<script>
+      // Display an info toast with no title
+toastr.info('Hi there! Check out my new Medium story!')
+</script>
   </head>
 
   <body>

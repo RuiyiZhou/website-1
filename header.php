@@ -13,12 +13,14 @@
     <link rel="stylesheet" href="css/lightbox.css"> 
     <link rel="icon" href="favicon.ico" type="image/x-icon" />
     <link rel="stylesheet" href="css/slippry.css">
+    <link rel="stylesheet" href="css/toastr.css">
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
     <link rel="icon" href="favicon.ico" type="image/x-icon" />
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <script src="js/slippry.min.js"></script>
     <script src="bootstrap-3.3.2/js/bootstrap.min.js"></script>
     <script src="animation.js"></script>
+    <script src="js/toastr.js"></script>
     <script src="js/modernizr.custom.97074.js"></script>
     <script src="js/scrollbacktotop.js"></script> 
     <!-- Parallax Scrolling -->
