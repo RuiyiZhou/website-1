@@ -5,7 +5,7 @@
 
     <?php include('header.php'); ?>
 
-      <title>SmartPonics</title>
+      <title>Family Circle</title>
       <script>
         (function(i, s, o, g, r, a, m) {
           i['GoogleAnalyticsObject'] = r;
@@ -30,13 +30,13 @@
     <?php include('float_navigation.php'); ?>
 
       <!--Home image-->
-      <div class="parallax-window" data-parallax="scroll" data-image-src="images/smartponicstheme2.jpg">
+      <div class="parallax-window" data-parallax="scroll" data-image-src="images/familycircletheme.jpg">
 
         <?php include('fixed_navigation.php'); ?>
 
           <div class="container animated fadeIn">
             <div class="titlename margin15">
-              <p style="margin-top:20%">Family Circle (in progress)</p>
+              <p style="margin-top:20%">Family Circle</p>
               <p style="font-size:1em">Connect distributed families better.</p>
 
             </div>
@@ -55,7 +55,7 @@
               </div>
               <div class="col-md-3">
                 <h3>Duration<i class="fa fa-fw fa-calendar-o"></i></h3>
-                <p>01/2016 - Present</p>
+                <p>01/2016 - 03/2016</p>
               </div>
               <div class="col-md-3">
                 <h3>Methods<i class="fa fa-fw fa-book"></i></h3>
@@ -87,6 +87,19 @@ Distributed families encounter challenges when connecting with family members ac
             </div>
           </div>
 
+          <h3 class="bs-docs-featurette-title nextproject">Product Video</h3>
+          <hr class="featurette-divider">
+
+       <div class="row">
+            <div class="row featurette">
+              <div class="video-container">  
+                  <iframe src="https://player.vimeo.com/video/232761998?color=c9ff23&title=0&byline=0&portrait=0" width="1080" height="608" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+              </div>
+            </div>
+          </div>
+ 
+            
+            
           <h3 class="bs-docs-featurette-title nextproject">User Research</h3>
           <hr class="featurette-divider">
           <div class="row featurette">
@@ -120,21 +133,28 @@ Distributed families encounter challenges when connecting with family members ac
             <a class="example-image-link" href="images/fc-persona.png" data-lightbox="example-1"><img class="example-image img-responsive" src="images/fc-persona.png" alt="image-1" style="max-width: 100%; margin:0 auto" /></a>
          
          <div class="container">
-          <h3 class="bs-docs-featurette-title nextproject">Ideation</h3>
+          <h3 class="bs-docs-featurette-title nextproject">Final Product</h3>
           <hr class="featurette-divider">
+             
+
 
          <div class="container">
           <h3 class="bs-docs-featurette-title nextproject">Next Project</h3>
           <hr class="featurette-divider">
 
-          <div class="row featurette onhover" onclick="location.href='qqbrowser.php';" style="cursor: pointer;">
-            <div class="col-md-5">
-              <img class="featurette-image img-responsive" src="images/qqbrowser.png" alt="Generic placeholder image" style="width: 100%; ">
-            </div>
-            <div class="col-md-7">
-              <h3 class="featurette-heading">QQ Browser <br><span class="text-muted">Product Manager</span></h3>
-              <p>A top-ranked mobile browser run on Android platform designed specifically for Chinese users, had over 30 million daily active users.</p>
+          <div class="row featurette onhover opacity" onclick="location.href='glassdoor.php';" style="cursor: pointer;">
 
+              <div class="col-md-5">
+                <img class="featurette-image img-responsive " src="images/glassdoor.png" alt="Generic placeholder image" style="width: 100%;">
+              </div>
+
+
+              <div class="col-md-7">
+                <h3 class="featurette-heading ">Glassdoor <i class="fa fa-fw fa-desktop"></i> <br><span class="text-muted">B2B Employer Center</span></h3>
+                <p>An online community to help you find a job and company you love.</p>
+
+                </div>
+              </div>
             </div>
           </div>
         </div>

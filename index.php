@@ -99,6 +99,23 @@ toastr.info('Hi there! Check out my new Medium story!')
             <h3 class="bs-docs-featurette-title nextproject ">Portfolio</h3>
 
             <hr class="featurette-divider">
+              
+           <div class="row featurette onhover opacity" onclick="location.href='familycircle.php';" style="cursor: pointer;">
+
+              <div class="col-md-5">
+                <img class="featurette-image img-responsive " src="images/familycircle.png" alt="Generic placeholder image" style="width: 100%;">
+              </div>
+
+
+              <div class="col-md-7">
+                <h3 class="featurette-heading ">Family Circle <i class="fa fa-fw fa-mobile"></i> <br><span class="text-muted">Cross-Platform software</span></h3>
+                <p>Connect distributed families better.</p>
+
+              </div>
+
+
+            </div>
+
             <div class="row featurette onhover opacity" onclick="location.href='glassdoor.php';" style="cursor: pointer;">
 
               <div class="col-md-5">
@@ -107,7 +124,7 @@ toastr.info('Hi there! Check out my new Medium story!')
 
 
               <div class="col-md-7">
-                <h3 class="featurette-heading ">Glassdoor <i class="fa fa-fw fa-desktop"></i> <br><span class="text-muted">UX/UI Design Intern</span></h3>
+                <h3 class="featurette-heading ">Glassdoor <i class="fa fa-fw fa-desktop"></i> <br><span class="text-muted">B2B Employer Center</span></h3>
                 <p>An online community to help you find a job and company you love.</p>
 
               </div>
@@ -120,8 +137,8 @@ toastr.info('Hi there! Check out my new Medium story!')
                 <img class="featurette-image img-responsive " src="images/farestart.png" alt="Generic placeholder image" style="width: 100%; ">
               </div>
               <div class="col-md-7">
-                <h3 class="featurette-heading">FareStart <i class="fa fa-fw fa-desktop"></i> <i class="fa fa-fw fa-mobile"></i><br><span class="text-muted">UX Designer</span></h3>
-                <p>Redesign the FareStart website.</p>
+                <h3 class="featurette-heading">FareStart <i class="fa fa-fw fa-desktop"></i> <i class="fa fa-fw fa-mobile"></i><br><span class="text-muted">Responsive Website</span></h3>
+                <p>Redesign the website of a non-profit, social organization in Seattle..</p>
 
               </div>
             </div>
@@ -135,7 +152,7 @@ toastr.info('Hi there! Check out my new Medium story!')
 
 
               <div class="col-md-7">
-                <h3 class="featurette-heading ">TraveLENS <i class="fa fa-fw fa-windows"></i><br><span class="text-muted">UX/UI Designer</span></h3>
+                <h3 class="featurette-heading ">TraveLENS <i class="fa fa-fw fa-windows"></i><br><span class="text-muted">Data Visualization</span></h3>
 
                 <p>A travel data visualization that helps travelers and investors find their goals.</p>
 
@@ -150,7 +167,7 @@ toastr.info('Hi there! Check out my new Medium story!')
                 <img class="featurette-image img-responsive " src="images/smartponics.png" alt="Generic placeholder image" style="width: 100%; ">
               </div>
               <div class="col-md-7">
-                <h3 class="featurette-heading">SmartPonics <i class="fa fa-fw fa-apple"></i><br><span class="text-muted">UX/UI Designer</span></h3>
+                <h3 class="featurette-heading">SmartPonics <i class="fa fa-fw fa-apple"></i><br><span class="text-muted">iOS App</span></h3>
                 <p>A self-control rooftop hydroponics garden with mobile control that helps people grow plants easily.</p>
 
               </div>
@@ -162,7 +179,7 @@ toastr.info('Hi there! Check out my new Medium story!')
                 <img class="featurette-image img-responsive " src="images/qqbrowser.png" alt="Generic placeholder image" style="width: 100%; ">
               </div>
               <div class="col-md-7">
-                <h3 class="featurette-heading">QQ Browser  <i class="fa fa-fw fa-android"></i><br><span class="text-muted">Product Manager</span></h3>
+                <h3 class="featurette-heading">QQ Browser  <i class="fa fa-fw fa-android"></i><br><span class="text-muted">iOS and Android App</span></h3>
                 <p>A top-ranked mobile browser designed specifically for Chinese users, had over 30 million daily active users.</p>
 
               </div>

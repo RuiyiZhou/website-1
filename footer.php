@@ -29,24 +29,24 @@
 
                     <div class="footer-col col-md-3">
                         <h3>Right now</h3>
-                        <p>MS student at <a class="inline-link" href="http://www.hcde.washington.edu/">Human Centered Design and Engineering</a>, <a class="inline-link" href="http://www.washington.edu/">University of Washington</a>.</p>
+                        <p>UX Designer at <a class="inline-link" href="https://www.successfactors.com/en_us.html" target="_blank">SAP SuccessFactors</a> working on mobile (iOS and Android) products for <a class="inline-link" href="https://www.sap.com/products/human-resources-hcm.html" target="_blank">HCM</a>.</p>
                     </div>
                     
                     <div class="footer-col col-md-3">
                         <h3>Location</h3>
-                        <p>Seattle, Washington, 98115</p>
+                        <p>San Jose, California, 95136</p>
                     </div>
 
                     <div class="footer-col col-md-3">
                         <h3>Contact me</h3>
-                        <i class="fa fa-fw fa-envelope-o"></i><a class="inline-link" href="mailto:ryzhou@uw.edu">ryzhou@uw.edu</a><br>
+                        <i class="fa fa-fw fa-envelope-o"></i><a class="inline-link" href="mailto:ruiyizhou@hotmail.com">ruiyizhou@hotmail.com</a><br>
                     <i class="fa fa-fw fa-mobile"></i>206.383.9873<br>
                     </div>
                     
 
                 </div>
                  <div class="copyright">
-                    <p>Copyright &copy; Ruiyi Zhou</p>
+                    <p>Copyright &copy; Ruiyi Zhou, 2017</p>
                     </div>
             </div>
         </div>
@@ -55,7 +55,7 @@
 
     </div>
 <script src="js/lightbox.js"></script>  
-<script src="https://cdn.jsdelivr.net/scrollreveal.js/3.0.9/scrollreveal.min.js"></script>fil
+<script src="https://cdn.jsdelivr.net/scrollreveal.js/3.0.9/scrollreveal.min.js"></script>
 <script>
 
 jQuery('#portfolio-demo').slippry({

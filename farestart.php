@@ -39,7 +39,7 @@
           <div class="container animated fadeIn">
             <div class="titlename margin15">
               <p style="margin-top:20%">FareStart</p>
-              <p style="font-size:1em">Redesign of the website of a non-profit, social organization in Seattle.</p>
+              <p style="font-size:1em">Redesign the website of a non-profit, social organization in Seattle.</p>
 
             </div>
           </div>
@@ -243,7 +243,7 @@
 
 
             <div class="col-md-7">
-              <h3 class="featurette-heading ">TraveLENS <br><span class="text-muted">UX/UI Designer</span></h3>
+              <h3 class="featurette-heading ">TraveLENS <br><span class="text-muted">Data Visualization</span></h3>
               <p>A travel data visualization that helps travelers and investors find their goals.</p>
 
             </div>

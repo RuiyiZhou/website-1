@@ -370,7 +370,7 @@
                   <img class="featurette-image img-responsive" src="images/smartponics.png" alt="Generic placeholder image" style="width: 100%; ">
                 </div>
                 <div class="col-md-7">
-                  <h3 class="featurette-heading">SmartPonics <br><span class="text-muted">UX/UI Designer</span></h3>
+                  <h3 class="featurette-heading">SmartPonics <br><span class="text-muted">iOS App</span></h3>
                   <p>A self-control rooftop hydroponics garden with mobile control that helps people grow plants easily.</p>
 
                 </div>

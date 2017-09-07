@@ -319,7 +319,7 @@
               <img class="featurette-image img-responsive" src="images/qqbrowser.png" alt="Generic placeholder image" style="width: 100%; ">
             </div>
             <div class="col-md-7">
-              <h3 class="featurette-heading">QQ Browser <br><span class="text-muted">Product Manager</span></h3>
+              <h3 class="featurette-heading">QQ Browser <br><span class="text-muted">iOS and Android App</span></h3>
               <p>A top-ranked mobile browser run on Android platform designed specifically for Chinese users, had over 30 million daily active users.</p>
 
             </div>
